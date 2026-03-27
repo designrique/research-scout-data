@@ -1,0 +1,51 @@
+name: Notify on new findings
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'new_learnings.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Extract new findings
+        id: findings
+        run: |
+          DIFF=$(git diff HEAD~1 HEAD -- new_learnings.md | grep '^+- \*\*' | sed 's/^+//' || true)
+          COUNT=$(echo "$DIFF" | grep -c '\*\*' || true)
+
+          if [ "$COUNT" -eq 0 ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "skip=false" >> $GITHUB_OUTPUT
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+          {
+            echo "Research Scout encontrou $COUNT novidades em $(date '+%Y-%m-%d'):"
+            echo ""
+            echo "$DIFF"
+            echo ""
+            echo "---"
+            echo "Veja completo: https://github.com/${{ github.repository }}/blob/main/new_learnings.md"
+          } > /tmp/email_body.txt
+
+      - name: Send email notification
+        if: steps.findings.outputs.skip != 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "Research Scout — ${{ steps.findings.outputs.count }} novidades encontradas"
+          to: ${{ secrets.EMAIL_TO }}
+          from: Research Scout <${{ secrets.EMAIL_USERNAME }}>
+          body: file:///tmp/email_body.txt
