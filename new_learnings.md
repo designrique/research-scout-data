@@ -51,3 +51,21 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[YouTube lowers creator monetization threshold](https://blog.gainapp.com/social-media-updates/)** — YouTube dropped the follower requirement for earning sales commissions on video links from 1,000 to 500, opening affiliate revenue to smaller creators. Domain: Social Media.
 
 - **[YouTube Hype Leaderboards](https://socialbee.com/blog/social-media-news/)** — Wider rollout of community-led trending feature: users can "hype" a creator's video in its first 7 days, giving creators with under 500K subscribers a new path to the trending page. Domain: Social Media.
+
+### 2026-03-28
+
+- **[OpenAI gpt-oss](https://vertu.com/lifestyle/open-source-llm-leaderboard-2026-rankings-benchmarks-the-best-models-right-now/)** — OpenAI's first open-weight model family since GPT-2; gpt-oss-120b matches or outperforms o4-mini on AIME, MMLU, TauBench, and HealthBench benchmarks. Domain: AI & LLMs.
+
+- **[GLM-5 (Zhipu AI)](https://onyx.app/open-llm-leaderboard)** — Open-weight model currently leading Chatbot Arena with a score of 1451; features a 203K context window and is free to self-host, fine-tune, and deploy without restrictions. Domain: AI & LLMs.
+
+- **[NVIDIA Agent Toolkit (GTC 2026)](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)** — Open-source enterprise agent platform announced at GTC 2026 with 17 major adopters including Adobe, Salesforce, SAP, ServiceNow, CrowdStrike, and Atlassian; bundles models, runtime, security framework, and optimization libraries. Domain: AI & LLMs.
+
+- **[Figma MCP Server — AI Agents Write to Canvas](https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers/)** — Announced March 24, 2026: AI agents can now create and modify Figma design files directly via the Figma MCP server using existing components, variables, and tokens; integrates with Cursor, Warp, GitHub Copilot, Claude Code, and others. Domain: Design.
+
+- **[iOS 26 Liquid Glass](https://uxdesign.cc/10-ux-design-shifts-you-cant-ignore-in-2026-8f0da1c6741d)** — Apple's new UI material system shipping with iOS 26: a dynamic glassmorphic layer that refracts, distorts, and responds to context and light, marking a functional (not merely aesthetic) evolution of glassmorphism. Domain: Design.
+
+- **[Rowspace](https://techstartups.com/2026/03/02/top-startup-and-tech-funding-news-march-2-2025/)** — AI SaaS platform that aggregates deal documents, CRM data, and accounting software into a unified portfolio view for private equity firms; launched with $50M in combined seed and Series A funding led by Sequoia Capital. Domain: Business.
+
+- **[TikTok × Apple Music "Play Full Song"](https://socialbee.com/blog/tiktok-updates/)** — New in-app integration lets users tap to hear a complete track via Apple Music while scrolling TikTok without leaving the app, deepening the music-discovery loop for creators (requires Apple Music subscription). Domain: Social Media.
+
+- **[LinkedIn AI Interview (Hiring Pro)](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn Hiring Pro now lets employers send AI-generated, job-specific interview questions to applicants as an early hiring-funnel step, with AI-suggested ideal answers for the employer to review before sending. Domain: Social Media.
