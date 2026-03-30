@@ -8,22 +8,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-03-27
 
-- **[Gemini CLI](https://dev.to/lightningdev123/top-5-cli-coding-agents-in-2026-3pia)** — Google's terminal-based AI coding agent using a reason-and-act loop; strong on frontend tasks, UI generation, and code optimization directly from the shell. Domain: Dev Workflows.
-
-- **[IBM Carbon for AI](https://medium.com/@nyrakshak/top-10-design-systems-shaping-digital-products-in-2026-1873899fc13a)** — IBM's Carbon Design System now ships "Carbon for AI," a specialized framework with components for LLM chat interfaces and agentic status indicators. Domain: Design.
-
-- **[shadcn/ui dominance](https://yakhil25.medium.com/react-component-libraries-in-2026-the-definitive-guide-to-choosing-your-stack-fa7ae0368077)** — The copy-paste code ownership model pioneered by shadcn/ui makes it the fastest-growing library in the React ecosystem; developers favor code ownership over dependency management. Domain: Design.
-
-- **[LottieLabs Magic Animator](https://uxdesign.cc/the-most-popular-experience-design-trends-of-2026-3ca85c8a3e3d)** — Figma plugin that converts UI elements into animated Lottie sequences using AI, enabling motion design without dedicated motion designers. Domain: Design.
-
-- **[Alphabet acquires Wiz for $32B](https://www.pwc.com/us/en/industries/tmt/library/technology-deals-outlook.html)** — DOJ approved Google's $32B acquisition of cloud security company Wiz, the largest cybersecurity M&A deal on record and a signal of hyperscaler cloud security consolidation. Domain: Business.
-
-- **[Palo Alto Networks acquires CyberArk for $25B](https://www.bakermckenzie.com/en/insight/publications/guides/chambers-technology-ma-2026)** — Major identity security consolidation deal, part of a 77% surge in tech M&A driven by AI-related assets. Domain: Business.
-
-- **[Loki.Build](https://wellows.com/blog/saas-startups/)** — New AI-powered SaaS that generates studio-grade, conversion-optimized landing pages in minutes for marketers and startups, without coding. Domain: Business.
-
-- **[Saffron](https://www.startus-insights.com/innovators-guide/saas-startups/)** — Platform for evaluating software engineers on their ability to use AI coding agents; gives hiring teams visibility into how candidates build and debug with AI tools. Domain: Business.
-
 - **[Meta Graph API v25.0 & Marketing API v25.0](https://emplifi.io/resources/blog/social-media-updates/)** — Meta launched API v25.0 with the new Page Viewer metric replacing legacy reach metrics by mid-2026, and made Advantage+ Leads Campaigns available globally. Domain: Social Media.
 
 - **[Instagram "Your Algo"](https://socialbee.com/blog/social-media-news/)** — Rolling out to all English-speaking users globally, allowing fine-grained control over Reels feed by adding or removing topics of interest. Domain: Social Media.
@@ -71,3 +55,21 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[AMI Labs — Yann LeCun's $1.03B seed](https://aifundingtracker.com/ai-startup-funding-news-today/)** — Largest European seed round ever, raised to build world models based on JEPA (Joint Embedding Predictive Architecture) as an alternative to autoregressive text prediction; backed by Bezos, NVIDIA, Samsung, and Temasek. Domain: Business.
 
 - **[YouTube Recover Tab for Creators](https://brandnation.co.uk/news-insights/the-social-media-updates-to-know-in-march-2026/)** — Rolled out March 16, 2026: creators can now appeal for older videos and restore deleted content directly inside YouTube Studio, giving channels more control over their back catalogue. Domain: Social Media.
+
+### 2026-03-30
+
+- **[Claude 4.6 Opus](https://lmcouncil.ai/benchmarks)** — Anthropic's new flagship achieves 80.8% on SWE-bench Verified (narrowly edging Gemini 3.1 Pro at 80.6%) and debuts a 1M-token context window in beta with Agent Teams and effort controls for agentic use cases. Domain: AI & LLMs.
+
+- **[Gemini 3.1 Pro](https://lmcouncil.ai/benchmarks)** — Google DeepMind's latest flagship hits 77.1% on ARC-AGI-2 — more than doubling its predecessor's score — with tiered thinking levels (Low/Medium/High) at unchanged $2/$12 pricing. Domain: AI & LLMs.
+
+- **[Google Workspace CLI](https://innofy.co/blog/dev/google-workspace-cli-your-terminal-just-became-the-most-powerful-productivity-tool-you-own/)** — Open-source `gws` CLI lets developers control Gmail, Drive, Calendar, Docs, Sheets, and all Workspace services from the terminal; ships with a native MCP server, instantly exposing all Workspace as structured tools for any compatible AI client. Domain: Dev Workflows.
+
+- **[Untitled UI React](https://www.untitledui.com/blog/react-component-libraries)** — New open-source React component library built on Tailwind CSS v4.1, React Aria, and TypeScript v5.8; claims the largest collection of open-source React UI components available in 2026. Domain: Design.
+
+- **[IBM acquires Confluent for $11B](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-17-ibm-seals-the-deal-11-billion-confluent-acquisition-completes-reshaping-the-real-time-data-landscape)** — Completed March 2026; merges Confluent's Apache Kafka real-time streaming platform with IBM watsonx and hybrid cloud to eliminate latency bottlenecks in large-scale enterprise AI deployments. Domain: Business.
+
+- **[OpenAI raises $110B at $840B post-money valuation](https://aifundingtracker.com/top-50-ai-startups/)** — Closed February 27, 2026 — the largest private venture round ever recorded — cementing OpenAI as the world's most valuable private company; annualized revenue reportedly approaching $30B. Domain: Business.
+
+- **[X Creator Subscriptions 2.0](https://socialbee.com/blog/social-media-news/)** — X relaunched its creator monetization system with exclusive subscriber threads, a new management dashboard, a refreshed paywall UI, and a shareable subscriptions card for creator promotion. Domain: Social Media.
+
+- **[Instagram manual thumbnail editing](https://brandnation.co.uk/news-insights/the-social-media-updates-to-know-in-march-2026/)** — Instagram now lets users reposition and zoom thumbnails of any existing post directly on their profile grid, solving a long-standing aesthetic pain point for creators and brands. Domain: Social Media.
