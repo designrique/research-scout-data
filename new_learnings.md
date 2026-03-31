@@ -6,21 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-03-27
-
-- **[Meta Graph API v25.0 & Marketing API v25.0](https://emplifi.io/resources/blog/social-media-updates/)** — Meta launched API v25.0 with the new Page Viewer metric replacing legacy reach metrics by mid-2026, and made Advantage+ Leads Campaigns available globally. Domain: Social Media.
-
-- **[Instagram "Your Algo"](https://socialbee.com/blog/social-media-news/)** — Rolling out to all English-speaking users globally, allowing fine-grained control over Reels feed by adding or removing topics of interest. Domain: Social Media.
-
-- **[YouTube lowers creator monetization threshold](https://blog.gainapp.com/social-media-updates/)** — YouTube dropped the follower requirement for earning sales commissions on video links from 1,000 to 500, opening affiliate revenue to smaller creators. Domain: Social Media.
-
-- **[YouTube Hype Leaderboards](https://socialbee.com/blog/social-media-news/)** — Wider rollout of community-led trending feature: users can "hype" a creator's video in its first 7 days, giving creators with under 500K subscribers a new path to the trending page. Domain: Social Media.
-
 ### 2026-03-28
-
-- **[OpenAI gpt-oss](https://vertu.com/lifestyle/open-source-llm-leaderboard-2026-rankings-benchmarks-the-best-models-right-now/)** — OpenAI's first open-weight model family since GPT-2; gpt-oss-120b matches or outperforms o4-mini on AIME, MMLU, TauBench, and HealthBench benchmarks. Domain: AI & LLMs.
-
-- **[GLM-5 (Zhipu AI)](https://onyx.app/open-llm-leaderboard)** — Open-weight model currently leading Chatbot Arena with a score of 1451; features a 203K context window and is free to self-host, fine-tune, and deploy without restrictions. Domain: AI & LLMs.
 
 - **[NVIDIA Agent Toolkit (GTC 2026)](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)** — Open-source enterprise agent platform announced at GTC 2026 with 17 major adopters including Adobe, Salesforce, SAP, ServiceNow, CrowdStrike, and Atlassian; bundles models, runtime, security framework, and optimization libraries. Domain: AI & LLMs.
 
@@ -73,3 +59,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[X Creator Subscriptions 2.0](https://socialbee.com/blog/social-media-news/)** — X relaunched its creator monetization system with exclusive subscriber threads, a new management dashboard, a refreshed paywall UI, and a shareable subscriptions card for creator promotion. Domain: Social Media.
 
 - **[Instagram manual thumbnail editing](https://brandnation.co.uk/news-insights/the-social-media-updates-to-know-in-march-2026/)** — Instagram now lets users reposition and zoom thumbnails of any existing post directly on their profile grid, solving a long-standing aesthetic pain point for creators and brands. Domain: Social Media.
+
+### 2026-03-31
+
+- **[GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)** — OpenAI's new flagship released in three variants (standard, Thinking, Pro) with a 1M-token context window, 75% on OSWorld (surpassing the human expert baseline), and 57.7% on SWE-Bench Pro — the first model to hit frontier performance simultaneously across coding, computer use, and knowledge work benchmarks. Domain: AI & LLMs.
+
+- **[TypeScript 6.0](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/)** — Released March 23, 2026: the final TypeScript compiler built on JavaScript — `strict` now defaults to `true`, ES5 target and AMD/UMD/SystemJS module formats removed; explicitly sets the stage for a full Go-native rewrite in TypeScript 7.0. Domain: Dev Workflows.
+
+- **[Gemini Code Assist Agent Mode](https://blog.google/technology/developers/gemini-code-assist-free/)** — Google made Gemini Code Assist free for individuals (180,000 completions/month — 90× more than competing free tiers) and shipped fully autonomous Agent Mode on March 27, 2026, directly challenging GitHub Copilot's paid model. Domain: Dev Workflows.
+
+- **[Figma Slots](https://www.figma.com/blog/supercharge-your-design-system-with-slots/)** — Launched in open beta March 5, 2026: designers can now add, swap, and edit content inside component instances without detaching them, mirroring React children props and Vue slots and eliminating a core design-system maintenance pain point. Domain: Design.
+
+- **[Harvey AI $200M at $11B valuation](https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html)** — Legal AI startup raised $200M co-led by GIC and Sequoia on March 25, 2026 — valuation jumped from $3B to $11B in roughly 12 months — now deploying 25,000+ AI agents across most of the top 100 U.S. law firms, HSBC, and NBCUniversal. Domain: Business.
+
+- **[Instagram Plus](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/)** — Meta began testing Instagram's first paid subscription tier (~$1–2/month) on March 30, 2026 in Mexico, Japan, and the Philippines, offering 7 premium features including anonymous Story viewing, rewatch metrics, and 48-hour Story expiry. Domain: Social Media.
