@@ -6,20 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-03-28
-
-- **[NVIDIA Agent Toolkit (GTC 2026)](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)** — Open-source enterprise agent platform announced at GTC 2026 with 17 major adopters including Adobe, Salesforce, SAP, ServiceNow, CrowdStrike, and Atlassian; bundles models, runtime, security framework, and optimization libraries. Domain: AI & LLMs.
-
-- **[Figma MCP Server — AI Agents Write to Canvas](https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers/)** — Announced March 24, 2026: AI agents can now create and modify Figma design files directly via the Figma MCP server using existing components, variables, and tokens; integrates with Cursor, Warp, GitHub Copilot, Claude Code, and others. Domain: Design.
-
-- **[iOS 26 Liquid Glass](https://uxdesign.cc/10-ux-design-shifts-you-cant-ignore-in-2026-8f0da1c6741d)** — Apple's new UI material system shipping with iOS 26: a dynamic glassmorphic layer that refracts, distorts, and responds to context and light, marking a functional (not merely aesthetic) evolution of glassmorphism. Domain: Design.
-
-- **[Rowspace](https://techstartups.com/2026/03/02/top-startup-and-tech-funding-news-march-2-2025/)** — AI SaaS platform that aggregates deal documents, CRM data, and accounting software into a unified portfolio view for private equity firms; launched with $50M in combined seed and Series A funding led by Sequoia Capital. Domain: Business.
-
-- **[TikTok × Apple Music "Play Full Song"](https://socialbee.com/blog/tiktok-updates/)** — New in-app integration lets users tap to hear a complete track via Apple Music while scrolling TikTok without leaving the app, deepening the music-discovery loop for creators (requires Apple Music subscription). Domain: Social Media.
-
-- **[LinkedIn AI Interview (Hiring Pro)](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn Hiring Pro now lets employers send AI-generated, job-specific interview questions to applicants as an early hiring-funnel step, with AI-suggested ideal answers for the employer to review before sending. Domain: Social Media.
-
 ### 2026-03-29
 
 - **[DeepSeek-V3.2](https://onyx.app/open-llm-leaderboard)** — Latest DeepSeek release introducing DeepSeek Sparse Attention (DSA), a sparse attention mechanism that cuts compute for long-context inputs while preserving quality; pairs scaled RL to push reasoning into GPT-5 territory. Domain: AI & LLMs.
@@ -73,3 +59,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Harvey AI $200M at $11B valuation](https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html)** — Legal AI startup raised $200M co-led by GIC and Sequoia on March 25, 2026 — valuation jumped from $3B to $11B in roughly 12 months — now deploying 25,000+ AI agents across most of the top 100 U.S. law firms, HSBC, and NBCUniversal. Domain: Business.
 
 - **[Instagram Plus](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/)** — Meta began testing Instagram's first paid subscription tier (~$1–2/month) on March 30, 2026 in Mexico, Japan, and the Philippines, offering 7 premium features including anonymous Story viewing, rewatch metrics, and 48-hour Story expiry. Domain: Social Media.
+
+### 2026-04-01
+
+- **[Linux Foundation Agentic AI Foundation (AAIF)](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)** — Neutral open foundation unifying MCP (Anthropic), Goose (Block), and AGENTS.md (OpenAI) under a vendor-neutral home; platinum members include AWS, Google, Microsoft, and OpenAI, with the inaugural MCP Dev Summit scheduled April 2–3, 2026 in New York City. Domain: AI & LLMs.
+
+- **[Figma AI Image Editing Tools](https://www.contentgrip.com/figma-ai-image-editing-tools-update/)** — Figma launched Vectorize (AI raster-to-vector conversion) alongside three prompt-free tools — Erase object, Isolate object, and Expand image — all operating directly on the canvas without export/re-import, mirroring Adobe Firefly's feature set inside the design environment. Domain: Design.
+
+- **[Replit raises $400M at $9B valuation](https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/)** — Series D tripled Replit's valuation from $3B in six months, led by Georgian Partners; 150,000+ paying customers, $240M revenue in 2025 targeting $1B ARR in 2026, powered by new Agent 4 with AI-generated graphic design and 3D animation capabilities. Domain: Business.
+
+- **[Physical Intelligence in talks to raise $1B at $11B valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)** — Two-year-old general-purpose robotics AI startup founded by ex-DeepMind researchers reportedly seeking a $1B round that would double its valuation in four months, signalling surging investor appetite for physical AI beyond software agents. Domain: Business.
+
+- **[LinkedIn AI-powered conversational search](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn Premium members in the U.S. can now use natural-language queries (e.g., "find regulatory tech experts in Berlin") to discover people, posts, and pages without relying on traditional keyword filters, extending AI into professional network navigation. Domain: Social Media.
