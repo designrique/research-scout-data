@@ -8,16 +8,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-03-29
 
-- **[DeepSeek-V3.2](https://onyx.app/open-llm-leaderboard)** — Latest DeepSeek release introducing DeepSeek Sparse Attention (DSA), a sparse attention mechanism that cuts compute for long-context inputs while preserving quality; pairs scaled RL to push reasoning into GPT-5 territory. Domain: AI & LLMs.
-
-- **[Kimi K2.5 (Moonshot AI)](https://llm-stats.com/llm-updates)** — MIT-licensed open-weight model leading HumanEval at 99% and AIME at 96.1%; approaches proprietary frontier models on coding and reasoning benchmarks with no commercial-use restrictions. Domain: AI & LLMs.
-
-- **[Mistral Voxtral TTS](https://till-freitag.com/en/blog/open-source-llm-comparison)** — Mistral's first open-weight text-to-speech model, marking the company's expansion into audio generation alongside its existing text and code model lines. Domain: AI & LLMs.
-
-- **[GitHub Copilot Agent Mode GA](https://blog.logrocket.com/ai-dev-tool-power-rankings/)** — GitHub Copilot Agent Mode went generally available in March 2026 inside VS Code, enabling multi-step autonomous coding tasks; VS Code 1.110 also added MCP tool support and native browser integration alongside Claude and Codex agents. Domain: Dev Workflows.
-
-- **[Cursor Plugin Marketplace](https://www.programming-helper.com/tech/cursor-ide-2026-ai-powered-development-revolution)** — Cursor launched its own plugin marketplace in March 2026 with launch partners including Atlassian, Datadog, GitLab, and Hugging Face, extending the IDE with direct integrations beyond its core multi-agent Composer 2.0 engine. Domain: Dev Workflows.
-
 - **[Google Stitch relaunch](https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026)** — Google's AI-native design canvas relaunched in March 2026 with an infinite canvas, context-aware design agents, voice input, and instant prototyping; exports to Figma with layers intact or HTML/CSS, powered by Gemini 2.5 Flash/Pro. Domain: Design.
 
 - **[HeroUI (formerly NextUI)](https://devactivity.medium.com/the-evolution-of-component-libraries-building-blocks-for-2026-and-beyond-b04b22ea5c55)** — NextUI rebranded to HeroUI with 27,000+ GitHub stars and 120,000+ weekly npm downloads, adding first-class support for Tailwind CSS v4 and a new component roadmap. Domain: Design.
@@ -71,3 +61,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Physical Intelligence in talks to raise $1B at $11B valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)** — Two-year-old general-purpose robotics AI startup founded by ex-DeepMind researchers reportedly seeking a $1B round that would double its valuation in four months, signalling surging investor appetite for physical AI beyond software agents. Domain: Business.
 
 - **[LinkedIn AI-powered conversational search](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn Premium members in the U.S. can now use natural-language queries (e.g., "find regulatory tech experts in Berlin") to discover people, posts, and pages without relying on traditional keyword filters, extending AI into professional network navigation. Domain: Social Media.
+
+### 2026-04-02
+
+- **[Meta Llama 4 Maverick](https://renovateqr.com/blog/ai-models-april-2026)** — Meta's open-weight mixture-of-experts flagship: 400B total parameters (128 experts), 10M-token context window, 80.5% on MMLU Pro and 69.8% on GPQA Diamond; free for self-hosted deployment with no API cost. Domain: AI & LLMs.
+
+- **[Grok 4.20](https://renovateqr.com/blog/ai-models-april-2026)** — xAI's latest model runs four specialized parallel agents (Grok, Harper, Benjamin, Lucas) in a novel multi-agent architecture; 500B parameter variant with real-time X/Twitter data integration. Domain: AI & LLMs.
+
+- **[NVIDIA Agent Toolkit](https://nvidianews.nvidia.com/news/ai-agents)** — Open-source enterprise agent platform announced at GTC March 2026, comprising OpenShell (policy-based security guardrails for autonomous agents) and AI-Q (agent blueprint for enterprise knowledge); achieves top DeepResearch Bench rankings while cutting query costs by 50%; integrating with Adobe, Salesforce, SAP, Cisco, and 15+ others. Domain: AI & LLMs.
+
+- **[Q1 2026 global startup funding hits $297B record](https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/)** — A single quarter exceeded prior full-year VC totals, 2.5× the $118B raised in Q4 2025, driven by four mega-rounds into OpenAI, Anthropic, xAI, and Waymo; signals sustained institutional conviction in AI infrastructure plays. Domain: Business.
+
+- **[Shopify Agentic Storefronts](https://www.practicalecommerce.com/new-ecommerce-tools-april-1-2026)** — Shopify merchants can now sell directly to users of ChatGPT, Microsoft Copilot, Google AI Search, and the Gemini app from one centralized Shopify admin panel; non-Shopify brands can join via the Shopify Catalog to access the same AI channels. Domain: Business.
+
+- **[Palo Alto Networks acquires CyberArk for $25B](https://www.pwc.com/us/en/industries/tmt/library/technology-deals-outlook.html)** — Completed February 11, 2026; folds the market-leader in privileged access management into Palo Alto's platform, positioning identity security as a core pillar alongside network and cloud security in a consolidated enterprise offering. Domain: Business.
