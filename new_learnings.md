@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-03-29
-
-- **[Google Stitch relaunch](https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026)** — Google's AI-native design canvas relaunched in March 2026 with an infinite canvas, context-aware design agents, voice input, and instant prototyping; exports to Figma with layers intact or HTML/CSS, powered by Gemini 2.5 Flash/Pro. Domain: Design.
-
-- **[HeroUI (formerly NextUI)](https://devactivity.medium.com/the-evolution-of-component-libraries-building-blocks-for-2026-and-beyond-b04b22ea5c55)** — NextUI rebranded to HeroUI with 27,000+ GitHub stars and 120,000+ weekly npm downloads, adding first-class support for Tailwind CSS v4 and a new component roadmap. Domain: Design.
-
-- **[Anthropic $30B Series G](https://aifundingtracker.com/top-50-ai-startups/)** — Closed at a $380B post-money valuation co-led by Coatue and Singapore's GIC — the second-largest private venture deal in history; annualized revenue hit $14B and Claude Code ARR reached $2.5B. Domain: Business.
-
-- **[AMI Labs — Yann LeCun's $1.03B seed](https://aifundingtracker.com/ai-startup-funding-news-today/)** — Largest European seed round ever, raised to build world models based on JEPA (Joint Embedding Predictive Architecture) as an alternative to autoregressive text prediction; backed by Bezos, NVIDIA, Samsung, and Temasek. Domain: Business.
-
-- **[YouTube Recover Tab for Creators](https://brandnation.co.uk/news-insights/the-social-media-updates-to-know-in-march-2026/)** — Rolled out March 16, 2026: creators can now appeal for older videos and restore deleted content directly inside YouTube Studio, giving channels more control over their back catalogue. Domain: Social Media.
-
 ### 2026-03-30
-
-- **[Claude 4.6 Opus](https://lmcouncil.ai/benchmarks)** — Anthropic's new flagship achieves 80.8% on SWE-bench Verified (narrowly edging Gemini 3.1 Pro at 80.6%) and debuts a 1M-token context window in beta with Agent Teams and effort controls for agentic use cases. Domain: AI & LLMs.
-
-- **[Gemini 3.1 Pro](https://lmcouncil.ai/benchmarks)** — Google DeepMind's latest flagship hits 77.1% on ARC-AGI-2 — more than doubling its predecessor's score — with tiered thinking levels (Low/Medium/High) at unchanged $2/$12 pricing. Domain: AI & LLMs.
 
 - **[Google Workspace CLI](https://innofy.co/blog/dev/google-workspace-cli-your-terminal-just-became-the-most-powerful-productivity-tool-you-own/)** — Open-source `gws` CLI lets developers control Gmail, Drive, Calendar, Docs, Sheets, and all Workspace services from the terminal; ships with a native MCP server, instantly exposing all Workspace as structured tools for any compatible AI client. Domain: Dev Workflows.
 
@@ -75,3 +59,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Shopify Agentic Storefronts](https://www.practicalecommerce.com/new-ecommerce-tools-april-1-2026)** — Shopify merchants can now sell directly to users of ChatGPT, Microsoft Copilot, Google AI Search, and the Gemini app from one centralized Shopify admin panel; non-Shopify brands can join via the Shopify Catalog to access the same AI channels. Domain: Business.
 
 - **[Palo Alto Networks acquires CyberArk for $25B](https://www.pwc.com/us/en/industries/tmt/library/technology-deals-outlook.html)** — Completed February 11, 2026; folds the market-leader in privileged access management into Palo Alto's platform, positioning identity security as a core pillar alongside network and cloud security in a consolidated enterprise offering. Domain: Business.
+
+### 2026-04-03
+
+- **[Claw Code](https://www.financialcontent.com/article/247pressrelease-2026-4-2-claw-code-launches-open-source-ai-coding-agent-framework-with-72000-github-stars-in-first-days)** — Open-source AI coding agent framework built in Python and Rust that surpassed 72,000 GitHub stars and 72,600 forks within days of its April 2, 2026 launch; provides a fully transparent, extensible agent harness as an inspectable alternative to proprietary coding agents like Claude Code or Copilot. Domain: AI & LLMs.
+
+- **[Alibaba Qwen3.6-Plus](https://llm-stats.com/ai-news)** — Alibaba's latest proprietary frontier model, released in early April 2026 as the third new model shipped by the company in just a few days, reflecting an accelerating pace of model iteration from Chinese AI labs. Domain: AI & LLMs.
+
+- **[OpenAI Codex CLI](https://aitoolly.com/ai-news/article/2026-04-03-openai-codex-cli-a-lightweight-terminal-based-programming-assistant-for-developers)** — Lightweight terminal-based AI programming assistant released April 3, 2026, installable via `npm i -g @openai/codex` or `brew install --cask codex`; integrates AI code assistance directly into the command line without requiring a browser or full IDE. Domain: Dev Workflows.
+
+- **[Instagram Edits](https://www.heyorca.com/blog/instagram-social-news)** — Instagram's standalone video editing app launched in April 2026, featuring second-by-second Reels audience drop-off analytics, safe zones for framing, snap-to-edge alignment, and swipeable Insights within the editing flow. Domain: Social Media.
+
+- **[TikTok Smart Split](https://socialbee.com/blog/tiktok-updates/)** — New AI-powered TikTok feature that automatically clips, reframes, captions, and transcribes long-form videos into multiple short clips by detecting natural breakpoints — reducing post-production time for creators repurposing long content. Domain: Social Media.
+
+- **[Meta Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Meta launched March 18, 2026 paying $1,000/month to creators with 100K+ followers and $3,000/month to those with 1M+ followers on Instagram, TikTok, or YouTube who begin posting on Facebook — a direct bid to redirect top creator talent to the platform. Domain: Social Media.
+
+- **[2026 "SaaSpocalypse"](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-24-the-2026-saaspocalypse-why-b2b-software-stocks-are-plunging-20)** — B2B software stocks fell ~20% in Q1 2026 as enterprise IT budgets shift from per-seat SaaS subscriptions toward agentic AI platforms and LLM token usage; 40% of IT spend reportedly being reallocated, with Gartner predicting 40% of enterprise apps will include task-specific AI agents by end of 2026. Domain: Business.
