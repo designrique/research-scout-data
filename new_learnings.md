@@ -6,20 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-03-30
-
-- **[Google Workspace CLI](https://innofy.co/blog/dev/google-workspace-cli-your-terminal-just-became-the-most-powerful-productivity-tool-you-own/)** — Open-source `gws` CLI lets developers control Gmail, Drive, Calendar, Docs, Sheets, and all Workspace services from the terminal; ships with a native MCP server, instantly exposing all Workspace as structured tools for any compatible AI client. Domain: Dev Workflows.
-
-- **[Untitled UI React](https://www.untitledui.com/blog/react-component-libraries)** — New open-source React component library built on Tailwind CSS v4.1, React Aria, and TypeScript v5.8; claims the largest collection of open-source React UI components available in 2026. Domain: Design.
-
-- **[IBM acquires Confluent for $11B](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-17-ibm-seals-the-deal-11-billion-confluent-acquisition-completes-reshaping-the-real-time-data-landscape)** — Completed March 2026; merges Confluent's Apache Kafka real-time streaming platform with IBM watsonx and hybrid cloud to eliminate latency bottlenecks in large-scale enterprise AI deployments. Domain: Business.
-
-- **[OpenAI raises $110B at $840B post-money valuation](https://aifundingtracker.com/top-50-ai-startups/)** — Closed February 27, 2026 — the largest private venture round ever recorded — cementing OpenAI as the world's most valuable private company; annualized revenue reportedly approaching $30B. Domain: Business.
-
-- **[X Creator Subscriptions 2.0](https://socialbee.com/blog/social-media-news/)** — X relaunched its creator monetization system with exclusive subscriber threads, a new management dashboard, a refreshed paywall UI, and a shareable subscriptions card for creator promotion. Domain: Social Media.
-
-- **[Instagram manual thumbnail editing](https://brandnation.co.uk/news-insights/the-social-media-updates-to-know-in-march-2026/)** — Instagram now lets users reposition and zoom thumbnails of any existing post directly on their profile grid, solving a long-standing aesthetic pain point for creators and brands. Domain: Social Media.
-
 ### 2026-03-31
 
 - **[GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)** — OpenAI's new flagship released in three variants (standard, Thinking, Pro) with a 1M-token context window, 75% on OSWorld (surpassing the human expert baseline), and 57.7% on SWE-Bench Pro — the first model to hit frontier performance simultaneously across coding, computer use, and knowledge work benchmarks. Domain: AI & LLMs.
@@ -75,3 +61,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Meta Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Meta launched March 18, 2026 paying $1,000/month to creators with 100K+ followers and $3,000/month to those with 1M+ followers on Instagram, TikTok, or YouTube who begin posting on Facebook — a direct bid to redirect top creator talent to the platform. Domain: Social Media.
 
 - **[2026 "SaaSpocalypse"](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-24-the-2026-saaspocalypse-why-b2b-software-stocks-are-plunging-20)** — B2B software stocks fell ~20% in Q1 2026 as enterprise IT budgets shift from per-seat SaaS subscriptions toward agentic AI platforms and LLM token usage; 40% of IT spend reportedly being reallocated, with Gartner predicting 40% of enterprise apps will include task-specific AI agents by end of 2026. Domain: Business.
+
+### 2026-04-04
+
+- **[Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)** ⚠️ — Google's frontier model (preview released Feb 19, 2026) achieves 94.3% on GPQA Diamond (highest score ever reported on that benchmark), 77.1% on ARC-AGI-2 (2× the reasoning performance of Gemini 3 Pro), 69.2% on MCP Atlas, and leads 13 of 16 major benchmarks; one external source also attributes 57.7% SWE-bench Pro to this model — the same score attributed to GPT-5.4 in the 2026-03-31 entry, suggesting a possible data conflict between benchmarking sources. Domain: AI & LLMs.
+
+- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Open-source MIT runtime security framework released April 2, 2026; the first toolkit to cover all 10 OWASP Agentic Top 10 risks (goal hijacking, tool misuse, identity abuse, memory poisoning, cascading failures, rogue agents) with deterministic sub-millisecond policy enforcement; seven-package, framework-agnostic system available in Python, TypeScript, Rust, Go, and .NET; ships with 9,500+ tests and SLSA-compatible build provenance. Domain: AI & LLMs.
+
+- **[Google Jules Tools CLI](https://developers.googleblog.com/en/meet-jules-tools-a-command-line-companion-for-googles-async-coding-agent/)** — Lightweight CLI companion for Google's Jules async coding agent; lets developers spin up tasks, inspect agent progress, and script workflows entirely from the terminal with parallel session support and a built-in diff viewer to confirm changes before applying; Google simultaneously opened the Jules API publicly, enabling integration into existing developer pipelines. Domain: Dev Workflows.
+
+- **[Figma AI Agent File Writing](https://www.figma.com/release-notes/)** — AI agents can now write directly to Figma design files, creating and modifying real components, variables, and tokens using the project's existing library; agents read the design system first to build with what already exists, enabling code-to-design roundtrips from tools like Cursor, Warp, and Augment into editable Figma frames without manual export or re-import. Domain: Design.
