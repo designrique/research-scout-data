@@ -8,17 +8,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-03-31
 
-- **[GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)** — OpenAI's new flagship released in three variants (standard, Thinking, Pro) with a 1M-token context window, 75% on OSWorld (surpassing the human expert baseline), and 57.7% on SWE-Bench Pro — the first model to hit frontier performance simultaneously across coding, computer use, and knowledge work benchmarks. Domain: AI & LLMs.
-
-- **[TypeScript 6.0](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/)** — Released March 23, 2026: the final TypeScript compiler built on JavaScript — `strict` now defaults to `true`, ES5 target and AMD/UMD/SystemJS module formats removed; explicitly sets the stage for a full Go-native rewrite in TypeScript 7.0. Domain: Dev Workflows.
-
-- **[Gemini Code Assist Agent Mode](https://blog.google/technology/developers/gemini-code-assist-free/)** — Google made Gemini Code Assist free for individuals (180,000 completions/month — 90× more than competing free tiers) and shipped fully autonomous Agent Mode on March 27, 2026, directly challenging GitHub Copilot's paid model. Domain: Dev Workflows.
-
 - **[Figma Slots](https://www.figma.com/blog/supercharge-your-design-system-with-slots/)** — Launched in open beta March 5, 2026: designers can now add, swap, and edit content inside component instances without detaching them, mirroring React children props and Vue slots and eliminating a core design-system maintenance pain point. Domain: Design.
-
-- **[Harvey AI $200M at $11B valuation](https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html)** — Legal AI startup raised $200M co-led by GIC and Sequoia on March 25, 2026 — valuation jumped from $3B to $11B in roughly 12 months — now deploying 25,000+ AI agents across most of the top 100 U.S. law firms, HSBC, and NBCUniversal. Domain: Business.
-
-- **[Instagram Plus](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/)** — Meta began testing Instagram's first paid subscription tier (~$1–2/month) on March 30, 2026 in Mexico, Japan, and the Philippines, offering 7 premium features including anonymous Story viewing, rewatch metrics, and 48-hour Story expiry. Domain: Social Media.
 
 ### 2026-04-01
 
@@ -71,3 +61,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Google Jules Tools CLI](https://developers.googleblog.com/en/meet-jules-tools-a-command-line-companion-for-googles-async-coding-agent/)** — Lightweight CLI companion for Google's Jules async coding agent; lets developers spin up tasks, inspect agent progress, and script workflows entirely from the terminal with parallel session support and a built-in diff viewer to confirm changes before applying; Google simultaneously opened the Jules API publicly, enabling integration into existing developer pipelines. Domain: Dev Workflows.
 
 - **[Figma AI Agent File Writing](https://www.figma.com/release-notes/)** — AI agents can now write directly to Figma design files, creating and modifying real components, variables, and tokens using the project's existing library; agents read the design system first to build with what already exists, enabling code-to-design roundtrips from tools like Cursor, Warp, and Augment into editable Figma frames without manual export or re-import. Domain: Design.
+
+### 2026-04-05
+
+- **[Claude Mythos](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)** — Anthropic's next flagship model (leaked March 26, 2026), confirmed to be in early access testing with select customers; described as "a step change" and "by far the most powerful AI model we've ever developed," surpassing Claude Opus 4.6 across coding, reasoning, and cybersecurity benchmarks, and capable of autonomously planning and executing multi-step operations across systems without human intervention at each step. Domain: AI & LLMs.
+
+- **[OpenAI acquires Astral](https://openai.com/index/openai-to-acquire-astral/)** — OpenAI announced March 19, 2026 it will acquire Astral, maker of uv (126M+ monthly downloads), Ruff (1,000× faster than traditional Python linters), and ty; founder Charlie Marsh and team join OpenAI's Codex group to accelerate AI-assisted Python development tooling while keeping the open-source projects maintained. Domain: Dev Workflows.
+
+- **[Azure Developer CLI (azd) AI Agent Mode](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-march-2026/)** — March 2026 update ships a local run-and-debug loop for AI agents (`azd ai agent run` / `azd ai agent invoke`), GitHub Copilot–powered project setup, and Container App Jobs deployment across seven releases; makes iterating on AI agents from the terminal a first-class azd workflow. Domain: Dev Workflows.
+
+- **[Framer Auto Translate](https://www.framer.com/updates)** — Launched March 31, 2026: AI-powered feature that keeps all content in sync across every locale automatically, both on the Canvas and in the CMS, with a selectable model and auto option; eliminates the manual re-translation cycle whenever content changes in any locale. Domain: Design.
+
+- **[Capital One acquires Brex for $5.15B](https://www.cnbc.com/2026/01/22/capital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html)** — Announced January 22, 2026 (50% cash / 50% stock); the largest bank-fintech deal on record, well below Brex's $12.3B 2022 peak; Capital One absorbs Brex's AI-native corporate card and expense management platform to pivot from consumer lending toward B2B payments, with Brex co-founder Pedro Franceschi continuing to lead it as a distinct division. Domain: Business.
+
+- **[YouTube Ask Studio](https://routenote.com/blog/youtube-launches-ask-studio-ai-tool/)** — YouTube rolled out Ask Studio, a conversational AI assistant inside YouTube Studio that lets creators query analytics, get content inspiration, and understand audience behavior through natural-language chat; paired with new paid-vs-organic analytics breakdowns and A/B title testing to help creators optimize performance without manually parsing dashboards. Domain: Social Media.
+
+- **[X Grok Imagine text-to-video](https://www.socialmediatoday.com/news/x-formerly-twitter-previews-text-to-video-ai-companion-valentine/753514/)** — X is integrating xAI's Hotshot-powered text-to-video engine as a native platform feature called "Imagine," letting users generate up to 10-second 720p videos from text prompts directly within X posts; currently in preview, with plans to extend to longer durations and higher resolutions. Domain: Social Media.
