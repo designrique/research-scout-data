@@ -6,19 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-03-31
-
-- **[Figma Slots](https://www.figma.com/blog/supercharge-your-design-system-with-slots/)** — Launched in open beta March 5, 2026: designers can now add, swap, and edit content inside component instances without detaching them, mirroring React children props and Vue slots and eliminating a core design-system maintenance pain point. Domain: Design.
-
 ### 2026-04-01
-
-- **[Linux Foundation Agentic AI Foundation (AAIF)](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)** — Neutral open foundation unifying MCP (Anthropic), Goose (Block), and AGENTS.md (OpenAI) under a vendor-neutral home; platinum members include AWS, Google, Microsoft, and OpenAI, with the inaugural MCP Dev Summit scheduled April 2–3, 2026 in New York City. Domain: AI & LLMs.
-
-- **[Figma AI Image Editing Tools](https://www.contentgrip.com/figma-ai-image-editing-tools-update/)** — Figma launched Vectorize (AI raster-to-vector conversion) alongside three prompt-free tools — Erase object, Isolate object, and Expand image — all operating directly on the canvas without export/re-import, mirroring Adobe Firefly's feature set inside the design environment. Domain: Design.
-
-- **[Replit raises $400M at $9B valuation](https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/)** — Series D tripled Replit's valuation from $3B in six months, led by Georgian Partners; 150,000+ paying customers, $240M revenue in 2025 targeting $1B ARR in 2026, powered by new Agent 4 with AI-generated graphic design and 3D animation capabilities. Domain: Business.
-
-- **[Physical Intelligence in talks to raise $1B at $11B valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)** — Two-year-old general-purpose robotics AI startup founded by ex-DeepMind researchers reportedly seeking a $1B round that would double its valuation in four months, signalling surging investor appetite for physical AI beyond software agents. Domain: Business.
 
 - **[LinkedIn AI-powered conversational search](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn Premium members in the U.S. can now use natural-language queries (e.g., "find regulatory tech experts in Berlin") to discover people, posts, and pages without relying on traditional keyword filters, extending AI into professional network navigation. Domain: Social Media.
 
@@ -75,3 +63,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[YouTube Ask Studio](https://routenote.com/blog/youtube-launches-ask-studio-ai-tool/)** — YouTube rolled out Ask Studio, a conversational AI assistant inside YouTube Studio that lets creators query analytics, get content inspiration, and understand audience behavior through natural-language chat; paired with new paid-vs-organic analytics breakdowns and A/B title testing to help creators optimize performance without manually parsing dashboards. Domain: Social Media.
 
 - **[X Grok Imagine text-to-video](https://www.socialmediatoday.com/news/x-formerly-twitter-previews-text-to-video-ai-companion-valentine/753514/)** — X is integrating xAI's Hotshot-powered text-to-video engine as a native platform feature called "Imagine," letting users generate up to 10-second 720p videos from text prompts directly within X posts; currently in preview, with plans to extend to longer durations and higher resolutions. Domain: Social Media.
+
+### 2026-04-06
+
+- **[GPT-5.4](https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/)** — Released March 5, 2026 in Standard, Thinking, and Pro variants; achieves 75% on OSWorld-Verified computer-use (surpassing human baseline of 72.4%), 83% on GDPval knowledge-work tasks, and a 1M-token context window — the largest from OpenAI; introduces dynamic tool loading to shrink token usage in large tool-call workflows; GPT-5.4 mini and nano followed March 17. ⚠️ 57.7% SWE-bench Pro score appears in both this and Gemini 3.1 Pro benchmark reports — treat as unverified per ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[Google Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)** — Apache 2.0 open-weight multimodal model family (2B, 4B, 26B, 31B) released April 2–3, 2026; trained on 140+ languages with up to 256K-token context; natively processes images and video, supports multi-step agentic workflows and tool calling, and is built from the same research base as Gemini 3; cumulative Gemma downloads surpassed 400M since the first generation. Domain: AI & LLMs.
+
+- **[Microsoft MAI Models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)** — Three in-house foundation models launched April 2, 2026 via Microsoft Foundry and the MAI Playground: MAI-Transcribe-1 (25-language speech-to-text, 2.5× faster than Azure Fast), MAI-Voice-1 (60s of audio generated per second, custom-voice cloning), and MAI-Image-2; developed by Mustafa Suleyman's MAI Superintelligence team as cheaper alternatives to OpenAI and Google, reducing Microsoft's dependency on its OpenAI partnership. Domain: AI & LLMs.
+
+- **[shadcn/ui CLI v4](https://ui.shadcn.com/docs/changelog/2026-03-cli-v4)** — March 2026 release elevates the installer into a project-management system: --dry-run and --diff flags let developers audit changes before writing; shadcn/skills supplies AI coding agents with project-specific component API context to cut hallucinations; portable design-system Presets encode full theme configs (colors, fonts, icons, radius) in a single string; first-class init templates added for Vite, TanStack Start, React Router, Astro, and Laravel. Domain: Dev Workflows.
+
+- **[SpaceX confidential IPO filing](https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html)** — Filed a confidential S-1 with the SEC on April 1, 2026, targeting a Nasdaq listing in June 2026 at a $1.75T valuation with a ~$75B raise target — which would be the largest IPO in history; SpaceX was valued at $1.25T following its February 2026 merger with xAI, meaning the filing values it 40% higher just two months later. Domain: Business.
