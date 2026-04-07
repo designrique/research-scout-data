@@ -6,15 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-01
-
-- **[LinkedIn AI-powered conversational search](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn Premium members in the U.S. can now use natural-language queries (e.g., "find regulatory tech experts in Berlin") to discover people, posts, and pages without relying on traditional keyword filters, extending AI into professional network navigation. Domain: Social Media.
-
 ### 2026-04-02
-
-- **[Meta Llama 4 Maverick](https://renovateqr.com/blog/ai-models-april-2026)** — Meta's open-weight mixture-of-experts flagship: 400B total parameters (128 experts), 10M-token context window, 80.5% on MMLU Pro and 69.8% on GPQA Diamond; free for self-hosted deployment with no API cost. Domain: AI & LLMs.
-
-- **[Grok 4.20](https://renovateqr.com/blog/ai-models-april-2026)** — xAI's latest model runs four specialized parallel agents (Grok, Harper, Benjamin, Lucas) in a novel multi-agent architecture; 500B parameter variant with real-time X/Twitter data integration. Domain: AI & LLMs.
 
 - **[NVIDIA Agent Toolkit](https://nvidianews.nvidia.com/news/ai-agents)** — Open-source enterprise agent platform announced at GTC March 2026, comprising OpenShell (policy-based security guardrails for autonomous agents) and AI-Q (agent blueprint for enterprise knowledge); achieves top DeepResearch Bench rankings while cutting query costs by 50%; integrating with Adobe, Salesforce, SAP, Cisco, and 15+ others. Domain: AI & LLMs.
 
@@ -75,3 +67,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[shadcn/ui CLI v4](https://ui.shadcn.com/docs/changelog/2026-03-cli-v4)** — March 2026 release elevates the installer into a project-management system: --dry-run and --diff flags let developers audit changes before writing; shadcn/skills supplies AI coding agents with project-specific component API context to cut hallucinations; portable design-system Presets encode full theme configs (colors, fonts, icons, radius) in a single string; first-class init templates added for Vite, TanStack Start, React Router, Astro, and Laravel. Domain: Dev Workflows.
 
 - **[SpaceX confidential IPO filing](https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html)** — Filed a confidential S-1 with the SEC on April 1, 2026, targeting a Nasdaq listing in June 2026 at a $1.75T valuation with a ~$75B raise target — which would be the largest IPO in history; SpaceX was valued at $1.25T following its February 2026 merger with xAI, meaning the filing values it 40% higher just two months later. Domain: Business.
+
+### 2026-04-07
+
+- **[AutoKernel](https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/)** — RightNow AI open-source framework (released April 6, 2026) that runs an autonomous LLM agent loop to optimize GPU kernels for arbitrary PyTorch models; uses torch.profiler with Amdahl's law to rank targets, then rewrites Triton kernels iteratively (~90s/cycle); achieves 5.29× over PyTorch eager on RMSNorm and 2.83× over torch.compile on softmax on NVIDIA H100; supports both NVIDIA and AMD GPUs. Domain: AI & LLMs.
+
+- **[Microsoft Agent Framework GA](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)** — Unified open-source SDK that merges AutoGen and Semantic Kernel (both entering maintenance mode); RC 1.0 shipped February 19, 2026, GA in Q1 2026; multi-language (Python, C#, Java), graph-based multi-agent orchestration, enterprise features (session state, type safety, telemetry, filters), and deep Azure integration — ending the choice between the two frameworks for new projects. Domain: Dev Workflows.
+
+- **[SaaS Awakening](https://markets.financialcontent.com/stocks/article/marketminute-2026-4-3-the-saas-awakening-of-2026-why-the-death-of-the-seat-is-the-birth-of-a-new-bull-market)** — After the Q1 "SaaSpocalypse" selloff, large-cap SaaS stocks rebounded sharply in early April 2026 as Salesforce and ServiceNow Q4 earnings showed agentic AI monetization working in practice; the old seat-based licensing model is being replaced by "Agentic Work Units" and "Performance Credits" billing tied to outcomes rather than users. Domain: Business.
+
+- **[Instagram Plus](https://embedsocial.com/blog/new-instagram-features-2026/)** — Instagram's new paid subscription tier in regional testing as of April 2026; bundles advanced Story tools including multiple Story audiences, rewatch insights, viewer-list search, Story previews, longer Story expiration, super hearts, and a Spotlight option — separate from the standalone Instagram Edits app, targeting power creators willing to pay for deeper audience insights. Domain: Social Media.
