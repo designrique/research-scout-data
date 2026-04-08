@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-02
-
-- **[NVIDIA Agent Toolkit](https://nvidianews.nvidia.com/news/ai-agents)** — Open-source enterprise agent platform announced at GTC March 2026, comprising OpenShell (policy-based security guardrails for autonomous agents) and AI-Q (agent blueprint for enterprise knowledge); achieves top DeepResearch Bench rankings while cutting query costs by 50%; integrating with Adobe, Salesforce, SAP, Cisco, and 15+ others. Domain: AI & LLMs.
-
-- **[Q1 2026 global startup funding hits $297B record](https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/)** — A single quarter exceeded prior full-year VC totals, 2.5× the $118B raised in Q4 2025, driven by four mega-rounds into OpenAI, Anthropic, xAI, and Waymo; signals sustained institutional conviction in AI infrastructure plays. Domain: Business.
-
-- **[Shopify Agentic Storefronts](https://www.practicalecommerce.com/new-ecommerce-tools-april-1-2026)** — Shopify merchants can now sell directly to users of ChatGPT, Microsoft Copilot, Google AI Search, and the Gemini app from one centralized Shopify admin panel; non-Shopify brands can join via the Shopify Catalog to access the same AI channels. Domain: Business.
-
-- **[Palo Alto Networks acquires CyberArk for $25B](https://www.pwc.com/us/en/industries/tmt/library/technology-deals-outlook.html)** — Completed February 11, 2026; folds the market-leader in privileged access management into Palo Alto's platform, positioning identity security as a core pillar alongside network and cloud security in a consolidated enterprise offering. Domain: Business.
-
 ### 2026-04-03
-
-- **[Claw Code](https://www.financialcontent.com/article/247pressrelease-2026-4-2-claw-code-launches-open-source-ai-coding-agent-framework-with-72000-github-stars-in-first-days)** — Open-source AI coding agent framework built in Python and Rust that surpassed 72,000 GitHub stars and 72,600 forks within days of its April 2, 2026 launch; provides a fully transparent, extensible agent harness as an inspectable alternative to proprietary coding agents like Claude Code or Copilot. Domain: AI & LLMs.
-
-- **[Alibaba Qwen3.6-Plus](https://llm-stats.com/ai-news)** — Alibaba's latest proprietary frontier model, released in early April 2026 as the third new model shipped by the company in just a few days, reflecting an accelerating pace of model iteration from Chinese AI labs. Domain: AI & LLMs.
-
-- **[OpenAI Codex CLI](https://aitoolly.com/ai-news/article/2026-04-03-openai-codex-cli-a-lightweight-terminal-based-programming-assistant-for-developers)** — Lightweight terminal-based AI programming assistant released April 3, 2026, installable via `npm i -g @openai/codex` or `brew install --cask codex`; integrates AI code assistance directly into the command line without requiring a browser or full IDE. Domain: Dev Workflows.
 
 - **[Instagram Edits](https://www.heyorca.com/blog/instagram-social-news)** — Instagram's standalone video editing app launched in April 2026, featuring second-by-second Reels audience drop-off analytics, safe zones for framing, snap-to-edge alignment, and swipeable Insights within the editing flow. Domain: Social Media.
 
@@ -77,3 +61,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[SaaS Awakening](https://markets.financialcontent.com/stocks/article/marketminute-2026-4-3-the-saas-awakening-of-2026-why-the-death-of-the-seat-is-the-birth-of-a-new-bull-market)** — After the Q1 "SaaSpocalypse" selloff, large-cap SaaS stocks rebounded sharply in early April 2026 as Salesforce and ServiceNow Q4 earnings showed agentic AI monetization working in practice; the old seat-based licensing model is being replaced by "Agentic Work Units" and "Performance Credits" billing tied to outcomes rather than users. Domain: Business.
 
 - **[Instagram Plus](https://embedsocial.com/blog/new-instagram-features-2026/)** — Instagram's new paid subscription tier in regional testing as of April 2026; bundles advanced Story tools including multiple Story audiences, rewatch insights, viewer-list search, Story previews, longer Story expiration, super hearts, and a Spotlight option — separate from the standalone Instagram Edits app, targeting power creators willing to pay for deeper audience insights. Domain: Social Media.
+
+### 2026-04-08
+
+- **[Google LiteRT-LM](https://aitoolly.com/ai-news/article/2026-04-07-google-launches-litert-lm-a-high-performance-production-grade-framework-for-edge-device-llm-deployme)** — Google's open-source production-grade inference framework for deploying LLMs on edge devices, released April 7, 2026; engineered for high-throughput on-device inference on mobile, automotive, and embedded platforms, enabling offline AI without cloud dependency. Domain: AI & LLMs.
+
+- **[Anthropic Bloom](https://www.anthropic.com/research/bloom)** — Open-source agentic framework from Anthropic that automates the generation of behavioral evaluations for frontier AI models; helps safety teams create diverse, reproducible evaluation suites to benchmark model alignment and capability regressions across agentic contexts. Domain: AI & LLMs.
+
+- **[Java 26](https://www.oracle.com/news/announcement/oracle-releases-java-26-2026-03-17/)** — Oracle released Java 26 on March 17, 2026 with developer-productivity improvements, simplified language syntax, and new built-in APIs for AI integration and post-quantum cryptography; ships alongside the Java Verified Portfolio (JVP), a curated set of Oracle-supported tools including commercial JavaFX and Helidon microservices framework. Domain: Dev Workflows.
+
+- **[Google Stitch Redesign](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google relaunched Stitch from Google Labs in March 2026 with an AI-native infinite canvas, context-aware design agents, and instant prototyping; generates high-fidelity UI from natural-language prompts and can extract a design system from any URL via DESIGN.md — an agent-friendly markdown format for importing/exporting design rules across tools. Domain: Design.
+
+- **[Savvy Games Group acquires Moonton for $6B](https://blog.mean.ceo/top-funded-startups-news-april-2026/)** — Saudi-backed Savvy Games Group announced a planned $6 billion acquisition of ByteDance's mobile gaming platform Moonton (publisher of Mobile Legends: Bang Bang), one of Q1 2026's largest gaming M&A deals targeting Southeast Asian mobile esports audiences. Domain: Business.
+
+- **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — AI-powered design platform Picsart launched a monetization program on April 6, 2026 open to all creators with no invite list or minimum audience size; creators make original content using Picsart tools for specific brand campaigns and earn revenue based on audience engagement, expanding creator economy access to smaller accounts. Domain: Social Media.
