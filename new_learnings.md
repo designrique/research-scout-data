@@ -6,16 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-03
-
-- **[Instagram Edits](https://www.heyorca.com/blog/instagram-social-news)** — Instagram's standalone video editing app launched in April 2026, featuring second-by-second Reels audience drop-off analytics, safe zones for framing, snap-to-edge alignment, and swipeable Insights within the editing flow. Domain: Social Media.
-
-- **[TikTok Smart Split](https://socialbee.com/blog/tiktok-updates/)** — New AI-powered TikTok feature that automatically clips, reframes, captions, and transcribes long-form videos into multiple short clips by detecting natural breakpoints — reducing post-production time for creators repurposing long content. Domain: Social Media.
-
-- **[Meta Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Meta launched March 18, 2026 paying $1,000/month to creators with 100K+ followers and $3,000/month to those with 1M+ followers on Instagram, TikTok, or YouTube who begin posting on Facebook — a direct bid to redirect top creator talent to the platform. Domain: Social Media.
-
-- **[2026 "SaaSpocalypse"](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-24-the-2026-saaspocalypse-why-b2b-software-stocks-are-plunging-20)** — B2B software stocks fell ~20% in Q1 2026 as enterprise IT budgets shift from per-seat SaaS subscriptions toward agentic AI platforms and LLM token usage; 40% of IT spend reportedly being reallocated, with Gartner predicting 40% of enterprise apps will include task-specific AI agents by end of 2026. Domain: Business.
-
 ### 2026-04-04
 
 - **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Open-source MIT runtime security framework released April 2, 2026; the first toolkit to cover all 10 OWASP Agentic Top 10 risks (goal hijacking, tool misuse, identity abuse, memory poisoning, cascading failures, rogue agents) with deterministic sub-millisecond policy enforcement; seven-package, framework-agnostic system available in Python, TypeScript, Rust, Go, and .NET; ships with 9,500+ tests and SLSA-compatible build provenance. Domain: AI & LLMs.
@@ -75,3 +65,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Savvy Games Group acquires Moonton for $6B](https://blog.mean.ceo/top-funded-startups-news-april-2026/)** — Saudi-backed Savvy Games Group announced a planned $6 billion acquisition of ByteDance's mobile gaming platform Moonton (publisher of Mobile Legends: Bang Bang), one of Q1 2026's largest gaming M&A deals targeting Southeast Asian mobile esports audiences. Domain: Business.
 
 - **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — AI-powered design platform Picsart launched a monetization program on April 6, 2026 open to all creators with no invite list or minimum audience size; creators make original content using Picsart tools for specific brand campaigns and earn revenue based on audience engagement, expanding creator economy access to smaller accounts. Domain: Social Media.
+
+### 2026-04-09
+
+- **[Meta Llama 5](https://markets.financialcontent.com/stocks/article/marketminute-2026-4-8-meta-unleashes-llama-5-zuckerbergs-open-source-gambit-challenges-proprietary-ai-dominance)** — Mark Zuckerberg officially announced Llama 5 on April 8, 2026 as Meta's open-source flagship model family, directly challenging proprietary frontier models from OpenAI and Google; released under a permissive license and positioned as the open-source counter to closed model dominance. Domain: AI & LLMs.
+
+- **[Meta Muse Spark](https://siliconangle.com/2026/04/08/meta-debuts-muse-spark-multimodal-reasoning-model/)** — First model released by Meta Superintelligence Labs (debuted April 8, 2026); multimodal reasoning model that reportedly outperforms Claude Opus 4.6, Gemini 3.1 Pro, and GPT-5.4 across several benchmarks; features a "Contemplating" mode that spawns multiple parallel agents to decompose complex tasks into substeps and execute them concurrently. Domain: AI & LLMs.
+
+- **[Zhipu AI GLM-5.1](https://whatllm.org/blog/new-ai-models-april-2026)** — MIT-licensed 744B-parameter mixture-of-experts model (40B active per forward pass) with a 200K-token context window released April 2026; claimed to beat Claude Opus 4.6 and GPT-5.4 on SWE-Bench Pro. ⚠️ SWE-Bench Pro scores remain in conflict across multiple models — treat as unverified per ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[Nvidia Agent Toolkit](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)** — Launched at GTC 2026; Nvidia's enterprise AI agent runtime platform with Adobe, Salesforce, SAP, ServiceNow, Siemens, CrowdStrike, Atlassian, Palantir, and 9 others as founding partners — establishing a shared infrastructure layer for next-generation enterprise AI agents across industries. Domain: Business.
+
+- **[Instagram Your Algo](https://socialbee.com/blog/social-media-news/)** — Instagram rolling out to all English-speaking users a Reels feed personalization tool that lets people directly add or remove interest topics from their recommendation algorithm — the first time Instagram has given users explicit, granular control over what drives their content feed. Domain: Social Media.
