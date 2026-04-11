@@ -6,19 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-03
-
-- **[Instagram Edits](https://www.heyorca.com/blog/instagram-social-news)** — Instagram's standalone video editing app launched in April 2026, featuring second-by-second Reels audience drop-off analytics, safe zones for framing, snap-to-edge alignment, and swipeable Insights within the editing flow. Domain: Social Media.
-
-- **[TikTok Smart Split](https://socialbee.com/blog/tiktok-updates/)** — New AI-powered TikTok feature that automatically clips, reframes, captions, and transcribes long-form videos into multiple short clips by detecting natural breakpoints — reducing post-production time for creators repurposing long content. Domain: Social Media.
-
-- **[Meta Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Meta launched March 18, 2026 paying $1,000/month to creators with 100K+ followers and $3,000/month to those with 1M+ followers on Instagram, TikTok, or YouTube who begin posting on Facebook — a direct bid to redirect top creator talent to the platform. Domain: Social Media.
-
-- **[2026 "SaaSpocalypse"](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-24-the-2026-saaspocalypse-why-b2b-software-stocks-are-plunging-20)** — B2B software stocks fell ~20% in Q1 2026 as enterprise IT budgets shift from per-seat SaaS subscriptions toward agentic AI platforms and LLM token usage; 40% of IT spend reportedly being reallocated, with Gartner predicting 40% of enterprise apps will include task-specific AI agents by end of 2026. Domain: Business.
-
 ### 2026-04-04
-
-- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Open-source MIT runtime security framework released April 2, 2026; the first toolkit to cover all 10 OWASP Agentic Top 10 risks (goal hijacking, tool misuse, identity abuse, memory poisoning, cascading failures, rogue agents) with deterministic sub-millisecond policy enforcement; seven-package, framework-agnostic system available in Python, TypeScript, Rust, Go, and .NET; ships with 9,500+ tests and SLSA-compatible build provenance. Domain: AI & LLMs.
 
 - **[Google Jules Tools CLI](https://developers.googleblog.com/en/meet-jules-tools-a-command-line-companion-for-googles-async-coding-agent/)** — Lightweight CLI companion for Google's Jules async coding agent; lets developers spin up tasks, inspect agent progress, and script workflows entirely from the terminal with parallel session support and a built-in diff viewer to confirm changes before applying; Google simultaneously opened the Jules API publicly, enabling integration into existing developer pipelines. Domain: Dev Workflows.
 
@@ -75,3 +63,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Savvy Games Group acquires Moonton for $6B](https://blog.mean.ceo/top-funded-startups-news-april-2026/)** — Saudi-backed Savvy Games Group announced a planned $6 billion acquisition of ByteDance's mobile gaming platform Moonton (publisher of Mobile Legends: Bang Bang), one of Q1 2026's largest gaming M&A deals targeting Southeast Asian mobile esports audiences. Domain: Business.
 
 - **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — AI-powered design platform Picsart launched a monetization program on April 6, 2026 open to all creators with no invite list or minimum audience size; creators make original content using Picsart tools for specific brand campaigns and earn revenue based on audience engagement, expanding creator economy access to smaller accounts. Domain: Social Media.
+
+### 2026-04-11
+
+- **[Meta Muse Spark](https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs-first-model-built-to-prioritize-people/)** — Meta's first proprietary frontier model from Meta Superintelligence Labs (April 8, 2026); natively multimodal reasoning model supporting tool use, visual chain of thought, and multi-agent orchestration; rolling out across Facebook, Instagram, WhatsApp, and Messenger — marks Meta's shift away from its Llama open-source strategy. Domain: AI & LLMs.
+
+- **[Meta Llama 4 Scout & Maverick](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)** — Open-weight multimodal MoE models released April 5, 2026; Maverick (17B active params / 128 experts) and Scout (long-context variant) natively process text, images, and video; available as open-weight downloads on Hugging Face and llama.com; powering Meta AI across WhatsApp, Messenger, Instagram, and meta.ai. Domain: AI & LLMs.
+
+- **[DeepSeek R2](https://www.spheron.network/blog/deploy-deepseek-r2-gpu-cloud/)** — Released March 2026; reasoning-first successor to DeepSeek-R1 achieving 92.7% on AIME 2025 and 89.4% on MATH-500 at ~70% lower cost than comparable Western models; uses extended KV latent compression to efficiently manage 10,000–40,000 token thinking chains during inference. Domain: AI & LLMs.
+
+- **[OpenAI Codex CLI](https://openai.com/index/introducing-codex/)** — Open-source terminal coding agent released April 3, 2026 (GitHub, npm, Homebrew); runs locally with full file read/edit/create access; April 10 update added Windows Sandbox egress networking and a GPT-5.3-Codex-Spark preview model delivering 1,000+ tokens/sec for near-instant in-terminal coding assistance. Domain: Dev Workflows.
+
+- **[OpenAI $122B round at $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)** — Closed March 31, 2026; backed by SoftBank (co-lead), Amazon ($50B), and Nvidia ($30B); generating $2B/month in revenue; company targets a Q4 2026 IPO at ~$1 trillion valuation with $280B revenue goal by 2030. Domain: Business.
+
+- **[Instagram Teleprompter](https://www.socialmediatoday.com/news/instagram-edits-video-app-teleprompter-overlays-update/750386/)** — Instagram added a scrolling Teleprompter to the Edits app for Reels recording; script text displays directly below the front-facing camera with an adjustable speed slider; accessible from the main Reels creation menu alongside audio, effects, and green screen. Domain: Social Media.
