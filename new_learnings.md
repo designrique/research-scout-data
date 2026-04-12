@@ -6,14 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-05
-
-- **[Framer Auto Translate](https://www.framer.com/updates)** — Launched March 31, 2026: AI-powered feature that keeps all content in sync across every locale automatically, both on the Canvas and in the CMS, with a selectable model and auto option; eliminates the manual re-translation cycle whenever content changes in any locale. Domain: Design.
-
-- **[Capital One acquires Brex for $5.15B](https://www.cnbc.com/2026/01/22/capital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html)** — Announced January 22, 2026 (50% cash / 50% stock); the largest bank-fintech deal on record, well below Brex's $12.3B 2022 peak; Capital One absorbs Brex's AI-native corporate card and expense management platform to pivot from consumer lending toward B2B payments, with Brex co-founder Pedro Franceschi continuing to lead it as a distinct division. Domain: Business.
-
-- **[YouTube Ask Studio](https://routenote.com/blog/youtube-launches-ask-studio-ai-tool/)** — YouTube rolled out Ask Studio, a conversational AI assistant inside YouTube Studio that lets creators query analytics, get content inspiration, and understand audience behavior through natural-language chat; paired with new paid-vs-organic analytics breakdowns and A/B title testing to help creators optimize performance without manually parsing dashboards. Domain: Social Media.
-
 ### 2026-04-06
 
 - **[GPT-5.4](https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/)** — Released March 5, 2026 in Standard, Thinking, and Pro variants; achieves 75% on OSWorld-Verified computer-use (surpassing human baseline of 72.4%), 83% on GDPval knowledge-work tasks, and a 1M-token context window — the largest from OpenAI; introduces dynamic tool loading to shrink token usage in large tool-call workflows; GPT-5.4 mini and nano followed March 17. ⚠️ 57.7% SWE-bench Pro score appears in both this and Gemini 3.1 Pro benchmark reports — treat as unverified per ref_ai_trends.md. Domain: AI & LLMs.
