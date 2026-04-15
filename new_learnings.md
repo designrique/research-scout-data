@@ -6,21 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-06
-
-- **[Microsoft MAI Models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)** — Three in-house foundation models launched April 2, 2026 via Microsoft Foundry and the MAI Playground: MAI-Transcribe-1 (25-language speech-to-text, 2.5× faster than Azure Fast), MAI-Voice-1 (60s of audio generated per second, custom-voice cloning), and MAI-Image-2; developed by Mustafa Suleyman's MAI Superintelligence team as cheaper alternatives to OpenAI and Google, reducing Microsoft's dependency on its OpenAI partnership. Domain: AI & LLMs.
-
-- **[shadcn/ui CLI v4](https://ui.shadcn.com/docs/changelog/2026-03-cli-v4)** — March 2026 release elevates the installer into a project-management system: --dry-run and --diff flags let developers audit changes before writing; shadcn/skills supplies AI coding agents with project-specific component API context to cut hallucinations; portable design-system Presets encode full theme configs (colors, fonts, icons, radius) in a single string; first-class init templates added for Vite, TanStack Start, React Router, Astro, and Laravel. Domain: Dev Workflows.
-
-- **[SpaceX confidential IPO filing](https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html)** — Filed a confidential S-1 with the SEC on April 1, 2026, targeting a Nasdaq listing in June 2026 at a $1.75T valuation with a ~$75B raise target — which would be the largest IPO in history; SpaceX was valued at $1.25T following its February 2026 merger with xAI, meaning the filing values it 40% higher just two months later. Domain: Business.
-
 ### 2026-04-07
-
-- **[AutoKernel](https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/)** — RightNow AI open-source framework (released April 6, 2026) that runs an autonomous LLM agent loop to optimize GPU kernels for arbitrary PyTorch models; uses torch.profiler with Amdahl's law to rank targets, then rewrites Triton kernels iteratively (~90s/cycle); achieves 5.29× over PyTorch eager on RMSNorm and 2.83× over torch.compile on softmax on NVIDIA H100; supports both NVIDIA and AMD GPUs. Domain: AI & LLMs.
-
-- **[Microsoft Agent Framework GA](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)** — Unified open-source SDK that merges AutoGen and Semantic Kernel (both entering maintenance mode); RC 1.0 shipped February 19, 2026, GA in Q1 2026; multi-language (Python, C#, Java), graph-based multi-agent orchestration, enterprise features (session state, type safety, telemetry, filters), and deep Azure integration — ending the choice between the two frameworks for new projects. Domain: Dev Workflows.
-
-- **[SaaS Awakening](https://markets.financialcontent.com/stocks/article/marketminute-2026-4-3-the-saas-awakening-of-2026-why-the-death-of-the-seat-is-the-birth-of-a-new-bull-market)** — After the Q1 "SaaSpocalypse" selloff, large-cap SaaS stocks rebounded sharply in early April 2026 as Salesforce and ServiceNow Q4 earnings showed agentic AI monetization working in practice; the old seat-based licensing model is being replaced by "Agentic Work Units" and "Performance Credits" billing tied to outcomes rather than users. Domain: Business.
 
 - **[Instagram Plus](https://embedsocial.com/blog/new-instagram-features-2026/)** — Instagram's new paid subscription tier in regional testing as of April 2026; bundles advanced Story tools including multiple Story audiences, rewatch insights, viewer-list search, Story previews, longer Story expiration, super hearts, and a Spotlight option — separate from the standalone Instagram Edits app, targeting power creators willing to pay for deeper audience insights. Domain: Social Media.
 
@@ -79,3 +65,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Z.ai GLM-5.1](https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35)** — Open-source 754B-parameter MoE model released April 7, 2026 by Z.ai (formerly Zhipu AI) under the MIT license; scores 58.4 on SWE-Bench Pro — currently the top open-source result on that leaderboard, above GPT-5.4 (57.7) and Claude Opus 4.6 (57.3); targets agentic engineering and long-horizon coding tasks; weights available on Hugging Face with no commercial restrictions. ⚠️ SWE-Bench Pro scores remain contested across vendors per ref_ai_trends.md — treat comparisons as directional. Domain: AI & LLMs.
 
 - **[Figma Make Kits](https://www.figma.com/release-notes/)** — Released April 2, 2026; allows design system teams to bundle code alongside design guidelines so Figma's AI prototyping tool (Make) correctly applies the design system when generating new prototypes; supports npm packages (public and private within a Figma org), plus Figma library styles, variables, and tokens — bridging the gap between coded components and AI-generated UI. Domain: Design.
+
+### 2026-04-15
+
+- **[Google Gemma 4](https://fazm.ai/blog/new-llm-releases-april-2026)** — Four open-weight variants (up to 31B parameters) released April 2, 2026 under Apache 2.0; the 31B dense model outperforms models 20× its size on major benchmarks; all weights available on Hugging Face and Google AI Studio from day one. Domain: AI & LLMs.
+
+- **[OpenAI Symphony](https://www.marktechpost.com/2026/03/05/openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs/)** — Open-source multi-agent orchestration framework released March 5, 2026; coordinates autonomous AI agents through structured, scalable implementation runs with parallelism, state management, and typed handoffs; complements OpenAI's model APIs for building enterprise-scale agentic pipelines. Domain: AI & LLMs.
+
+- **[GitHub Copilot CLI GA](https://www.infoq.com/news/2026/04/github-copilot-cli-ga/)** — GitHub Copilot CLI reached general availability in April 2026; integrates into the `gh` CLI with natural-language terminal command suggestions and code explanations; new Autopilot agentic mode handles multi-step terminal workflows autonomously; GPT-5.4 support and enterprise telemetry added for team-wide usage tracking. Domain: Dev Workflows.
+
+- **[Microsoft Aspire 13.2](https://www.infoq.com/news/2026/04/aspire-13-2-release/)** — April 2026 release of Microsoft's cloud-native dev stack; introduces TypeScript AppHost preview (define resource graphs in TypeScript instead of C#), detached CLI mode for background app management, and improved local-dev tooling aligned with AI coding agent workflows. Domain: Dev Workflows.
+
+- **[Instagram Your Algo](https://blog.gainapp.com/social-media-updates/)** — Instagram rolling out "Your Algo" feed personalization to all English-speaking users, letting them add or remove topics to tune the Reels recommendation algorithm; simultaneously rebranded the Stories Camera "Shots" shortcut as "Instants" and repositioned it in the app's bottom-right corner. Domain: Social Media.
+
+- **[YouTube Veo 3 Fast](https://www.podcastvideos.com/articles/youtube-2026-updates-ai-live-streaming-monetization/)** — YouTube integrated Google's Veo 3 Fast AI video-generation model into the creator workflow for Shorts production; paired with AI editing for Shorts and upgraded live-streaming monetization options, making YouTube the first major platform to embed a frontier video-gen model directly in its creator tooling. Domain: Social Media.
