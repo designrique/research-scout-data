@@ -6,17 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-07
-
-- **[Instagram Plus](https://embedsocial.com/blog/new-instagram-features-2026/)** — Instagram's new paid subscription tier in regional testing as of April 2026; bundles advanced Story tools including multiple Story audiences, rewatch insights, viewer-list search, Story previews, longer Story expiration, super hearts, and a Spotlight option — separate from the standalone Instagram Edits app, targeting power creators willing to pay for deeper audience insights. Domain: Social Media.
-
 ### 2026-04-08
-
-- **[Google LiteRT-LM](https://aitoolly.com/ai-news/article/2026-04-07-google-launches-litert-lm-a-high-performance-production-grade-framework-for-edge-device-llm-deployme)** — Google's open-source production-grade inference framework for deploying LLMs on edge devices, released April 7, 2026; engineered for high-throughput on-device inference on mobile, automotive, and embedded platforms, enabling offline AI without cloud dependency. Domain: AI & LLMs.
-
-- **[Anthropic Bloom](https://www.anthropic.com/research/bloom)** — Open-source agentic framework from Anthropic that automates the generation of behavioral evaluations for frontier AI models; helps safety teams create diverse, reproducible evaluation suites to benchmark model alignment and capability regressions across agentic contexts. Domain: AI & LLMs.
-
-- **[Java 26](https://www.oracle.com/news/announcement/oracle-releases-java-26-2026-03-17/)** — Oracle released Java 26 on March 17, 2026 with developer-productivity improvements, simplified language syntax, and new built-in APIs for AI integration and post-quantum cryptography; ships alongside the Java Verified Portfolio (JVP), a curated set of Oracle-supported tools including commercial JavaFX and Helidon microservices framework. Domain: Dev Workflows.
 
 - **[Google Stitch Redesign](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google relaunched Stitch from Google Labs in March 2026 with an AI-native infinite canvas, context-aware design agents, and instant prototyping; generates high-fidelity UI from natural-language prompts and can extract a design system from any URL via DESIGN.md — an agent-friendly markdown format for importing/exporting design rules across tools. Domain: Design.
 
@@ -79,3 +69,11 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Instagram Your Algo](https://blog.gainapp.com/social-media-updates/)** — Instagram rolling out "Your Algo" feed personalization to all English-speaking users, letting them add or remove topics to tune the Reels recommendation algorithm; simultaneously rebranded the Stories Camera "Shots" shortcut as "Instants" and repositioned it in the app's bottom-right corner. Domain: Social Media.
 
 - **[YouTube Veo 3 Fast](https://www.podcastvideos.com/articles/youtube-2026-updates-ai-live-streaming-monetization/)** — YouTube integrated Google's Veo 3 Fast AI video-generation model into the creator workflow for Shorts production; paired with AI editing for Shorts and upgraded live-streaming monetization options, making YouTube the first major platform to embed a frontier video-gen model directly in its creator tooling. Domain: Social Media.
+
+### 2026-04-16
+
+- **[Microsoft Agent Framework 1.0](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/)** — Microsoft's production-ready unification of Semantic Kernel and AutoGen into a single open-source SDK for .NET and Python (April 7, 2026); ships with stable LTS APIs, full MCP tool-discovery for dynamic external-tool invocation, and A2A 1.0 cross-framework agent interoperability — distinct from the Agent Governance Toolkit runtime-security layer already in this repo. Domain: Dev Workflows.
+
+- **[SiFive $400M Series G](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/)** — RISC-V chip startup SiFive raised a $400M Series G (April 9, 2026) led by Atreides Management with NVIDIA, Apollo Global Management, and T. Rowe Price; targets AI data center expansion, positioning open RISC-V architecture as a complement to Arm and the GPU-centric stack; company now valued at $3.65B. Domain: Business.
+
+- **[TikTok Fan Club](https://socialbee.com/blog/tiktok-updates/)** — TikTok replaced its Live Subscriptions program with a new "Fan Club" feature in April 2026; simultaneously launched a Creator Level system rewarding active creators, an Enhanced Inbox for easier audience management on iOS, and a redesigned TikTok Studio interface. Domain: Social Media.
