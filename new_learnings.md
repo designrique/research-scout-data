@@ -6,12 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-11
-
-- **[OpenAI $122B round at $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)** — Closed March 31, 2026; backed by SoftBank (co-lead), Amazon ($50B), and Nvidia ($30B); generating $2B/month in revenue; company targets a Q4 2026 IPO at ~$1 trillion valuation with $280B revenue goal by 2030. Domain: Business.
-
-- **[Instagram Teleprompter](https://www.socialmediatoday.com/news/instagram-edits-video-app-teleprompter-overlays-update/750386/)** — Instagram added a scrolling Teleprompter to the Edits app for Reels recording; script text displays directly below the front-facing camera with an adjustable speed slider; accessible from the main Reels creation menu alongside audio, effects, and green screen. Domain: Social Media.
-
 ### 2026-04-12
 
 - **[LG EXAONE 4.5](https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/lg-reveals-next-gen-multimodal-ai-exaone-45/2317491)** — LG AI Research's multimodal model (April 9, 2026) that simultaneously understands and reasons across text and images; scores 77.3 average across five STEM benchmarks, outperforming GPT-5-mini (73.5), Claude 4.5 Sonnet (74.6), and Qwen-3 235B (77.0). Domain: AI & LLMs.

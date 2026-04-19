@@ -1,3 +1,4 @@
 # References: Social Media
 
 - **YouTube Ask Studio** (2026-04-05) — YouTube rolled out Ask Studio, a conversational AI assistant inside YouTube Studio that lets creators query analytics, get content inspiration, and understand audience behavior through natural-language chat; paired with new paid-vs-organic analytics breakdowns and A/B title testing to help creators optimize performance without manually parsing dashboards. Source: https://routenote.com/blog/youtube-launches-ask-studio-ai-tool/
+- **Instagram Teleprompter** (2026-04-11) — Instagram added a scrolling Teleprompter to the Edits app for Reels recording; script text displays directly below the front-facing camera with an adjustable speed slider; accessible from the main Reels creation menu alongside audio, effects, and green screen. Source: https://www.socialmediatoday.com/news/instagram-edits-video-app-teleprompter-overlays-update/750386/

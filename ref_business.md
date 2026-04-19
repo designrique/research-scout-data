@@ -1,3 +1,4 @@
 # References: Business
 
 - **Capital One acquires Brex for $5.15B** (2026-04-05) — Announced January 22, 2026 (50% cash / 50% stock); the largest bank-fintech deal on record, well below Brex's $12.3B 2022 peak; Capital One absorbs Brex's AI-native corporate card and expense management platform to pivot from consumer lending toward B2B payments, with Brex co-founder Pedro Franceschi continuing to lead it as a distinct division. Source: https://www.cnbc.com/2026/01/22/capital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html
+- **OpenAI $122B funding round** (2026-04-11) — Closed March 31, 2026; backed by SoftBank (co-lead), Amazon ($50B), and Nvidia ($30B); generating $2B/month in revenue; targets Q4 2026 IPO at ~$1 trillion valuation with $280B revenue goal by 2030. Source: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
