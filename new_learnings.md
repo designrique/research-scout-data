@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-08
-
-- **[Google Stitch Redesign](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google relaunched Stitch from Google Labs in March 2026 with an AI-native infinite canvas, context-aware design agents, and instant prototyping; generates high-fidelity UI from natural-language prompts and can extract a design system from any URL via DESIGN.md — an agent-friendly markdown format for importing/exporting design rules across tools. Domain: Design.
-
-- **[Savvy Games Group acquires Moonton for $6B](https://blog.mean.ceo/top-funded-startups-news-april-2026/)** — Saudi-backed Savvy Games Group announced a planned $6 billion acquisition of ByteDance's mobile gaming platform Moonton (publisher of Mobile Legends: Bang Bang), one of Q1 2026's largest gaming M&A deals targeting Southeast Asian mobile esports audiences. Domain: Business.
-
-- **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — AI-powered design platform Picsart launched a monetization program on April 6, 2026 open to all creators with no invite list or minimum audience size; creators make original content using Picsart tools for specific brand campaigns and earn revenue based on audience engagement, expanding creator economy access to smaller accounts. Domain: Social Media.
-
 ### 2026-04-11
-
-- **[Meta Muse Spark](https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs-first-model-built-to-prioritize-people/)** — Meta's first proprietary frontier model from Meta Superintelligence Labs (April 8, 2026); natively multimodal reasoning model supporting tool use, visual chain of thought, and multi-agent orchestration; rolling out across Facebook, Instagram, WhatsApp, and Messenger — marks Meta's shift away from its Llama open-source strategy. Domain: AI & LLMs.
-
-- **[Meta Llama 4 Scout & Maverick](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)** — Open-weight multimodal MoE models released April 5, 2026; Maverick (17B active params / 128 experts) and Scout (long-context variant) natively process text, images, and video; available as open-weight downloads on Hugging Face and llama.com; powering Meta AI across WhatsApp, Messenger, Instagram, and meta.ai. Domain: AI & LLMs.
-
-- **[DeepSeek R2](https://www.spheron.network/blog/deploy-deepseek-r2-gpu-cloud/)** — Released March 2026; reasoning-first successor to DeepSeek-R1 achieving 92.7% on AIME 2025 and 89.4% on MATH-500 at ~70% lower cost than comparable Western models; uses extended KV latent compression to efficiently manage 10,000–40,000 token thinking chains during inference. Domain: AI & LLMs.
-
-- **[OpenAI Codex CLI](https://openai.com/index/introducing-codex/)** — Open-source terminal coding agent released April 3, 2026 (GitHub, npm, Homebrew); runs locally with full file read/edit/create access; April 10 update added Windows Sandbox egress networking and a GPT-5.3-Codex-Spark preview model delivering 1,000+ tokens/sec for near-instant in-terminal coding assistance. Domain: Dev Workflows.
 
 - **[OpenAI $122B round at $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)** — Closed March 31, 2026; backed by SoftBank (co-lead), Amazon ($50B), and Nvidia ($30B); generating $2B/month in revenue; company targets a Q4 2026 IPO at ~$1 trillion valuation with $280B revenue goal by 2030. Domain: Business.
 
@@ -77,3 +61,21 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[SiFive $400M Series G](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/)** — RISC-V chip startup SiFive raised a $400M Series G (April 9, 2026) led by Atreides Management with NVIDIA, Apollo Global Management, and T. Rowe Price; targets AI data center expansion, positioning open RISC-V architecture as a complement to Arm and the GPU-centric stack; company now valued at $3.65B. Domain: Business.
 
 - **[TikTok Fan Club](https://socialbee.com/blog/tiktok-updates/)** — TikTok replaced its Live Subscriptions program with a new "Fan Club" feature in April 2026; simultaneously launched a Creator Level system rewarding active creators, an Enhanced Inbox for easier audience management on iOS, and a redesigned TikTok Studio interface. Domain: Social Media.
+
+### 2026-04-19
+
+- **[Claude Opus 4.7](https://fazm.ai/blog/new-llm-releases-april-2026)** — Anthropic's latest frontier model scores 87.6% on SWE-bench Verified and 94.2% on GPQA Diamond, with a 1M-token context window and 3.3× higher-resolution vision than 4.6. ⚠️ Contradicts ref_ai_trends.md claim that Gemini 3.1 Pro leads SWE-bench Verified at 78.80% — Claude Opus 4.7's 87.6% would supersede that figure. Domain: AI & LLMs.
+
+- **[Mistral Medium 3](https://fazm.ai/blog/new-llm-releases-april-2026)** — Open-weight model released April 9, 2026; targets the performance gap between small local models and large proprietary ones with competitive benchmark results and a lower price point than frontier-class models. Domain: AI & LLMs.
+
+- **[NVIDIA Agent Toolkit](https://aimultiple.com/agentic-frameworks)** — Released March 16, 2026; open-source enterprise AI agent runtime including NVIDIA OpenShell, a purpose-built environment for building "self-evolving agents" that can dynamically modify their own capabilities at inference time. Domain: Dev Workflows.
+
+- **[Google Android CLI](https://byteiota.com/android-cli-70-faster-agent-development-april-2026/)** — Official Google CLI launched April 16, 2026; consolidates Android development into four commands (sdk install, create, emulator/run, update), reducing LLM token usage by 70% and completing tasks 3× faster than full Android Studio toolchain — designed for lean CI and AI-agent environments. Domain: Dev Workflows.
+
+- **[Canva AI 2.0](https://creati.ai/ai-news/2026-04-17/canva-launches-ai-2-0-agentic-design-platform-prompt-based-editing/)** — Canva relaunched as an agentic design platform in April 2026; a persistent-memory agent retains brand guidelines, past design preferences, and project goals across sessions, enabling natural-language orchestration of multi-step design tasks without re-specifying brand context each time. Domain: Design.
+
+- **[Claude Design](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)** — Anthropic launched April 17, 2026; lets non-designers (founders, PMs) create prototypes, slides, and one-pagers via natural language; reads a company's codebase and design files to apply its design system consistently across every generated artifact. Domain: Design.
+
+- **[OpenAI acquires Astral](https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/)** — Announced March 19, 2026; OpenAI purchased Astral, the company behind open-source Python tools `uv` (fast package manager) and `ruff` (linter), in its sixth acquisition of 2026 — signaling deeper investment in the Python developer toolchain. Domain: Business.
+
+- **[X Creator Studio](https://socialbee.com/blog/social-media-news/)** — X added a dedicated Creator Studio tab to its mobile app in April 2026, centralizing access to monetization tools, analytics dashboards, subscription settings, and payment info; also includes a new Inspiration tab that surfaces top-performing posts across the platform filterable by day, week, or month. Domain: Social Media.
