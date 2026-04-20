@@ -8,12 +8,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-04-12
 
-- **[LG EXAONE 4.5](https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/lg-reveals-next-gen-multimodal-ai-exaone-45/2317491)** — LG AI Research's multimodal model (April 9, 2026) that simultaneously understands and reasons across text and images; scores 77.3 average across five STEM benchmarks, outperforming GPT-5-mini (73.5), Claude 4.5 Sonnet (74.6), and Qwen-3 235B (77.0). Domain: AI & LLMs.
-
-- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — MIT-licensed open-source runtime security layer for autonomous AI agents (April 2, 2026); addresses all 10 OWASP agentic AI risks with sub-millisecond policy enforcement; includes Agent Compliance (EU AI Act/HIPAA/SOC2 mapping), Agent Marketplace (Ed25519 plugin signing with trust-tiered capability gating), and Agent Lightning (RL training governance); framework-agnostic hooks for LangChain, CrewAI, and Google ADK. Domain: Dev Workflows.
-
-- **[Lola](https://developers.redhat.com/articles/2026/04/08/manage-ai-context-lola-package-manager)** — Red Hat's universal package manager for AI context (April 8, 2026); distributes "lola modules" — portable packages of prompts, instructions, and context installable across AI assistants — enabling teams to version-control and share context configurations like software dependencies. Domain: Dev Workflows.
-
 - **[Facebook Creator Pay Program](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Meta launched a direct-payment monetization program (March 18, 2026) offering financial incentives to popular TikTok, YouTube, and Instagram creators to post on Facebook, targeting platform migration with competitive pay structures tied to audience size. Domain: Social Media.
 
 - **[Instagram Reels Affiliate Tagging](https://socialbee.com/blog/instagram-updates/)** — Instagram now lets creators tag affiliate products directly inside Reels with conversion data flowing natively inside Meta; enables in-video commerce tracking without third-party affiliate networks or redirect links, announced by Adam Mosseri in April 2026. Domain: Social Media.
@@ -73,3 +67,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[OpenAI acquires Astral](https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/)** — Announced March 19, 2026; OpenAI purchased Astral, the company behind open-source Python tools `uv` (fast package manager) and `ruff` (linter), in its sixth acquisition of 2026 — signaling deeper investment in the Python developer toolchain. Domain: Business.
 
 - **[X Creator Studio](https://socialbee.com/blog/social-media-news/)** — X added a dedicated Creator Studio tab to its mobile app in April 2026, centralizing access to monetization tools, analytics dashboards, subscription settings, and payment info; also includes a new Inspiration tab that surfaces top-performing posts across the platform filterable by day, week, or month. Domain: Social Media.
+
+### 2026-04-20
+
+- **[GPT-5 Turbo](https://fazm.ai/blog/new-llm-releases-april-2026)** — OpenAI shipped April 7, 2026; first OpenAI model to natively combine text, image, and audio generation inside a single model rather than routing to separate specialized models; positions OpenAI's API offering as fully multimodal by default. Domain: AI & LLMs.
+
+- **[Slack CLI v4.0.0](https://docs.slack.dev/changelog/2026/04/10/slack-cli/)** — Major release on April 10, 2026; introduces `slack create agent` command for one-command AI agent scaffolding; adds local manifest management, environment variable management, and file watching with live reloading — targeting the growing segment of developers building Slack-native agents. Domain: Dev Workflows.
+
+- **[VS Code 1.116](https://code.visualstudio.com/updates/v1_116)** — April 2026 release; ships Autopilot mode (public preview) for fully autonomous multi-step agent sessions that complete tasks without pausing for confirmation; GitHub Copilot is now built-in without requiring a separate extension; adds integrated browser debugging and TypeScript 6.0 support. Domain: Dev Workflows.
+
+- **[Google Stitch](https://www.unite.ai/best-ai-ux-ui-design-tools/)** — Underwent a major overhaul in March 2026, evolving from a basic prompt-to-mockup experiment into a full design workspace; now ships an infinite canvas, context-aware design agents, and instant prototyping — positioning it as a direct AI-native competitor to Figma Make and Canva AI. Domain: Design.
+
+- **[Factory $150M Series C](https://fundup.ai/recently-funded-startups)** — AI software engineering automation startup raised $150M Series C on April 16, 2026; Factory builds autonomous software engineering agents ("Droids") that handle pull request review, bug triage, and codebase onboarding end-to-end without human handoffs. Domain: Business.
