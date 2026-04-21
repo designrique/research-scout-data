@@ -6,20 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-12
-
-- **[Facebook Creator Pay Program](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Meta launched a direct-payment monetization program (March 18, 2026) offering financial incentives to popular TikTok, YouTube, and Instagram creators to post on Facebook, targeting platform migration with competitive pay structures tied to audience size. Domain: Social Media.
-
-- **[Instagram Reels Affiliate Tagging](https://socialbee.com/blog/instagram-updates/)** — Instagram now lets creators tag affiliate products directly inside Reels with conversion data flowing natively inside Meta; enables in-video commerce tracking without third-party affiliate networks or redirect links, announced by Adam Mosseri in April 2026. Domain: Social Media.
-
-### 2026-04-13
-
-- **[Rider 2026.1](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/)** — Released March 30, 2026; introduces the ACP Registry enabling one-click discovery and installation of AI coding agents (Junie, Claude Agent, Codex, GitHub Copilot, Cursor) directly inside the IDE; AI chat gains native database access for natural-language queries and modifications; expanded Unreal Engine mobile debugging on Android/iOS and a deepened Unity Profiler integration round out the release. Domain: Dev Workflows.
-
-- **[LinkedIn Top Voices Creator Partnerships](https://www.socialmediatoday.com/news/linkedin-adds-new-ways-for-brands-to-tap-into-creator-partnerships/815152/)** — LinkedIn expanded brand sponsorship options in 2026, allowing brands to secure exclusive ad placements alongside hand-selected Top Voices content and to sponsor LinkedIn Shows — exclusive creator and publisher video series; BrandLink placements and Thought Leader Ads are now self-serve in Campaign Manager, making premium creator-adjacent inventory accessible without a managed deal. Domain: Social Media.
-
-- **[Threads Native Podcast Previews](https://www.netinfluencer.com/meta-threads-launches-podcast-previews-to-court-creators-and-their-audiences/)** — Threads launched native in-feed podcast preview clips in 2026, letting creators upload short episode snippets that play directly in the feed without requiring Threads to host the full show; paired with the ability to link podcast profiles to Apple Podcasts, iHeart, and Spotify — positioning Threads as the canonical space for podcast fan discussion rather than a hosting platform. Domain: Social Media.
-
 ### 2026-04-14
 
 - **[Claude Mythos Preview](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)** — Anthropic's most advanced model (April 7, 2026), released as a gated preview rather than publicly — deployed exclusively for defensive cybersecurity via Project Glasswing; granted to 52 organizations (Amazon, Apple, Cisco, CrowdStrike, Microsoft, Linux Foundation, Palo Alto Networks, and others) with $100M in usage credits; used to find thousands of critical zero-day vulnerabilities across all major operating systems and browsers; strong agentic coding and reasoning without specific cybersecurity training. Domain: AI & LLMs.
@@ -79,3 +65,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Google Stitch](https://www.unite.ai/best-ai-ux-ui-design-tools/)** — Underwent a major overhaul in March 2026, evolving from a basic prompt-to-mockup experiment into a full design workspace; now ships an infinite canvas, context-aware design agents, and instant prototyping — positioning it as a direct AI-native competitor to Figma Make and Canva AI. Domain: Design.
 
 - **[Factory $150M Series C](https://fundup.ai/recently-funded-startups)** — AI software engineering automation startup raised $150M Series C on April 16, 2026; Factory builds autonomous software engineering agents ("Droids") that handle pull request review, bug triage, and codebase onboarding end-to-end without human handoffs. Domain: Business.
+
+### 2026-04-21
+
+- **[Claw Code](https://www.24-7pressrelease.com/press-release/533389/claw-code-launches-open-source-ai-coding-agent-framework-with-72000-github-stars-in-first-days)** — Open-source AI coding agent framework launched April 2, 2026 as a clean-room Python/Rust rewrite of Claude Code's agent harness architecture (built after Anthropic accidentally exposed the full TypeScript source in an npm package on March 31); hit 72,000 GitHub stars within days and has grown to 172k+, making it one of the fastest-growing AI tooling repos ever. Domain: AI & LLMs.
+
+- **[Agentic AI Foundation (AAIF)](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)** — Linux Foundation launched this vendor-neutral governance body anchored by three founding project contributions: Anthropic's Model Context Protocol (MCP), Block's Goose open-source AI agent, and OpenAI's AGENTS.md; grown to 170+ member organizations in under four months; hosted an MCP Dev Summit in New York (April 2–3, 2026) with a European edition planned. Domain: Dev Workflows.
+
+- **[Google completes $32B Wiz acquisition](https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/)** — Google finalized its all-cash acquisition of cloud cybersecurity startup Wiz on March 11, 2026 — the largest deal in Google's history and the biggest-ever purchase of a VC-backed startup; received U.S. and EU antitrust clearance before close; Wiz joins Google Cloud while maintaining its brand and multi-cloud security coverage. Domain: Business.
+
+- **[OpenAI acquires Hiro Finance](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)** — OpenAI acquired personal finance AI startup Hiro on April 13, 2026 to build an "AI personal CFO" capability inside ChatGPT; Hiro modeled financial scenarios against users' income, debt, and spending with built-in math verification; the Hiro product shut down April 20, 2026 with user data not transferred to OpenAI. Domain: Business.
+
+- **[TikTok × Canva Integration](https://www.bandt.com.au/tiktok-canva-expand-partnership-to-connect-design-tools-with-ad-publishing/)** — TikTok launched a native app in Canva's Apps Marketplace, letting creators and advertisers design TikTok-ready videos inside Canva and publish directly to TikTok Ads Manager or Asset Library without switching platforms; also integrates with Canva Grow AI campaign builder for end-to-end ad creation from idea to live TikTok campaign. Domain: Social Media.
