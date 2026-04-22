@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-14
-
-- **[Claude Mythos Preview](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)** — Anthropic's most advanced model (April 7, 2026), released as a gated preview rather than publicly — deployed exclusively for defensive cybersecurity via Project Glasswing; granted to 52 organizations (Amazon, Apple, Cisco, CrowdStrike, Microsoft, Linux Foundation, Palo Alto Networks, and others) with $100M in usage credits; used to find thousands of critical zero-day vulnerabilities across all major operating systems and browsers; strong agentic coding and reasoning without specific cybersecurity training. Domain: AI & LLMs.
-
-- **[Z.ai GLM-5.1](https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35)** — Open-source 754B-parameter MoE model released April 7, 2026 by Z.ai (formerly Zhipu AI) under the MIT license; scores 58.4 on SWE-Bench Pro — currently the top open-source result on that leaderboard, above GPT-5.4 (57.7) and Claude Opus 4.6 (57.3); targets agentic engineering and long-horizon coding tasks; weights available on Hugging Face with no commercial restrictions. ⚠️ SWE-Bench Pro scores remain contested across vendors per ref_ai_trends.md — treat comparisons as directional. Domain: AI & LLMs.
-
-- **[Figma Make Kits](https://www.figma.com/release-notes/)** — Released April 2, 2026; allows design system teams to bundle code alongside design guidelines so Figma's AI prototyping tool (Make) correctly applies the design system when generating new prototypes; supports npm packages (public and private within a Figma org), plus Figma library styles, variables, and tokens — bridging the gap between coded components and AI-generated UI. Domain: Design.
-
 ### 2026-04-15
-
-- **[Google Gemma 4](https://fazm.ai/blog/new-llm-releases-april-2026)** — Four open-weight variants (up to 31B parameters) released April 2, 2026 under Apache 2.0; the 31B dense model outperforms models 20× its size on major benchmarks; all weights available on Hugging Face and Google AI Studio from day one. Domain: AI & LLMs.
-
-- **[OpenAI Symphony](https://www.marktechpost.com/2026/03/05/openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs/)** — Open-source multi-agent orchestration framework released March 5, 2026; coordinates autonomous AI agents through structured, scalable implementation runs with parallelism, state management, and typed handoffs; complements OpenAI's model APIs for building enterprise-scale agentic pipelines. Domain: AI & LLMs.
-
-- **[GitHub Copilot CLI GA](https://www.infoq.com/news/2026/04/github-copilot-cli-ga/)** — GitHub Copilot CLI reached general availability in April 2026; integrates into the `gh` CLI with natural-language terminal command suggestions and code explanations; new Autopilot agentic mode handles multi-step terminal workflows autonomously; GPT-5.4 support and enterprise telemetry added for team-wide usage tracking. Domain: Dev Workflows.
-
-- **[Microsoft Aspire 13.2](https://www.infoq.com/news/2026/04/aspire-13-2-release/)** — April 2026 release of Microsoft's cloud-native dev stack; introduces TypeScript AppHost preview (define resource graphs in TypeScript instead of C#), detached CLI mode for background app management, and improved local-dev tooling aligned with AI coding agent workflows. Domain: Dev Workflows.
 
 - **[Instagram Your Algo](https://blog.gainapp.com/social-media-updates/)** — Instagram rolling out "Your Algo" feed personalization to all English-speaking users, letting them add or remove topics to tune the Reels recommendation algorithm; simultaneously rebranded the Stories Camera "Shots" shortcut as "Instants" and repositioned it in the app's bottom-right corner. Domain: Social Media.
 
@@ -77,3 +61,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[OpenAI acquires Hiro Finance](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)** — OpenAI acquired personal finance AI startup Hiro on April 13, 2026 to build an "AI personal CFO" capability inside ChatGPT; Hiro modeled financial scenarios against users' income, debt, and spending with built-in math verification; the Hiro product shut down April 20, 2026 with user data not transferred to OpenAI. Domain: Business.
 
 - **[TikTok × Canva Integration](https://www.bandt.com.au/tiktok-canva-expand-partnership-to-connect-design-tools-with-ad-publishing/)** — TikTok launched a native app in Canva's Apps Marketplace, letting creators and advertisers design TikTok-ready videos inside Canva and publish directly to TikTok Ads Manager or Asset Library without switching platforms; also integrates with Canva Grow AI campaign builder for end-to-end ad creation from idea to live TikTok campaign. Domain: Social Media.
+
+### 2026-04-22
+
+- **[Meta Llama 4](https://www.buildfastwithai.com/blogs/best-ai-models-april-2026)** — Two open-weight MoE variants released April 5, 2026: Scout (17B active/109B total, 16 experts, 10M-token context window) and Maverick (17B active/400B total, 128 experts, 1M-token context); Maverick benchmarks competitively with GPT-5.4 on coding and reasoning; Scout sets a new usable-context record among open models. Domain: AI & LLMs.
+
+- **[Meta Muse Spark](https://www.buildfastwithai.com/blogs/best-ai-models-april-2026)** — Meta's first proprietary closed frontier AI model, released April 8, 2026; unlike the Llama family, Muse Spark has no open weights and is hosted-only, marking Meta's entry into the closed-model competitive tier alongside OpenAI and Anthropic. Domain: AI & LLMs.
+
+- **[Google Agent Development Kit (ADK)](https://fazm.ai/blog/open-source-ai-projects-announcements-april-10-11-2026)** — Google open-sourced the Agent Development Kit on April 9, 2026; delivers multi-agent orchestration with built-in tool calling, memory management, and structured output; ships with connectors for Vertex AI, Gemini, and any OpenAI-compatible API — complementing but distinct from Microsoft Agent Framework 1.0. Domain: Dev Workflows.
+
+- **[OpenAI Codex CLI](https://aitoolly.com/ai-news/article/2026-04-03-openai-codex-cli-a-lightweight-terminal-based-programming-assistant-for-developers)** — Lightweight terminal-based AI coding assistant launched April 3, 2026; installable via npm and Homebrew; provides AI-powered command suggestions and code generation directly in the developer's terminal, complementing (but distinct from) GitHub Copilot CLI's `gh`-integrated approach. Domain: Dev Workflows.
+
+- **[Shopify AI Toolkit](https://fazm.ai/blog/open-source-ai-projects-announcements-april-10-11-2026)** — MIT-licensed plugin system released April 10, 2026; connects AI coding agents directly to the Shopify platform, giving agents live access to Shopify's documentation, API schemas, and code validation, and the ability to execute real store operations — enabling end-to-end agentic Shopify development. Domain: Dev Workflows.
+
+- **[Picsart Creator Monetization](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — AI-powered design platform Picsart launched an open creator monetization program on April 6, 2026; no invite list or minimum audience size required; creators earn based on engagement metrics (views, comments, shares, reach) generated by designs made with Picsart's AI tools. Domain: Social Media.
+
+- **[LinkedIn Live Scheduling Mandate](https://www.socialmediatoday.com/topic/social-media-updates/)** — LinkedIn now requires creators to schedule live events in advance before going live, eliminating spontaneous streaming; designed to maximize attendance through pre-promotion — a significant policy shift for live content strategy on the platform. Domain: Social Media.
