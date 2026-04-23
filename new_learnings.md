@@ -6,27 +6,9 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-15
-
-- **[Instagram Your Algo](https://blog.gainapp.com/social-media-updates/)** — Instagram rolling out "Your Algo" feed personalization to all English-speaking users, letting them add or remove topics to tune the Reels recommendation algorithm; simultaneously rebranded the Stories Camera "Shots" shortcut as "Instants" and repositioned it in the app's bottom-right corner. Domain: Social Media.
-
-- **[YouTube Veo 3 Fast](https://www.podcastvideos.com/articles/youtube-2026-updates-ai-live-streaming-monetization/)** — YouTube integrated Google's Veo 3 Fast AI video-generation model into the creator workflow for Shorts production; paired with AI editing for Shorts and upgraded live-streaming monetization options, making YouTube the first major platform to embed a frontier video-gen model directly in its creator tooling. Domain: Social Media.
-
-### 2026-04-16
-
-- **[Microsoft Agent Framework 1.0](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/)** — Microsoft's production-ready unification of Semantic Kernel and AutoGen into a single open-source SDK for .NET and Python (April 7, 2026); ships with stable LTS APIs, full MCP tool-discovery for dynamic external-tool invocation, and A2A 1.0 cross-framework agent interoperability — distinct from the Agent Governance Toolkit runtime-security layer already in this repo. Domain: Dev Workflows.
-
-- **[SiFive $400M Series G](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/)** — RISC-V chip startup SiFive raised a $400M Series G (April 9, 2026) led by Atreides Management with NVIDIA, Apollo Global Management, and T. Rowe Price; targets AI data center expansion, positioning open RISC-V architecture as a complement to Arm and the GPU-centric stack; company now valued at $3.65B. Domain: Business.
-
-- **[TikTok Fan Club](https://socialbee.com/blog/tiktok-updates/)** — TikTok replaced its Live Subscriptions program with a new "Fan Club" feature in April 2026; simultaneously launched a Creator Level system rewarding active creators, an Enhanced Inbox for easier audience management on iOS, and a redesigned TikTok Studio interface. Domain: Social Media.
-
 ### 2026-04-19
 
 - **[Claude Opus 4.7](https://fazm.ai/blog/new-llm-releases-april-2026)** — Anthropic's latest frontier model scores 87.6% on SWE-bench Verified and 94.2% on GPQA Diamond, with a 1M-token context window and 3.3× higher-resolution vision than 4.6. ⚠️ Contradicts ref_ai_trends.md claim that Gemini 3.1 Pro leads SWE-bench Verified at 78.80% — Claude Opus 4.7's 87.6% would supersede that figure. Domain: AI & LLMs.
-
-- **[Mistral Medium 3](https://fazm.ai/blog/new-llm-releases-april-2026)** — Open-weight model released April 9, 2026; targets the performance gap between small local models and large proprietary ones with competitive benchmark results and a lower price point than frontier-class models. Domain: AI & LLMs.
-
-- **[NVIDIA Agent Toolkit](https://aimultiple.com/agentic-frameworks)** — Released March 16, 2026; open-source enterprise AI agent runtime including NVIDIA OpenShell, a purpose-built environment for building "self-evolving agents" that can dynamically modify their own capabilities at inference time. Domain: Dev Workflows.
 
 - **[Google Android CLI](https://byteiota.com/android-cli-70-faster-agent-development-april-2026/)** — Official Google CLI launched April 16, 2026; consolidates Android development into four commands (sdk install, create, emulator/run, update), reducing LLM token usage by 70% and completing tasks 3× faster than full Android Studio toolchain — designed for lean CI and AI-agent environments. Domain: Dev Workflows.
 
@@ -35,8 +17,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Claude Design](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)** — Anthropic launched April 17, 2026; lets non-designers (founders, PMs) create prototypes, slides, and one-pagers via natural language; reads a company's codebase and design files to apply its design system consistently across every generated artifact. Domain: Design.
 
 - **[OpenAI acquires Astral](https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/)** — Announced March 19, 2026; OpenAI purchased Astral, the company behind open-source Python tools `uv` (fast package manager) and `ruff` (linter), in its sixth acquisition of 2026 — signaling deeper investment in the Python developer toolchain. Domain: Business.
-
-- **[X Creator Studio](https://socialbee.com/blog/social-media-news/)** — X added a dedicated Creator Studio tab to its mobile app in April 2026, centralizing access to monetization tools, analytics dashboards, subscription settings, and payment info; also includes a new Inspiration tab that surfaces top-performing posts across the platform filterable by day, week, or month. Domain: Social Media.
 
 ### 2026-04-20
 
@@ -77,3 +57,21 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Picsart Creator Monetization](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — AI-powered design platform Picsart launched an open creator monetization program on April 6, 2026; no invite list or minimum audience size required; creators earn based on engagement metrics (views, comments, shares, reach) generated by designs made with Picsart's AI tools. Domain: Social Media.
 
 - **[LinkedIn Live Scheduling Mandate](https://www.socialmediatoday.com/topic/social-media-updates/)** — LinkedIn now requires creators to schedule live events in advance before going live, eliminating spontaneous streaming; designed to maximize attendance through pre-promotion — a significant policy shift for live content strategy on the platform. Domain: Social Media.
+
+### 2026-04-23
+
+- **[Google Gemma 4](https://fazm.ai/blog/new-llm-releases-april-2026)** — Google released four Gemma 4 open-weight model variants under Apache 2.0 in April 2026, expanding the open-source Gemma family with improved multilingual and multimodal capabilities for on-device and cloud deployment. Domain: AI & LLMs.
+
+- **[Zhipu AI GLM-5.1](https://llm-stats.com/ai-news)** — Zhipu AI's 744-billion-parameter MoE model with a 200K-token context window; released April 7, 2026 with a reported SWE-Bench Pro score of 58.4, topping both GPT-5.4 and Claude Opus 4.6 — the highest recorded score for an open-weight model on that benchmark. Domain: AI & LLMs.
+
+- **[Cursor 3](https://medium.com/@han.heloir/cursor-3-is-not-an-ide-update-its-a-bet-that-you-ll-manage-agents-not-write-code-0d2bc51f0dcb)** — Major IDE overhaul released April 2026; repositions Cursor as a unified agent-management workspace with multi-repo support, integrated local and cloud agent orchestration, Bugbot learned rules trained on real PR feedback, and fast local code-search indexes for large repositories. Domain: Dev Workflows.
+
+- **[Junie CLI (Beta)](https://tokencalculator.com/blog/best-ai-ide-cli-tools-april-2026-claude-code-wins)** — JetBrains' lightweight, LLM-agnostic terminal coding agent entered public beta in April 2026; supports bring-your-own-key across OpenAI, Anthropic, Google, and Grok — a direct terminal-first alternative to Claude Code and OpenAI Codex CLI. Domain: Dev Workflows.
+
+- **[Figma Weave](https://www.figma.com/release-notes/)** — Figma's new product launched April 2026 for building repeatable, shareable generative AI workflows on a visual canvas; published Weave workflows are available as a dedicated Community resource type, enabling teams to share and reuse AI workflows across Figma Design, FigJam, and Slides. Domain: Design.
+
+- **[SpaceX acquires xAI](https://builtin.com/articles/top-tech-ipos-2026)** — SpaceX completed its acquisition of Elon Musk's AI lab xAI in 2026, consolidating aerospace and AI infrastructure under a single entity valued at $1.25 trillion — making SpaceX the most valuable private company in the world. Domain: Business.
+
+- **[Anthropic raises $30B at $380B valuation](https://marketwise.com/investing/hot-ipos-to-watch-2026/)** — Anthropic secured a $30 billion funding round in early 2026 at a $380 billion valuation, with annual run-rate revenue projected to grow 7× from 2025 to 2028; positions Anthropic as a leading IPO candidate. Domain: Business.
+
+- **[Instagram for iPad](https://socialbee.com/blog/instagram-updates/)** — Instagram officially launched a native iPad app in April 2026 — more than 15 years after the platform's 2010 debut — featuring Feed, Stories, DMs, and Reels with a tablet-optimized layout. Domain: Social Media.
