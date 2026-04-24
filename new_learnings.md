@@ -6,27 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-19
-
-- **[Claude Opus 4.7](https://fazm.ai/blog/new-llm-releases-april-2026)** — Anthropic's latest frontier model scores 87.6% on SWE-bench Verified and 94.2% on GPQA Diamond, with a 1M-token context window and 3.3× higher-resolution vision than 4.6. ⚠️ Contradicts ref_ai_trends.md claim that Gemini 3.1 Pro leads SWE-bench Verified at 78.80% — Claude Opus 4.7's 87.6% would supersede that figure. Domain: AI & LLMs.
-
-- **[Google Android CLI](https://byteiota.com/android-cli-70-faster-agent-development-april-2026/)** — Official Google CLI launched April 16, 2026; consolidates Android development into four commands (sdk install, create, emulator/run, update), reducing LLM token usage by 70% and completing tasks 3× faster than full Android Studio toolchain — designed for lean CI and AI-agent environments. Domain: Dev Workflows.
-
-- **[Canva AI 2.0](https://creati.ai/ai-news/2026-04-17/canva-launches-ai-2-0-agentic-design-platform-prompt-based-editing/)** — Canva relaunched as an agentic design platform in April 2026; a persistent-memory agent retains brand guidelines, past design preferences, and project goals across sessions, enabling natural-language orchestration of multi-step design tasks without re-specifying brand context each time. Domain: Design.
-
-- **[Claude Design](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)** — Anthropic launched April 17, 2026; lets non-designers (founders, PMs) create prototypes, slides, and one-pagers via natural language; reads a company's codebase and design files to apply its design system consistently across every generated artifact. Domain: Design.
-
-- **[OpenAI acquires Astral](https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/)** — Announced March 19, 2026; OpenAI purchased Astral, the company behind open-source Python tools `uv` (fast package manager) and `ruff` (linter), in its sixth acquisition of 2026 — signaling deeper investment in the Python developer toolchain. Domain: Business.
-
 ### 2026-04-20
-
-- **[GPT-5 Turbo](https://fazm.ai/blog/new-llm-releases-april-2026)** — OpenAI shipped April 7, 2026; first OpenAI model to natively combine text, image, and audio generation inside a single model rather than routing to separate specialized models; positions OpenAI's API offering as fully multimodal by default. Domain: AI & LLMs.
-
-- **[Slack CLI v4.0.0](https://docs.slack.dev/changelog/2026/04/10/slack-cli/)** — Major release on April 10, 2026; introduces `slack create agent` command for one-command AI agent scaffolding; adds local manifest management, environment variable management, and file watching with live reloading — targeting the growing segment of developers building Slack-native agents. Domain: Dev Workflows.
-
-- **[VS Code 1.116](https://code.visualstudio.com/updates/v1_116)** — April 2026 release; ships Autopilot mode (public preview) for fully autonomous multi-step agent sessions that complete tasks without pausing for confirmation; GitHub Copilot is now built-in without requiring a separate extension; adds integrated browser debugging and TypeScript 6.0 support. Domain: Dev Workflows.
-
-- **[Google Stitch](https://www.unite.ai/best-ai-ux-ui-design-tools/)** — Underwent a major overhaul in March 2026, evolving from a basic prompt-to-mockup experiment into a full design workspace; now ships an infinite canvas, context-aware design agents, and instant prototyping — positioning it as a direct AI-native competitor to Figma Make and Canva AI. Domain: Design.
 
 - **[Factory $150M Series C](https://fundup.ai/recently-funded-startups)** — AI software engineering automation startup raised $150M Series C on April 16, 2026; Factory builds autonomous software engineering agents ("Droids") that handle pull request review, bug triage, and codebase onboarding end-to-end without human handoffs. Domain: Business.
 
@@ -75,3 +55,21 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Anthropic raises $30B at $380B valuation](https://marketwise.com/investing/hot-ipos-to-watch-2026/)** — Anthropic secured a $30 billion funding round in early 2026 at a $380 billion valuation, with annual run-rate revenue projected to grow 7× from 2025 to 2028; positions Anthropic as a leading IPO candidate. Domain: Business.
 
 - **[Instagram for iPad](https://socialbee.com/blog/instagram-updates/)** — Instagram officially launched a native iPad app in April 2026 — more than 15 years after the platform's 2010 debut — featuring Feed, Stories, DMs, and Reels with a tablet-optimized layout. Domain: Social Media.
+
+### 2026-04-24
+
+- **[Claude Mythos](https://fazm.ai/blog/new-llm-releases-april-2026)** — Anthropic confirmed Claude Mythos on April 7, 2026 as the most capable model it has ever built; the model will not be released to the public and is limited to select partner previews, marking a departure from Anthropic's typical staged-release cadence. Domain: AI & LLMs.
+
+- **[OpenAI Agents SDK](https://aitoolly.com/ai-news/article/2026-04-20-openai-releases-openai-agents-sdk-a-lightweight-python-framework-for-multi-agent-workflows)** — OpenAI released openai-agents-python in April 2026, an official lightweight Python framework for orchestrating multi-agent workflows; supports agent handoffs, built-in tool calling, and structured output — a developer-facing counterpart to the end-user ChatGPT agent experience. Domain: AI & LLMs.
+
+- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Microsoft open-sourced the Agent Governance Toolkit (MIT license) on April 2, 2026, providing runtime security and policy enforcement for autonomous AI agents in production; enforces permission boundaries, audit logging, and rollback controls at the agent-execution layer. Domain: Dev Workflows.
+
+- **[GitHub Copilot CLI GA](https://www.infoq.com/news/2026/04/github-copilot-cli-ga/)** — GitHub launched Copilot CLI into general availability in April 2026, bringing natural-language command suggestions and code explanations directly to the terminal; ships with an Autopilot agentic mode and GPT-5.4 support, plus enterprise telemetry for tracking usage across dev teams. Domain: Dev Workflows.
+
+- **[CodeRabbit Slack Agent](https://adtmag.com/articles/2026/04/22/coderabbit-launches-slack-agent-aimed-at-broader-software-development-workflow.aspx)** — CodeRabbit launched a Slack-native AI agent on April 22, 2026 that acts as a single agent across all seven phases of the SDLC; connects to GitHub, GitLab, Bitbucket, Azure DevOps, Jira, Linear, Notion, and Confluence — bringing code review and bug triage into the chat interface teams already use. Domain: Dev Workflows.
+
+- **[Schematic raises $6.5M seed](https://news.crunchbase.com/venture/update-pricing-faster-easier-saas-ai-schematic/)** — Pricing and packaging infrastructure startup Schematic raised a $6.5M seed round led by S3 Ventures on April 21, 2026; the product lets SaaS and AI companies update pricing tiers and entitlement rules in minutes rather than quarters by abstracting them from application code. Domain: Business.
+
+- **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and overhauled BrandConnect into YouTube Creator Partnerships at NewFronts 2026; centralizes creator-brand deal discovery, management, and performance reporting inside YouTube Studio for creators and inside Google Ads / DV360 for advertisers, with expanded API access for agencies. Domain: Social Media.
+
+- **[Instagram creator tools unlocked for all public accounts](https://blog.gainapp.com/social-media-updates/)** — As of March 2026, Instagram unlocked its full creator toolkit for every public account with no follower threshold; includes content scheduling, an insights dashboard, trending audio tools, and performance analytics — previously restricted to accounts above a minimum follower count. Domain: Social Media.
