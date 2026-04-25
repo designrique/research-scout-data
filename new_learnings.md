@@ -6,22 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-20
-
-- **[Factory $150M Series C](https://fundup.ai/recently-funded-startups)** — AI software engineering automation startup raised $150M Series C on April 16, 2026; Factory builds autonomous software engineering agents ("Droids") that handle pull request review, bug triage, and codebase onboarding end-to-end without human handoffs. Domain: Business.
-
-### 2026-04-21
-
-- **[Claw Code](https://www.24-7pressrelease.com/press-release/533389/claw-code-launches-open-source-ai-coding-agent-framework-with-72000-github-stars-in-first-days)** — Open-source AI coding agent framework launched April 2, 2026 as a clean-room Python/Rust rewrite of Claude Code's agent harness architecture (built after Anthropic accidentally exposed the full TypeScript source in an npm package on March 31); hit 72,000 GitHub stars within days and has grown to 172k+, making it one of the fastest-growing AI tooling repos ever. Domain: AI & LLMs.
-
-- **[Agentic AI Foundation (AAIF)](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)** — Linux Foundation launched this vendor-neutral governance body anchored by three founding project contributions: Anthropic's Model Context Protocol (MCP), Block's Goose open-source AI agent, and OpenAI's AGENTS.md; grown to 170+ member organizations in under four months; hosted an MCP Dev Summit in New York (April 2–3, 2026) with a European edition planned. Domain: Dev Workflows.
-
-- **[Google completes $32B Wiz acquisition](https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/)** — Google finalized its all-cash acquisition of cloud cybersecurity startup Wiz on March 11, 2026 — the largest deal in Google's history and the biggest-ever purchase of a VC-backed startup; received U.S. and EU antitrust clearance before close; Wiz joins Google Cloud while maintaining its brand and multi-cloud security coverage. Domain: Business.
-
-- **[OpenAI acquires Hiro Finance](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)** — OpenAI acquired personal finance AI startup Hiro on April 13, 2026 to build an "AI personal CFO" capability inside ChatGPT; Hiro modeled financial scenarios against users' income, debt, and spending with built-in math verification; the Hiro product shut down April 20, 2026 with user data not transferred to OpenAI. Domain: Business.
-
-- **[TikTok × Canva Integration](https://www.bandt.com.au/tiktok-canva-expand-partnership-to-connect-design-tools-with-ad-publishing/)** — TikTok launched a native app in Canva's Apps Marketplace, letting creators and advertisers design TikTok-ready videos inside Canva and publish directly to TikTok Ads Manager or Asset Library without switching platforms; also integrates with Canva Grow AI campaign builder for end-to-end ad creation from idea to live TikTok campaign. Domain: Social Media.
-
 ### 2026-04-22
 
 - **[Meta Llama 4](https://www.buildfastwithai.com/blogs/best-ai-models-april-2026)** — Two open-weight MoE variants released April 5, 2026: Scout (17B active/109B total, 16 experts, 10M-token context window) and Maverick (17B active/400B total, 128 experts, 1M-token context); Maverick benchmarks competitively with GPT-5.4 on coding and reasoning; Scout sets a new usable-context record among open models. Domain: AI & LLMs.
@@ -73,3 +57,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and overhauled BrandConnect into YouTube Creator Partnerships at NewFronts 2026; centralizes creator-brand deal discovery, management, and performance reporting inside YouTube Studio for creators and inside Google Ads / DV360 for advertisers, with expanded API access for agencies. Domain: Social Media.
 
 - **[Instagram creator tools unlocked for all public accounts](https://blog.gainapp.com/social-media-updates/)** — As of March 2026, Instagram unlocked its full creator toolkit for every public account with no follower threshold; includes content scheduling, an insights dashboard, trending audio tools, and performance analytics — previously restricted to accounts above a minimum follower count. Domain: Social Media.
+
+### 2026-04-25
+
+- **[DeepSeek new models (April 2026)](https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech)** — DeepSeek unveiled its latest models on April 24, 2026, exactly one year after its original open-source releases disrupted the AI industry by achieving frontier-level performance at a fraction of U.S. competitor costs; the announcement reinforces China's continued competitive standing in open-weight model development. Domain: AI & LLMs.
+
+- **[Microsoft Agent Framework 1.0 GA](https://visualstudiomagazine.com/articles/2026/04/06/microsoft-ships-production-ready-agent-framework-1-0-for-net-and-python.aspx)** — Microsoft shipped Agent Framework 1.0 for .NET and Python on April 3, 2026, merging AutoGen and Semantic Kernel into a single production-ready SDK with stable APIs, enterprise-grade multi-agent orchestration, multi-provider model support, and cross-runtime interoperability via MCP and A2A protocols. Domain: Dev Workflows.
+
+- **[Google Stitch](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google Labs launched Stitch, an AI-native software design canvas that generates and iterates high-fidelity UI from natural-language prompts; enables designers and non-designers to create, prototype, and collaborate on full-fidelity interfaces without traditional design tool expertise. Domain: Design.
+
+- **[Tesla $2B AI Hardware Acquisition](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)** — Tesla quietly disclosed a $2 billion acquisition of an unnamed AI hardware company in its Q1 2026 10-Q filing; roughly $1.8B is subject to service conditions and performance milestones, signaling a major push into proprietary AI chip infrastructure beyond its in-house Dojo program. Domain: Business.
+
+- **[Facebook Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Facebook launched Creator Fast Track on March 18, 2026 to recruit established creators from TikTok and YouTube; offers guaranteed pay and immediate access to all monetization tools with no minimum follower threshold, bypassing the normal eligibility criteria to lower the switching cost. Domain: Social Media.
+
+- **[Beehiiv Creator Tools Expansion](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)** — Beehiiv launched metered paywalls, native webinar hosting, and built-in podcast distribution on April 23, 2026; newsletter creators can now gate content with configurable reset periods, run live events, and distribute audio — all without leaving the platform. Domain: Social Media.
+
+- **[Bond Social Platform](https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/)** — Bond launched on April 21, 2026 as an AI-powered social platform that surfaces curated "memory" highlights instead of an engagement-optimized algorithmic feed; designed explicitly to reduce compulsive scrolling by prioritizing meaningful past moments over real-time content velocity. Domain: Social Media.
