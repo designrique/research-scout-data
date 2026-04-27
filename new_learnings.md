@@ -6,22 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-23
-
-- **[Zhipu AI GLM-5.1](https://llm-stats.com/ai-news)** — Zhipu AI's 744-billion-parameter MoE model with a 200K-token context window; released April 7, 2026 with a reported SWE-Bench Pro score of 58.4, topping both GPT-5.4 and Claude Opus 4.6 — the highest recorded score for an open-weight model on that benchmark. Domain: AI & LLMs.
-
-- **[Cursor 3](https://medium.com/@han.heloir/cursor-3-is-not-an-ide-update-its-a-bet-that-you-ll-manage-agents-not-write-code-0d2bc51f0dcb)** — Major IDE overhaul released April 2026; repositions Cursor as a unified agent-management workspace with multi-repo support, integrated local and cloud agent orchestration, Bugbot learned rules trained on real PR feedback, and fast local code-search indexes for large repositories. Domain: Dev Workflows.
-
-- **[Junie CLI (Beta)](https://tokencalculator.com/blog/best-ai-ide-cli-tools-april-2026-claude-code-wins)** — JetBrains' lightweight, LLM-agnostic terminal coding agent entered public beta in April 2026; supports bring-your-own-key across OpenAI, Anthropic, Google, and Grok — a direct terminal-first alternative to Claude Code and OpenAI Codex CLI. Domain: Dev Workflows.
-
-- **[Figma Weave](https://www.figma.com/release-notes/)** — Figma's new product launched April 2026 for building repeatable, shareable generative AI workflows on a visual canvas; published Weave workflows are available as a dedicated Community resource type, enabling teams to share and reuse AI workflows across Figma Design, FigJam, and Slides. Domain: Design.
-
-- **[SpaceX acquires xAI](https://builtin.com/articles/top-tech-ipos-2026)** — SpaceX completed its acquisition of Elon Musk's AI lab xAI in 2026, consolidating aerospace and AI infrastructure under a single entity valued at $1.25 trillion — making SpaceX the most valuable private company in the world. Domain: Business.
-
-- **[Anthropic raises $30B at $380B valuation](https://marketwise.com/investing/hot-ipos-to-watch-2026/)** — Anthropic secured a $30 billion funding round in early 2026 at a $380 billion valuation, with annual run-rate revenue projected to grow 7× from 2025 to 2028; positions Anthropic as a leading IPO candidate. Domain: Business.
-
-- **[Instagram for iPad](https://socialbee.com/blog/instagram-updates/)** — Instagram officially launched a native iPad app in April 2026 — more than 15 years after the platform's 2010 debut — featuring Feed, Stories, DMs, and Reels with a tablet-optimized layout. Domain: Social Media.
-
 ### 2026-04-24
 
 - **[Claude Mythos](https://fazm.ai/blog/new-llm-releases-april-2026)** — Anthropic confirmed Claude Mythos on April 7, 2026 as the most capable model it has ever built; the model will not be released to the public and is limited to select partner previews, marking a departure from Anthropic's typical staged-release cadence. Domain: AI & LLMs.
@@ -73,3 +57,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[TikTok × Google Search integration](https://almcorp.com/blog/digital-marketing-news-april-2026/)** — TikTok video titles and captions now appear directly in standard Google web search results as of April 2026, extending organic reach beyond the TikTok app and making keyword-optimized titles and captions a meaningful SEO lever for creators. Domain: Social Media.
 
 - **[LinkedIn Top Voices Brand Sponsorships](https://www.theezeragency.com/post/social-media-industry-news-april-2026)** — LinkedIn launched tools in Campaign Manager in April 2026 allowing brands to buy exclusive ad placements alongside Top Voices content; integrates Stripe-powered compensation so brands can pay professional influencers directly through the platform without off-platform deal management. Domain: Social Media.
+
+### 2026-04-27
+
+- **[GPT-5.5](https://fazm.ai/blog/llm-releases-april-2026)** — OpenAI shipped GPT-5.5 on April 23, 2026 with omnimodal capabilities (text, image, and audio reasoning in a single model) and an 88.7% SWE-Bench Verified score. ⚠️ Supersedes Claude Opus 4.7 (87.6%) as the current SWE-Bench Verified leader noted in ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[Kimi K2.6](https://fazm.ai/blog/llm-releases-april-2026)** — Moonshot AI released Kimi K2.6 on April 20, 2026 with a 300-sub-agent swarm architecture that enables coordinated parallel task execution across hundreds of specialized sub-agents in a single workflow. Domain: AI & LLMs.
+
+- **[Android CLI](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)** — Google released Android CLI in April 2026 alongside Android skills and a knowledge base for agentic workflows; internal experiments show 70% fewer LLM tokens consumed and 3× faster project and environment setup compared to unstructured LLM-based Android development. Domain: Dev Workflows.
+
+- **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)** — Anthropic Labs launched Claude Design on April 17, 2026 (research preview for Pro, Max, Team, and Enterprise users); the tool lets users co-create polished designs, prototypes, slides, and one-pagers with Claude Opus 4.7, automatically applying team colors, typography, and components extracted from an existing codebase or design file. Domain: Design.
+
+- **[Cohere acquires Aleph Alpha](https://www.digitaljournal.com/business/canadian-ai-firm-cohere-buys-aleph-alpha-in-bid-to-take-on-silicon-valley/article)** — Canadian enterprise AI company Cohere acquired Germany's Aleph Alpha in 2026, combining North American LLM infrastructure with European sovereign AI capabilities to compete against US AI giants at global scale. Domain: Business.
+
+- **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — Picsart launched a creator monetization program on April 6, 2026, open to all of its 130M+ users with no invite list or minimum audience size; creators earn revenue based on views, comments, shares, and reach on their own social channels — a performance model rewarding output over follower scale. Domain: Social Media.
