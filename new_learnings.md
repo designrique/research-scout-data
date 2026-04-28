@@ -8,18 +8,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-04-24
 
-- **[Claude Mythos](https://fazm.ai/blog/new-llm-releases-april-2026)** — Anthropic confirmed Claude Mythos on April 7, 2026 as the most capable model it has ever built; the model will not be released to the public and is limited to select partner previews, marking a departure from Anthropic's typical staged-release cadence. Domain: AI & LLMs.
-
-- **[OpenAI Agents SDK](https://aitoolly.com/ai-news/article/2026-04-20-openai-releases-openai-agents-sdk-a-lightweight-python-framework-for-multi-agent-workflows)** — OpenAI released openai-agents-python in April 2026, an official lightweight Python framework for orchestrating multi-agent workflows; supports agent handoffs, built-in tool calling, and structured output — a developer-facing counterpart to the end-user ChatGPT agent experience. Domain: AI & LLMs.
-
-- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Microsoft open-sourced the Agent Governance Toolkit (MIT license) on April 2, 2026, providing runtime security and policy enforcement for autonomous AI agents in production; enforces permission boundaries, audit logging, and rollback controls at the agent-execution layer. Domain: Dev Workflows.
-
-- **[GitHub Copilot CLI GA](https://www.infoq.com/news/2026/04/github-copilot-cli-ga/)** — GitHub launched Copilot CLI into general availability in April 2026, bringing natural-language command suggestions and code explanations directly to the terminal; ships with an Autopilot agentic mode and GPT-5.4 support, plus enterprise telemetry for tracking usage across dev teams. Domain: Dev Workflows.
-
-- **[CodeRabbit Slack Agent](https://adtmag.com/articles/2026/04/22/coderabbit-launches-slack-agent-aimed-at-broader-software-development-workflow.aspx)** — CodeRabbit launched a Slack-native AI agent on April 22, 2026 that acts as a single agent across all seven phases of the SDLC; connects to GitHub, GitLab, Bitbucket, Azure DevOps, Jira, Linear, Notion, and Confluence — bringing code review and bug triage into the chat interface teams already use. Domain: Dev Workflows.
-
-- **[Schematic raises $6.5M seed](https://news.crunchbase.com/venture/update-pricing-faster-easier-saas-ai-schematic/)** — Pricing and packaging infrastructure startup Schematic raised a $6.5M seed round led by S3 Ventures on April 21, 2026; the product lets SaaS and AI companies update pricing tiers and entitlement rules in minutes rather than quarters by abstracting them from application code. Domain: Business.
-
 - **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and overhauled BrandConnect into YouTube Creator Partnerships at NewFronts 2026; centralizes creator-brand deal discovery, management, and performance reporting inside YouTube Studio for creators and inside Google Ads / DV360 for advertisers, with expanded API access for agencies. Domain: Social Media.
 
 - **[Instagram creator tools unlocked for all public accounts](https://blog.gainapp.com/social-media-updates/)** — As of March 2026, Instagram unlocked its full creator toolkit for every public account with no follower threshold; includes content scheduling, an insights dashboard, trending audio tools, and performance analytics — previously restricted to accounts above a minimum follower count. Domain: Social Media.
@@ -71,3 +59,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Cohere acquires Aleph Alpha](https://www.digitaljournal.com/business/canadian-ai-firm-cohere-buys-aleph-alpha-in-bid-to-take-on-silicon-valley/article)** — Canadian enterprise AI company Cohere acquired Germany's Aleph Alpha in 2026, combining North American LLM infrastructure with European sovereign AI capabilities to compete against US AI giants at global scale. Domain: Business.
 
 - **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — Picsart launched a creator monetization program on April 6, 2026, open to all of its 130M+ users with no invite list or minimum audience size; creators earn revenue based on views, comments, shares, and reach on their own social channels — a performance model rewarding output over follower scale. Domain: Social Media.
+
+### 2026-04-28
+
+- **[Meta Llama 4](https://fazm.ai/blog/new-open-source-llm-releases-april-2026)** — Meta released the Llama 4 family on April 5, 2026 with two flagship models: Scout (109B total/17B active parameters, 10M-token context window) and Maverick (400B total/17B active, strongest on code and multilingual tasks); both open-weight, setting a new bar for accessible long-context open-source inference. Domain: AI & LLMs.
+
+- **[Microsoft Phi-4-reasoning](https://llm-stats.com/ai-news)** — Microsoft released Phi-4-reasoning on April 10, 2026, a 14B dense model that matches or exceeds far larger models on reasoning benchmarks through an extended chain-of-thought training approach; demonstrates that parameter-efficient architectures can close the gap with frontier-scale models without scaling parameters. Domain: AI & LLMs.
+
+- **[Google Gemini CLI](https://www.crescendo.ai/news/agentic-ai-news-and-developments)** — Google released its official open-source Gemini CLI terminal agent in April 2026 under Apache 2.0; runs a ReAct reasoning loop with MCP server support and Gemini's 1M-token context window directly in the shell, giving developers a first-party agentic alternative to Claude Code and OpenAI Codex. Domain: Dev Workflows.
+
+- **[Salesforce Headless 360](https://fazm.ai/blog/ai-developer-tools-release-notes-changelog-april-2026)** — Salesforce unveiled Headless 360 at its TDX developer conference on April 16, 2026, exposing every Salesforce platform capability as an API endpoint, MCP tool, or CLI command; lets AI agents (Claude Code, Cursor, Codex) build and operate on Salesforce without opening a browser, turning the CRM into a fully agent-addressable back-end. Domain: Dev Workflows.
+
+- **[Cursor v3.0](https://tokencalculator.com/blog/best-ai-ide-cli-tools-april-2026-claude-code-wins)** — Cursor launched version 3.0 in April 2026 with parallel agents, enabling multiple AI instances to work concurrently across different parts of a codebase within a single session; cements Cursor alongside Claude Code and Codex as one of three dominant agentic IDE platforms. Domain: Dev Workflows.
+
+- **[Cerebras Systems IPO](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html)** — AI chipmaker Cerebras Systems filed for IPO on April 17, 2026 at a $23B valuation after reporting $510M in 2025 revenue; filing came after a previously scrapped 2025 attempt and coincides with a new OpenAI partnership deal, positioning Cerebras as a credible alternative to Nvidia GPU dominance in AI inference. Domain: Business.
+
+- **[Snapchat Imagine Lens](https://web.swipeinsight.app/topics/snapchat)** — Snapchat launched the Imagine Lens in April 2026 — its first Open Prompt Image Generation Lens — letting users create, edit, and recreate Snaps using free-form text prompts; available exclusively to Lens+ and Snapchat+ Platinum subscribers, bringing generative AI into Snapchat's core AR camera experience. Domain: Social Media.
