@@ -6,17 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-24
-
-- **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and overhauled BrandConnect into YouTube Creator Partnerships at NewFronts 2026; centralizes creator-brand deal discovery, management, and performance reporting inside YouTube Studio for creators and inside Google Ads / DV360 for advertisers, with expanded API access for agencies. Domain: Social Media.
-
-- **[Instagram creator tools unlocked for all public accounts](https://blog.gainapp.com/social-media-updates/)** — As of March 2026, Instagram unlocked its full creator toolkit for every public account with no follower threshold; includes content scheduling, an insights dashboard, trending audio tools, and performance analytics — previously restricted to accounts above a minimum follower count. Domain: Social Media.
-
 ### 2026-04-25
-
-- **[DeepSeek new models (April 2026)](https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech)** — DeepSeek unveiled its latest models on April 24, 2026, exactly one year after its original open-source releases disrupted the AI industry by achieving frontier-level performance at a fraction of U.S. competitor costs; the announcement reinforces China's continued competitive standing in open-weight model development. Domain: AI & LLMs.
-
-- **[Microsoft Agent Framework 1.0 GA](https://visualstudiomagazine.com/articles/2026/04/06/microsoft-ships-production-ready-agent-framework-1-0-for-net-and-python.aspx)** — Microsoft shipped Agent Framework 1.0 for .NET and Python on April 3, 2026, merging AutoGen and Semantic Kernel into a single production-ready SDK with stable APIs, enterprise-grade multi-agent orchestration, multi-provider model support, and cross-runtime interoperability via MCP and A2A protocols. Domain: Dev Workflows.
 
 - **[Google Stitch](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google Labs launched Stitch, an AI-native software design canvas that generates and iterates high-fidelity UI from natural-language prompts; enables designers and non-designers to create, prototype, and collaborate on full-fidelity interfaces without traditional design tool expertise. Domain: Design.
 
@@ -75,3 +65,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Cerebras Systems IPO](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html)** — AI chipmaker Cerebras Systems filed for IPO on April 17, 2026 at a $23B valuation after reporting $510M in 2025 revenue; filing came after a previously scrapped 2025 attempt and coincides with a new OpenAI partnership deal, positioning Cerebras as a credible alternative to Nvidia GPU dominance in AI inference. Domain: Business.
 
 - **[Snapchat Imagine Lens](https://web.swipeinsight.app/topics/snapchat)** — Snapchat launched the Imagine Lens in April 2026 — its first Open Prompt Image Generation Lens — letting users create, edit, and recreate Snaps using free-form text prompts; available exclusively to Lens+ and Snapchat+ Platinum subscribers, bringing generative AI into Snapchat's core AR camera experience. Domain: Social Media.
+
+### 2026-04-29
+
+- **[Google Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)** — Google released Gemma 4 under Apache 2.0 in early April 2026 with four model sizes up to 31B parameters, 256K context windows, native vision and audio processing, and support for 140+ languages; the first Gemma family under an OSI-approved license with no usage-cap enforcement, enabling unrestricted commercial modification and redistribution. Domain: AI & LLMs.
+
+- **[Qwen3.6-35B-A3B](https://qwen.ai/blog?id=qwen3.6-35b-a3b)** — Alibaba's Qwen team released Qwen3.6-35B-A3B on April 16, 2026, an open-source mixture-of-experts coding model with 35B total / 3B active parameters purpose-built for agentic coding workflows; available on Hugging Face and ModelScope with Apache 2.0, targeting developers who need frontier-grade code generation at low inference cost. Domain: AI & LLMs.
+
+- **[Google Agents CLI in Agent Platform](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/)** — Google introduced Agents CLI in Agent Platform on April 22, 2026, a unified programmatic backbone for the full AI agent development lifecycle on Google Cloud; gives coding agents (Gemini CLI, Claude Code, Cursor) direct CLI access to the Google Cloud agent stack — distinct from the Android-focused Android CLI released in the same month. Domain: Dev Workflows.
+
+- **[X-energy IPO](https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/)** — Amazon-backed small-modular-reactor startup X-energy raised $1.02 billion in an upsized Nasdaq IPO on April 24, 2026, pricing at $23/share above its $16–19 marketed range and surging 27–36% on debut; the company's 11+ GW order pipeline (Amazon, Dow, Centrica) is driven entirely by AI data center power demand, signaling nuclear as a primary infrastructure play for AI. Domain: Business.
