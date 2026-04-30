@@ -6,27 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-25
-
-- **[Google Stitch](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google Labs launched Stitch, an AI-native software design canvas that generates and iterates high-fidelity UI from natural-language prompts; enables designers and non-designers to create, prototype, and collaborate on full-fidelity interfaces without traditional design tool expertise. Domain: Design.
-
-- **[Tesla $2B AI Hardware Acquisition](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)** — Tesla quietly disclosed a $2 billion acquisition of an unnamed AI hardware company in its Q1 2026 10-Q filing; roughly $1.8B is subject to service conditions and performance milestones, signaling a major push into proprietary AI chip infrastructure beyond its in-house Dojo program. Domain: Business.
-
-- **[Facebook Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Facebook launched Creator Fast Track on March 18, 2026 to recruit established creators from TikTok and YouTube; offers guaranteed pay and immediate access to all monetization tools with no minimum follower threshold, bypassing the normal eligibility criteria to lower the switching cost. Domain: Social Media.
-
-- **[Beehiiv Creator Tools Expansion](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)** — Beehiiv launched metered paywalls, native webinar hosting, and built-in podcast distribution on April 23, 2026; newsletter creators can now gate content with configurable reset periods, run live events, and distribute audio — all without leaving the platform. Domain: Social Media.
-
-- **[Bond Social Platform](https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/)** — Bond launched on April 21, 2026 as an AI-powered social platform that surfaces curated "memory" highlights instead of an engagement-optimized algorithmic feed; designed explicitly to reduce compulsive scrolling by prioritizing meaningful past moments over real-time content velocity. Domain: Social Media.
-
 ### 2026-04-26
-
-- **[GPT-5 Turbo](https://fazm.ai/blog/new-llm-releases-april-2026)** — OpenAI shipped GPT-5 Turbo on April 7, 2026 with native image and audio generation alongside text in a single model; enables multi-modal reasoning in a single API call (e.g., query a diagram and receive a modified version), distinct from GPT-5's initial text-only rollout. Domain: AI & LLMs.
-
-- **[Mistral Medium 3](https://llm-stats.com/ai-news)** — Mistral released Medium 3 on April 9, 2026 under open weights; targets the performance gap between small local models and large proprietary ones, with best-in-class results on European languages and built-in EU AI Act compliance metadata embedded in model outputs. Domain: AI & LLMs.
-
-- **[Slack CLI v4.0.0](https://docs.slack.dev/changelog/2026/04/10/slack-cli/)** — Slack released CLI v4.0.0 on April 10, 2026 with a dedicated `slack create agent` command for scaffolding AI agents from sample apps, plus file-watch and live-reload in `slack run` so changes by AI coding tools (Claude Code, Codex, etc.) immediately reflect in running apps. Domain: Dev Workflows.
-
-- **[Goose v1.2](https://fazm.ai/blog/open-source-ai-projects-releases-updates-april-2026)** — Linux Foundation's open-source AI coding agent shipped v1.2 on April 10, 2026 with automatic MCP server discovery and improved local-first execution, reducing manual configuration overhead for developers running agents in air-gapped or offline environments. Domain: Dev Workflows.
 
 - **[SpaceX IPO announcement](https://tsginvest.com/upcoming-2026-ipos/)** — SpaceX announced a late-June 2026 trading debut targeting a $75 billion raise, which would be the world's largest IPO; the combined SpaceX+xAI entity is now valued at over $1.75 trillion. ⚠️ Contradicts the $1.25 trillion valuation cited in the 2026-04-23 entry for the xAI acquisition — apparent ~40% valuation appreciation since deal close. Domain: Business.
 
@@ -75,3 +55,23 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Google Agents CLI in Agent Platform](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/)** — Google introduced Agents CLI in Agent Platform on April 22, 2026, a unified programmatic backbone for the full AI agent development lifecycle on Google Cloud; gives coding agents (Gemini CLI, Claude Code, Cursor) direct CLI access to the Google Cloud agent stack — distinct from the Android-focused Android CLI released in the same month. Domain: Dev Workflows.
 
 - **[X-energy IPO](https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/)** — Amazon-backed small-modular-reactor startup X-energy raised $1.02 billion in an upsized Nasdaq IPO on April 24, 2026, pricing at $23/share above its $16–19 marketed range and surging 27–36% on debut; the company's 11+ GW order pipeline (Amazon, Dow, Centrica) is driven entirely by AI data center power demand, signaling nuclear as a primary infrastructure play for AI. Domain: Business.
+
+### 2026-04-30
+
+- **[Claude Mythos](https://whatllm.org/blog/new-ai-models-april-2026)** — Anthropic released Claude Mythos Preview on April 7, 2026 exclusively through Project Glasswing to ~50 partner organizations; positioned as a step above Claude Opus 4.6 with a focus on cybersecurity vulnerability detection, advanced reasoning, and coding. Domain: AI & LLMs.
+
+- **[Microsoft Agent Framework 1.0](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/the-future-of-agentic-ai-inside-microsoft-agent-framework-1-0/4510698)** — Microsoft shipped the GA of Agent Framework 1.0 on April 3, 2026, an open-source production-ready multi-agent library for .NET and Python supporting Sequential, Group Chat, and Magentic-One orchestration patterns; includes a browser-based DevUI Debugger that visualizes agent message flows, tool calls, and state changes in real time. Domain: Dev Workflows.
+
+- **[GitHub Copilot Autopilot](https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases/)** — GitHub launched Autopilot in public preview in April 2026, enabling fully autonomous Copilot agent sessions in VS Code that read entire codebases, plan multi-file changes, run terminal commands, and iterate until tests pass; paired with remote control from GitHub.com and the GitHub mobile app. Domain: Dev Workflows.
+
+- **[Figma AI Agents on Canvas](https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers/)** — Figma opened its canvas to AI agents in April 2026 via the Figma MCP server, allowing agents to create and edit real components, apply variables, and build designs directly using a team's existing design system — agents read the library first and build with what already exists rather than generating freeform output. Domain: Design.
+
+- **[SpaceX $60B Cursor Bid](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)** — SpaceX pre-empted Cursor (Anysphere)'s planned $2B fundraising round with a $60B acquisition offer (or $10B collaboration deal) on April 22, 2026; Cursor halted its funding discussions, signaling SpaceX's aggressive push into AI developer tooling beyond its core launch and Starlink businesses. Domain: Business.
+
+- **[Ineffable Intelligence $1.1B Seed](https://aifundingtracker.com/ai-startup-funding-news-today/)** — London-based AI startup Ineffable Intelligence, founded by former DeepMind researcher David Silver (co-creator of AlphaGo), raised $1.1 billion in seed funding at a $5.1 billion valuation in April 2026, backed by Sequoia Capital, Lightspeed, Nvidia, Google, and the UK government's Sovereign AI Fund. Domain: Business.
+
+- **[Instagram AI Video Generation](https://socialbee.com/blog/instagram-updates/)** — Instagram launched an AI clip generation feature on April 26, 2026 letting users create short video clips from text prompts, still images, or existing footage directly inside the in-app editing environment without switching to a third-party tool. Domain: Social Media.
+
+- **[YouTube Reimagine for Shorts](https://socialbee.com/blog/youtube-updates/)** — YouTube added "Reimagine," an AI-powered editing feature for Shorts that regenerates visual style or scene elements from a text prompt, alongside "Make me move," which animates a static photo using preset motion patterns — both available in the Shorts creation flow. Domain: Social Media.
+
+- **[X Chat Standalone App](https://blog.gainapp.com/social-media-updates/)** — X launched a dedicated standalone app for X Chat on April 25, 2026, separating the messaging experience from the main X platform and positioning it as a direct competitor to WhatsApp and iMessage. Domain: Social Media.
