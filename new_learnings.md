@@ -6,29 +6,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-26
-
-- **[SpaceX IPO announcement](https://tsginvest.com/upcoming-2026-ipos/)** — SpaceX announced a late-June 2026 trading debut targeting a $75 billion raise, which would be the world's largest IPO; the combined SpaceX+xAI entity is now valued at over $1.75 trillion. ⚠️ Contradicts the $1.25 trillion valuation cited in the 2026-04-23 entry for the xAI acquisition — apparent ~40% valuation appreciation since deal close. Domain: Business.
-
-- **[X Creator Studio tab](https://www.theezeragency.com/post/social-media-industry-news-april-2026)** — X added a new Creator Studio tab to its mobile app in April 2026, consolidating monetization tools, analytics, subscription settings, and payment info in one place; includes a new "Inspiration" tab that surfaces the platform's top-performing posts by day, week, or month. Domain: Social Media.
-
-- **[TikTok × Google Search integration](https://almcorp.com/blog/digital-marketing-news-april-2026/)** — TikTok video titles and captions now appear directly in standard Google web search results as of April 2026, extending organic reach beyond the TikTok app and making keyword-optimized titles and captions a meaningful SEO lever for creators. Domain: Social Media.
-
-- **[LinkedIn Top Voices Brand Sponsorships](https://www.theezeragency.com/post/social-media-industry-news-april-2026)** — LinkedIn launched tools in Campaign Manager in April 2026 allowing brands to buy exclusive ad placements alongside Top Voices content; integrates Stripe-powered compensation so brands can pay professional influencers directly through the platform without off-platform deal management. Domain: Social Media.
-
 ### 2026-04-27
 
 - **[GPT-5.5](https://fazm.ai/blog/llm-releases-april-2026)** — OpenAI shipped GPT-5.5 on April 23, 2026 with omnimodal capabilities (text, image, and audio reasoning in a single model) and an 88.7% SWE-Bench Verified score. ⚠️ Supersedes Claude Opus 4.7 (87.6%) as the current SWE-Bench Verified leader noted in ref_ai_trends.md. Domain: AI & LLMs.
 
-- **[Kimi K2.6](https://fazm.ai/blog/llm-releases-april-2026)** — Moonshot AI released Kimi K2.6 on April 20, 2026 with a 300-sub-agent swarm architecture that enables coordinated parallel task execution across hundreds of specialized sub-agents in a single workflow. Domain: AI & LLMs.
-
-- **[Android CLI](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)** — Google released Android CLI in April 2026 alongside Android skills and a knowledge base for agentic workflows; internal experiments show 70% fewer LLM tokens consumed and 3× faster project and environment setup compared to unstructured LLM-based Android development. Domain: Dev Workflows.
-
 - **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)** — Anthropic Labs launched Claude Design on April 17, 2026 (research preview for Pro, Max, Team, and Enterprise users); the tool lets users co-create polished designs, prototypes, slides, and one-pagers with Claude Opus 4.7, automatically applying team colors, typography, and components extracted from an existing codebase or design file. Domain: Design.
 
 - **[Cohere acquires Aleph Alpha](https://www.digitaljournal.com/business/canadian-ai-firm-cohere-buys-aleph-alpha-in-bid-to-take-on-silicon-valley/article)** — Canadian enterprise AI company Cohere acquired Germany's Aleph Alpha in 2026, combining North American LLM infrastructure with European sovereign AI capabilities to compete against US AI giants at global scale. Domain: Business.
-
-- **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — Picsart launched a creator monetization program on April 6, 2026, open to all of its 130M+ users with no invite list or minimum audience size; creators earn revenue based on views, comments, shares, and reach on their own social channels — a performance model rewarding output over follower scale. Domain: Social Media.
 
 ### 2026-04-28
 
@@ -75,3 +59,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[YouTube Reimagine for Shorts](https://socialbee.com/blog/youtube-updates/)** — YouTube added "Reimagine," an AI-powered editing feature for Shorts that regenerates visual style or scene elements from a text prompt, alongside "Make me move," which animates a static photo using preset motion patterns — both available in the Shorts creation flow. Domain: Social Media.
 
 - **[X Chat Standalone App](https://blog.gainapp.com/social-media-updates/)** — X launched a dedicated standalone app for X Chat on April 25, 2026, separating the messaging experience from the main X platform and positioning it as a direct competitor to WhatsApp and iMessage. Domain: Social Media.
+
+### 2026-05-01
+
+- **[Microsoft MAI Models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)** — Microsoft released three new foundational models on April 2, 2026: MAI-Transcribe-1 (multilingual speech-to-text across 25 languages, 2.5× faster than Azure Fast), MAI-Voice-1 (generates 60 seconds of audio in 1 second with custom voice cloning), and MAI-Image-2 (video generation); a direct cross-modal challenge to OpenAI, Google, and ElevenLabs. Domain: AI & LLMs.
+
+- **[OpenAI Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/)** — OpenAI released Symphony, an open-source specification for Codex agent orchestration that standardizes how AI coding agents plan, decompose, and execute multi-step software tasks; enables any toolchain to adopt a common agent protocol compatible with Codex-based workflows. Domain: Dev Workflows.
+
+- **[GitHub Copilot CLI GA](https://www.infoq.com/news/2026/04/github-copilot-cli-ga/)** — GitHub Copilot CLI reached General Availability in April 2026, bringing AI-powered natural language command suggestions and code explanations directly to the terminal; supports GPT-5.4 and Claude 4.5 as selectable high-reasoning models — distinct from the VS Code Autopilot agent feature also launched in April. Domain: Dev Workflows.
+
+- **[Google Stitch](https://www.prontosys.ae/blog/web-design-tools-technologies/)** — Google relaunched Stitch in March 2026 with a complete overhaul featuring an infinite canvas, context-aware design agents, and instant prototyping; generates high-fidelity UI from text prompts, uploaded images, sketches, or voice commands, positioning it as an AI-native alternative to Figma. Domain: Design.
+
+- **[Instagram Your Algo](https://socialbee.com/blog/social-media-news/)** — Instagram rolled out "Your Algo" to all English-speaking users worldwide, letting people fine-tune their Reels recommendation feed by explicitly adding or removing interest topics; the first algorithmic transparency and control feature Instagram has surfaced directly in the Reels feed since its 2020 launch. Domain: Social Media.
+
+- **[LinkedIn Crosscheck](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn launched Crosscheck in April 2026, a new platform available to US-based LinkedIn Premium subscribers that lets users test and compare different AI models side by side; extends LinkedIn's positioning from a professional network into an AI evaluation layer for knowledge workers. Domain: Social Media.
