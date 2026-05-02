@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-27
-
-- **[GPT-5.5](https://fazm.ai/blog/llm-releases-april-2026)** — OpenAI shipped GPT-5.5 on April 23, 2026 with omnimodal capabilities (text, image, and audio reasoning in a single model) and an 88.7% SWE-Bench Verified score. ⚠️ Supersedes Claude Opus 4.7 (87.6%) as the current SWE-Bench Verified leader noted in ref_ai_trends.md. Domain: AI & LLMs.
-
-- **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)** — Anthropic Labs launched Claude Design on April 17, 2026 (research preview for Pro, Max, Team, and Enterprise users); the tool lets users co-create polished designs, prototypes, slides, and one-pagers with Claude Opus 4.7, automatically applying team colors, typography, and components extracted from an existing codebase or design file. Domain: Design.
-
-- **[Cohere acquires Aleph Alpha](https://www.digitaljournal.com/business/canadian-ai-firm-cohere-buys-aleph-alpha-in-bid-to-take-on-silicon-valley/article)** — Canadian enterprise AI company Cohere acquired Germany's Aleph Alpha in 2026, combining North American LLM infrastructure with European sovereign AI capabilities to compete against US AI giants at global scale. Domain: Business.
-
 ### 2026-04-28
-
-- **[Meta Llama 4](https://fazm.ai/blog/new-open-source-llm-releases-april-2026)** — Meta released the Llama 4 family on April 5, 2026 with two flagship models: Scout (109B total/17B active parameters, 10M-token context window) and Maverick (400B total/17B active, strongest on code and multilingual tasks); both open-weight, setting a new bar for accessible long-context open-source inference. Domain: AI & LLMs.
-
-- **[Microsoft Phi-4-reasoning](https://llm-stats.com/ai-news)** — Microsoft released Phi-4-reasoning on April 10, 2026, a 14B dense model that matches or exceeds far larger models on reasoning benchmarks through an extended chain-of-thought training approach; demonstrates that parameter-efficient architectures can close the gap with frontier-scale models without scaling parameters. Domain: AI & LLMs.
-
-- **[Google Gemini CLI](https://www.crescendo.ai/news/agentic-ai-news-and-developments)** — Google released its official open-source Gemini CLI terminal agent in April 2026 under Apache 2.0; runs a ReAct reasoning loop with MCP server support and Gemini's 1M-token context window directly in the shell, giving developers a first-party agentic alternative to Claude Code and OpenAI Codex. Domain: Dev Workflows.
-
-- **[Salesforce Headless 360](https://fazm.ai/blog/ai-developer-tools-release-notes-changelog-april-2026)** — Salesforce unveiled Headless 360 at its TDX developer conference on April 16, 2026, exposing every Salesforce platform capability as an API endpoint, MCP tool, or CLI command; lets AI agents (Claude Code, Cursor, Codex) build and operate on Salesforce without opening a browser, turning the CRM into a fully agent-addressable back-end. Domain: Dev Workflows.
 
 - **[Cursor v3.0](https://tokencalculator.com/blog/best-ai-ide-cli-tools-april-2026-claude-code-wins)** — Cursor launched version 3.0 in April 2026 with parallel agents, enabling multiple AI instances to work concurrently across different parts of a codebase within a single session; cements Cursor alongside Claude Code and Codex as one of three dominant agentic IDE platforms. Domain: Dev Workflows.
 
@@ -73,3 +57,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Instagram Your Algo](https://socialbee.com/blog/social-media-news/)** — Instagram rolled out "Your Algo" to all English-speaking users worldwide, letting people fine-tune their Reels recommendation feed by explicitly adding or removing interest topics; the first algorithmic transparency and control feature Instagram has surfaced directly in the Reels feed since its 2020 launch. Domain: Social Media.
 
 - **[LinkedIn Crosscheck](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn launched Crosscheck in April 2026, a new platform available to US-based LinkedIn Premium subscribers that lets users test and compare different AI models side by side; extends LinkedIn's positioning from a professional network into an AI evaluation layer for knowledge workers. Domain: Social Media.
+
+### 2026-05-02
+
+- **[Gemini 3.1 Ultra](https://www.abhs.in/blog/gemini-3-1-ultra-2m-context-window-multimodal-benchmark-developer-2026)** — Google released Gemini 3.1 Ultra in April 2026 with a 2M-token context window — the largest of any publicly available model — and native multimodal reasoning across video, audio, and text simultaneously. ⚠️ Supersedes Gemini 3.1 Pro as Google's frontier model noted in ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[Gemini 3.1 Flash-Lite](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)** — Google released Gemini 3.1 Flash-Lite on March 3, 2026 at $0.25/1M input tokens (1/8th the cost of Pro) with 2.5× faster time-to-first-token than Gemini 2.5 Flash, optimized for high-volume, cost-sensitive LLM workloads. Domain: AI & LLMs.
+
+- **[Warp Open Source + Oz Cloud Agents](https://www.helpnetsecurity.com/2026/04/30/warp-open-source-client/)** — Warp open-sourced its terminal client on April 30, 2026 (MIT/AGPL v3) and launched Oz, a cloud agent layer that runs background agents triggered by webhooks, cron, or CI events without a developer at the keyboard; OpenAI is the founding sponsor; 700K+ developers on the platform. Domain: Dev Workflows.
+
+- **[SpaceX Acquires xAI](https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html)** — SpaceX acquired Elon Musk's xAI on February 2, 2026 in the largest private merger of all time at a combined $1.25T valuation (SpaceX $1T + xAI $250B), with plans to build orbital AI data centers and a SpaceX IPO targeting up to $1.5T valuation. Domain: Business.
+
+- **[Anthropic Series G — $30B at $380B Valuation](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)** — Anthropic closed a $30B Series G on February 12, 2026 at a $380B post-money valuation led by Coatue and GIC, with participation from Microsoft and Nvidia; the company reported $14B ARR and Claude Code generating $2.5B in annualized revenue. Domain: Business.
+
+- **[Databricks $5B Financing at $134B Valuation](https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html)** — Databricks closed $5B equity + $2B debt on February 9, 2026 at a $134B valuation; $5.4B annualized revenue growing 65% YoY with AI products contributing $1.4B ARR; company stated it is IPO-ready when timing is right. Domain: Business.
+
+- **[LinkedIn Vertical Video on Desktop](https://www.socialmediatoday.com/news/linkedin-video-presentation-discovery-updates/739214/)** — LinkedIn expanded its full-screen vertical video tab and "Videos for You" discovery feed to desktop in 2026, matching the mobile immersive experience and adding inline profile snapshots visible within the video player. Domain: Social Media.
