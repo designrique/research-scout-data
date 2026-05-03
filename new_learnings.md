@@ -6,24 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-28
-
-- **[Cursor v3.0](https://tokencalculator.com/blog/best-ai-ide-cli-tools-april-2026-claude-code-wins)** — Cursor launched version 3.0 in April 2026 with parallel agents, enabling multiple AI instances to work concurrently across different parts of a codebase within a single session; cements Cursor alongside Claude Code and Codex as one of three dominant agentic IDE platforms. Domain: Dev Workflows.
-
-- **[Cerebras Systems IPO](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html)** — AI chipmaker Cerebras Systems filed for IPO on April 17, 2026 at a $23B valuation after reporting $510M in 2025 revenue; filing came after a previously scrapped 2025 attempt and coincides with a new OpenAI partnership deal, positioning Cerebras as a credible alternative to Nvidia GPU dominance in AI inference. Domain: Business.
-
-- **[Snapchat Imagine Lens](https://web.swipeinsight.app/topics/snapchat)** — Snapchat launched the Imagine Lens in April 2026 — its first Open Prompt Image Generation Lens — letting users create, edit, and recreate Snaps using free-form text prompts; available exclusively to Lens+ and Snapchat+ Platinum subscribers, bringing generative AI into Snapchat's core AR camera experience. Domain: Social Media.
-
-### 2026-04-29
-
-- **[Google Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)** — Google released Gemma 4 under Apache 2.0 in early April 2026 with four model sizes up to 31B parameters, 256K context windows, native vision and audio processing, and support for 140+ languages; the first Gemma family under an OSI-approved license with no usage-cap enforcement, enabling unrestricted commercial modification and redistribution. Domain: AI & LLMs.
-
-- **[Qwen3.6-35B-A3B](https://qwen.ai/blog?id=qwen3.6-35b-a3b)** — Alibaba's Qwen team released Qwen3.6-35B-A3B on April 16, 2026, an open-source mixture-of-experts coding model with 35B total / 3B active parameters purpose-built for agentic coding workflows; available on Hugging Face and ModelScope with Apache 2.0, targeting developers who need frontier-grade code generation at low inference cost. Domain: AI & LLMs.
-
-- **[Google Agents CLI in Agent Platform](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/)** — Google introduced Agents CLI in Agent Platform on April 22, 2026, a unified programmatic backbone for the full AI agent development lifecycle on Google Cloud; gives coding agents (Gemini CLI, Claude Code, Cursor) direct CLI access to the Google Cloud agent stack — distinct from the Android-focused Android CLI released in the same month. Domain: Dev Workflows.
-
-- **[X-energy IPO](https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/)** — Amazon-backed small-modular-reactor startup X-energy raised $1.02 billion in an upsized Nasdaq IPO on April 24, 2026, pricing at $23/share above its $16–19 marketed range and surging 27–36% on debut; the company's 11+ GW order pipeline (Amazon, Dow, Centrica) is driven entirely by AI data center power demand, signaling nuclear as a primary infrastructure play for AI. Domain: Business.
-
 ### 2026-04-30
 
 - **[Claude Mythos](https://whatllm.org/blog/new-ai-models-april-2026)** — Anthropic released Claude Mythos Preview on April 7, 2026 exclusively through Project Glasswing to ~50 partner organizations; positioned as a step above Claude Opus 4.6 with a focus on cybersecurity vulnerability detection, advanced reasoning, and coding. Domain: AI & LLMs.
@@ -73,3 +55,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Databricks $5B Financing at $134B Valuation](https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html)** — Databricks closed $5B equity + $2B debt on February 9, 2026 at a $134B valuation; $5.4B annualized revenue growing 65% YoY with AI products contributing $1.4B ARR; company stated it is IPO-ready when timing is right. Domain: Business.
 
 - **[LinkedIn Vertical Video on Desktop](https://www.socialmediatoday.com/news/linkedin-video-presentation-discovery-updates/739214/)** — LinkedIn expanded its full-screen vertical video tab and "Videos for You" discovery feed to desktop in 2026, matching the mobile immersive experience and adding inline profile snapshots visible within the video player. Domain: Social Media.
+
+### 2026-05-03
+
+- **[GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)** — OpenAI released GPT-5.5 on April 23, 2026 with a 1M-token context window at $5/1M input tokens; available to ChatGPT Plus/Pro/Business/Enterprise subscribers and via API; matches GPT-5.4 per-token latency while achieving higher intelligence and using fewer tokens for the same Codex tasks. Domain: AI & LLMs.
+
+- **[Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)** — Mistral AI released Medium 3.5 on April 29, 2026, a 128B dense (non-MoE) model with 256K context at $1.50/1M input tokens, consolidating chat, reasoning, and code into one system; ships with Vibe remote agents for async cloud-based coding sessions and Le Chat Work mode for multi-step agentic tasks. Domain: AI & LLMs.
+
+- **[Craft Agents OSS](https://aitoolly.com/ai-news/article/2026-05-02-craft-agents-oss-lukilabs-launches-new-open-source-agent-framework-under-apache-20-license)** — Lukilabs released Craft Agents, a modular open-source agent framework, on May 2, 2026 under Apache 2.0; landed on GitHub Trending shortly after release. Domain: Dev Workflows.
+
+- **[Figma Weave](https://www.figma.com/blog/welcome-weavy-to-figma/)** — Figma launched Weave, a node-based visual canvas for building repeatable, scalable generative AI workflows, now available in Figma Community with 20+ pre-built workflows; supports Sora, Seedance, Veo, Flux, Ideogram, and ChatGPT Images 2.0 as selectable models for video, image, and design asset pipelines. Domain: Design.
+
+- **[Parallel Web Systems $100M Series B](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)** — Parag Agrawal's (ex-Twitter CEO) AI infrastructure company raised a $100M Series B led by Sequoia at a $2B valuation on April 28, 2026, up from a $740M Series A just five months prior; builds web search and research APIs purpose-built for AI agents, with customers including Clay, Harvey, Notion, and Opendoor. Domain: Business.
+
+- **[Facebook Creator Fast Track](https://agencyrevolution.com/blog/turbocharged-takeaways-latest-platform-updates-may-2026/)** — Facebook launched the Creator Fast Track program offering established creators increased reach on eligible Reels and up to three months of guaranteed earnings to accelerate growth on the platform. Domain: Social Media.
+
+- **[TikTok Business Profile Unlock](https://blog.gainapp.com/social-media-updates/)** — TikTok now allows any verified business entity to unlock link-in-bio, lead generation forms, geo-targeting, and multi-user account access regardless of follower count, removing the prior follower threshold for business features. Domain: Social Media.
