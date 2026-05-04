@@ -8,16 +8,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-04-30
 
-- **[Claude Mythos](https://whatllm.org/blog/new-ai-models-april-2026)** — Anthropic released Claude Mythos Preview on April 7, 2026 exclusively through Project Glasswing to ~50 partner organizations; positioned as a step above Claude Opus 4.6 with a focus on cybersecurity vulnerability detection, advanced reasoning, and coding. Domain: AI & LLMs.
-
-- **[Microsoft Agent Framework 1.0](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/the-future-of-agentic-ai-inside-microsoft-agent-framework-1-0/4510698)** — Microsoft shipped the GA of Agent Framework 1.0 on April 3, 2026, an open-source production-ready multi-agent library for .NET and Python supporting Sequential, Group Chat, and Magentic-One orchestration patterns; includes a browser-based DevUI Debugger that visualizes agent message flows, tool calls, and state changes in real time. Domain: Dev Workflows.
-
-- **[GitHub Copilot Autopilot](https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases/)** — GitHub launched Autopilot in public preview in April 2026, enabling fully autonomous Copilot agent sessions in VS Code that read entire codebases, plan multi-file changes, run terminal commands, and iterate until tests pass; paired with remote control from GitHub.com and the GitHub mobile app. Domain: Dev Workflows.
-
-- **[Figma AI Agents on Canvas](https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers/)** — Figma opened its canvas to AI agents in April 2026 via the Figma MCP server, allowing agents to create and edit real components, apply variables, and build designs directly using a team's existing design system — agents read the library first and build with what already exists rather than generating freeform output. Domain: Design.
-
-- **[SpaceX $60B Cursor Bid](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)** — SpaceX pre-empted Cursor (Anysphere)'s planned $2B fundraising round with a $60B acquisition offer (or $10B collaboration deal) on April 22, 2026; Cursor halted its funding discussions, signaling SpaceX's aggressive push into AI developer tooling beyond its core launch and Starlink businesses. Domain: Business.
-
 - **[Ineffable Intelligence $1.1B Seed](https://aifundingtracker.com/ai-startup-funding-news-today/)** — London-based AI startup Ineffable Intelligence, founded by former DeepMind researcher David Silver (co-creator of AlphaGo), raised $1.1 billion in seed funding at a $5.1 billion valuation in April 2026, backed by Sequoia Capital, Lightspeed, Nvidia, Google, and the UK government's Sovereign AI Fund. Domain: Business.
 
 - **[Instagram AI Video Generation](https://socialbee.com/blog/instagram-updates/)** — Instagram launched an AI clip generation feature on April 26, 2026 letting users create short video clips from text prompts, still images, or existing footage directly inside the in-app editing environment without switching to a third-party tool. Domain: Social Media.
@@ -71,3 +61,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Facebook Creator Fast Track](https://agencyrevolution.com/blog/turbocharged-takeaways-latest-platform-updates-may-2026/)** — Facebook launched the Creator Fast Track program offering established creators increased reach on eligible Reels and up to three months of guaranteed earnings to accelerate growth on the platform. Domain: Social Media.
 
 - **[TikTok Business Profile Unlock](https://blog.gainapp.com/social-media-updates/)** — TikTok now allows any verified business entity to unlock link-in-bio, lead generation forms, geo-targeting, and multi-user account access regardless of follower count, removing the prior follower threshold for business features. Domain: Social Media.
+
+### 2026-05-04
+
+- **[Sakana AI KAME](https://pub.sakana.ai/kame/)** — Tandem speech-to-speech architecture that maintains near-zero latency of a direct S2S model while injecting LLM knowledge asynchronously every ~80ms; enables "speak while thinking" rather than "think then speak"; accepted at ICASSP 2026. Domain: AI & LLMs.
+
+- **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI agent that runs locally and orchestrates email and browser workflows via WhatsApp/Telegram; surpassed React to become the most-starred project in GitHub history (347K stars by April 2026); creator Peter Steinberger joined OpenAI in February 2026 to lead next-gen personal agents; project transferred to an independent open-source foundation backed by OpenAI. Domain: AI & LLMs.
+
+- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Open-source (MIT) 7-package runtime security framework for autonomous AI agents released April 2, 2026; covers all 10 OWASP agentic AI risks with deterministic sub-millisecond policy enforcement; includes modules for execution sandboxing, RL governance, and compliance grading against EU AI Act, HIPAA, and SOC2; integrates with LangChain, CrewAI, Google ADK, and Microsoft Agent Framework. Domain: Dev Workflows.
+
+- **[Visual Studio 2026 — Agentic Bug Resolution](https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes)** — Debugger Agent workflow shipped April 14, 2026 that validates bugs against real runtime behavior (not static analysis), reproduces issues, instruments the app, isolates root causes, and walks through a full agentic fix loop; available as a paid GitHub Copilot add-on in VS 18.5. Domain: Dev Workflows.
+
+- **[Legora Series D — $600M at $5.6B](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)** — Swedish legal AI startup raised $550M + $50M Nvidia/Atlassian-backed extension on April 30, 2026 at a $5.6B valuation; surpassed €85M ARR; serves Barclays, White & Case, and Linklaters; direct Harvey competitor. Domain: Business.
+
+- **[Novi AI Long Video Agent](https://www.globenewswire.com/news-release/2026/04/30/3285019/0/en/Novi-AI-Launches-Long-Video-Agent-for-AI-Narrative-Video-Creation-Up-to-5-Minutes.html)** — Generates complete AI narrative videos up to 5 minutes from a story idea, script, or screenplay in a single agentic pipeline (script → multi-scene visuals → synchronized voiceover); launched April 30, 2026; 2M users across 120+ countries. Domain: Social Media.
