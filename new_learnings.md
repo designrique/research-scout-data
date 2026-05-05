@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-04-30
-
-- **[Ineffable Intelligence $1.1B Seed](https://aifundingtracker.com/ai-startup-funding-news-today/)** — London-based AI startup Ineffable Intelligence, founded by former DeepMind researcher David Silver (co-creator of AlphaGo), raised $1.1 billion in seed funding at a $5.1 billion valuation in April 2026, backed by Sequoia Capital, Lightspeed, Nvidia, Google, and the UK government's Sovereign AI Fund. Domain: Business.
-
-- **[Instagram AI Video Generation](https://socialbee.com/blog/instagram-updates/)** — Instagram launched an AI clip generation feature on April 26, 2026 letting users create short video clips from text prompts, still images, or existing footage directly inside the in-app editing environment without switching to a third-party tool. Domain: Social Media.
-
-- **[YouTube Reimagine for Shorts](https://socialbee.com/blog/youtube-updates/)** — YouTube added "Reimagine," an AI-powered editing feature for Shorts that regenerates visual style or scene elements from a text prompt, alongside "Make me move," which animates a static photo using preset motion patterns — both available in the Shorts creation flow. Domain: Social Media.
-
-- **[X Chat Standalone App](https://blog.gainapp.com/social-media-updates/)** — X launched a dedicated standalone app for X Chat on April 25, 2026, separating the messaging experience from the main X platform and positioning it as a direct competitor to WhatsApp and iMessage. Domain: Social Media.
-
 ### 2026-05-01
-
-- **[Microsoft MAI Models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)** — Microsoft released three new foundational models on April 2, 2026: MAI-Transcribe-1 (multilingual speech-to-text across 25 languages, 2.5× faster than Azure Fast), MAI-Voice-1 (generates 60 seconds of audio in 1 second with custom voice cloning), and MAI-Image-2 (video generation); a direct cross-modal challenge to OpenAI, Google, and ElevenLabs. Domain: AI & LLMs.
-
-- **[OpenAI Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/)** — OpenAI released Symphony, an open-source specification for Codex agent orchestration that standardizes how AI coding agents plan, decompose, and execute multi-step software tasks; enables any toolchain to adopt a common agent protocol compatible with Codex-based workflows. Domain: Dev Workflows.
-
-- **[GitHub Copilot CLI GA](https://www.infoq.com/news/2026/04/github-copilot-cli-ga/)** — GitHub Copilot CLI reached General Availability in April 2026, bringing AI-powered natural language command suggestions and code explanations directly to the terminal; supports GPT-5.4 and Claude 4.5 as selectable high-reasoning models — distinct from the VS Code Autopilot agent feature also launched in April. Domain: Dev Workflows.
 
 - **[Google Stitch](https://www.prontosys.ae/blog/web-design-tools-technologies/)** — Google relaunched Stitch in March 2026 with a complete overhaul featuring an infinite canvas, context-aware design agents, and instant prototyping; generates high-fidelity UI from text prompts, uploaded images, sketches, or voice commands, positioning it as an AI-native alternative to Figma. Domain: Design.
 
@@ -75,3 +59,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Legora Series D — $600M at $5.6B](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)** — Swedish legal AI startup raised $550M + $50M Nvidia/Atlassian-backed extension on April 30, 2026 at a $5.6B valuation; surpassed €85M ARR; serves Barclays, White & Case, and Linklaters; direct Harvey competitor. Domain: Business.
 
 - **[Novi AI Long Video Agent](https://www.globenewswire.com/news-release/2026/04/30/3285019/0/en/Novi-AI-Launches-Long-Video-Agent-for-AI-Narrative-Video-Creation-Up-to-5-Minutes.html)** — Generates complete AI narrative videos up to 5 minutes from a story idea, script, or screenplay in a single agentic pipeline (script → multi-scene visuals → synchronized voiceover); launched April 30, 2026; 2M users across 120+ countries. Domain: Social Media.
+
+### 2026-05-05
+
+- **[DeepSeek V4](https://api-docs.deepseek.com/news/news260424)** — DeepSeek released V4 as open-source (MIT) preview on April 24, 2026; two MoE variants — V4-Pro (1.6T params, 49B activated) and V4-Flash (284B params, 13B activated) — both with 1M-token context; novel Compressed Sparse Attention cuts inference FLOPs to 27% of V3 at 1M context; leads all open models in Math/STEM/Coding benchmarks. ⚠️ May supersede Z.ai GLM-5.1 as open-source coding benchmark leader noted in ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[Cursor 3](https://cursor.com/blog/cursor-3)** — Launched April 2, 2026; replaces the classic IDE model with an agent-first unified workspace featuring an Agents Window for managing local, cloud, worktree, and remote SSH agents in parallel; new Design Mode annotates browser UI for agents; BugBot achieves ~80% PR fix resolution; sessions hand off seamlessly from local to cloud. Domain: Dev Workflows.
+
+- **[IBM Bob](https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software)** — IBM released Bob to general availability on April 28, 2026; covers the full SDLC (planning → coding → testing → deployment → modernization) via multi-model routing across Anthropic Claude, Mistral, and IBM Granite; deployed to 80K+ IBM employees with 45% average self-reported productivity gain; SaaS offering with 30-day free trial. Domain: Dev Workflows.
+
+- **[Canva AI 2.0](https://www.canva.com/newsroom/news/canva-create-2026-ai/)** — Unveiled April 15, 2026 at Canva Create in Los Angeles; repositions Canva as "an AI platform with design tools"; introduces conversational design, agentic orchestration, object-based intelligence (all outputs are editable layers, not flat images), and living memory (persistent brand/style profile); six new agentic workflows including Canva Code 2.0 and Sheets AI; rolling out to Pro/Team/Enterprise by late May 2026. Domain: Design.
+
+- **[Figma AI Agents on Canvas](https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/)** — Figma opened canvas write access to AI agents via a new use_figma MCP tool in open beta on March 24, 2026; compatible with Claude Code, Cursor, Copilot, and Augment; agents generate and modify assets using real design system components, variables, and auto layout; nine community skills launched including /apply-design-system and /sync-figma-token; free during beta. Domain: Design.
+
+- **[Sierra $950M Series E](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)** — Bret Taylor's enterprise AI customer-service platform raised $950M on May 4, 2026 at a $15.8B valuation, led by Tiger Global and GV with Benchmark and Sequoia; $150M+ ARR; serves 40%+ of Fortune 50 companies including Prudential, Cigna, and Rocket Mortgage. Domain: Business.
+
+- **[Instagram Competitive Insights](https://www.socialmediatoday.com/news/instagram-adds-competitor-insights-professional-accounts/804465/)** — Instagram launched Competitive Insights inside the Professional Dashboard, allowing Business and Creator accounts to benchmark against up to 10 competitor profiles on follower growth, posting frequency, Reels, and boosted posts side by side; restricted to Meta Verified subscribers. Domain: Social Media.
