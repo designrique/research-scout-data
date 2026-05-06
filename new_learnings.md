@@ -6,21 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-01
-
-- **[Google Stitch](https://www.prontosys.ae/blog/web-design-tools-technologies/)** — Google relaunched Stitch in March 2026 with a complete overhaul featuring an infinite canvas, context-aware design agents, and instant prototyping; generates high-fidelity UI from text prompts, uploaded images, sketches, or voice commands, positioning it as an AI-native alternative to Figma. Domain: Design.
-
-- **[Instagram Your Algo](https://socialbee.com/blog/social-media-news/)** — Instagram rolled out "Your Algo" to all English-speaking users worldwide, letting people fine-tune their Reels recommendation feed by explicitly adding or removing interest topics; the first algorithmic transparency and control feature Instagram has surfaced directly in the Reels feed since its 2020 launch. Domain: Social Media.
-
-- **[LinkedIn Crosscheck](https://www.heyorca.com/blog/linkedin-social-news)** — LinkedIn launched Crosscheck in April 2026, a new platform available to US-based LinkedIn Premium subscribers that lets users test and compare different AI models side by side; extends LinkedIn's positioning from a professional network into an AI evaluation layer for knowledge workers. Domain: Social Media.
-
 ### 2026-05-02
-
-- **[Gemini 3.1 Ultra](https://www.abhs.in/blog/gemini-3-1-ultra-2m-context-window-multimodal-benchmark-developer-2026)** — Google released Gemini 3.1 Ultra in April 2026 with a 2M-token context window — the largest of any publicly available model — and native multimodal reasoning across video, audio, and text simultaneously. ⚠️ Supersedes Gemini 3.1 Pro as Google's frontier model noted in ref_ai_trends.md. Domain: AI & LLMs.
-
-- **[Gemini 3.1 Flash-Lite](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)** — Google released Gemini 3.1 Flash-Lite on March 3, 2026 at $0.25/1M input tokens (1/8th the cost of Pro) with 2.5× faster time-to-first-token than Gemini 2.5 Flash, optimized for high-volume, cost-sensitive LLM workloads. Domain: AI & LLMs.
-
-- **[Warp Open Source + Oz Cloud Agents](https://www.helpnetsecurity.com/2026/04/30/warp-open-source-client/)** — Warp open-sourced its terminal client on April 30, 2026 (MIT/AGPL v3) and launched Oz, a cloud agent layer that runs background agents triggered by webhooks, cron, or CI events without a developer at the keyboard; OpenAI is the founding sponsor; 700K+ developers on the platform. Domain: Dev Workflows.
 
 - **[SpaceX Acquires xAI](https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html)** — SpaceX acquired Elon Musk's xAI on February 2, 2026 in the largest private merger of all time at a combined $1.25T valuation (SpaceX $1T + xAI $250B), with plans to build orbital AI data centers and a SpaceX IPO targeting up to $1.5T valuation. Domain: Business.
 
@@ -75,3 +61,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Sierra $950M Series E](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)** — Bret Taylor's enterprise AI customer-service platform raised $950M on May 4, 2026 at a $15.8B valuation, led by Tiger Global and GV with Benchmark and Sequoia; $150M+ ARR; serves 40%+ of Fortune 50 companies including Prudential, Cigna, and Rocket Mortgage. Domain: Business.
 
 - **[Instagram Competitive Insights](https://www.socialmediatoday.com/news/instagram-adds-competitor-insights-professional-accounts/804465/)** — Instagram launched Competitive Insights inside the Professional Dashboard, allowing Business and Creator accounts to benchmark against up to 10 competitor profiles on follower growth, posting frequency, Reels, and boosted posts side by side; restricted to Meta Verified subscribers. Domain: Social Media.
+
+### 2026-05-06
+
+- **[Qwen3.6-Max-Preview](https://qwen.ai/blog?id=qwen3.6-max-preview)** — Alibaba released its most powerful model on April 20, 2026; closed-weights with 260K context window, claims top position on six coding benchmarks including SWE-bench Pro and Terminal-Bench 2.0; first Qwen flagship to ship without open weights; compatible with both OpenAI and Anthropic API specs. ⚠️ Supersedes Z.ai GLM-5.1 as SWE-bench Pro leader noted in ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[GitHub Copilot CLI General Availability](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/)** — GitHub released Copilot CLI to general availability on February 25, 2026 for all paid Copilot subscribers; terminal-native coding agent with Autopilot mode for multi-step autonomous workflows, GPT-5.4 support, and enterprise telemetry; available via npm, Homebrew, and WinGet on macOS, Linux, and Windows. Domain: Dev Workflows.
+
+- **[DeepInfra $107M Series B](https://deepinfra.com/blog/deepinfra-series-b)** — AI inference cloud closed a $107M Series B on May 4, 2026, co-led by 500 Global and Georges Harik with participation from NVIDIA, Felicis, and Samsung Next; supports 190+ open-source models; processes ~5T tokens/week; revenue tripled since January 2026 with 25× token volume growth since Series A. Domain: Business.
+
+- **[TikTok Keyword Metadata](https://www.socialmediatoday.com/news/tiktok-lets-users-add-relevant-keywords-to-metadata/818507/)** — TikTok launched a creator-facing keyword management feature letting users manually add and remove metadata keywords on uploaded videos to improve search alignment; supplements TikTok's auto-assigned keywords with built-in safeguards against irrelevant keyword stuffing. Domain: Social Media.
+
+- **[YouTube Dream Screen + Veo 2](https://blog.youtube/news-and-events/veo-2-shorts/)** — YouTube integrated Google DeepMind's Veo 2 model into Dream Screen for Shorts, enabling AI-generated video backgrounds and standalone clip generation from text prompts; all outputs labeled with SynthID watermarks; initially available in the US, Canada, Australia, and New Zealand. Domain: Social Media.
+
+- **[Instagram Carousel Reorder After Posting](https://www.socialmediatoday.com/news/instagram-allows-users-to-rearrange-carousel-posts/815490/)** — Instagram launched the ability to reorder photos and videos in carousel posts after publishing via long-press and drag, fulfilling a long-standing creator request; rolled out March 24, 2026; slides can be deleted but new slides cannot be added post-publish. Domain: Social Media.
