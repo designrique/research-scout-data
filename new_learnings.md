@@ -6,16 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-02
-
-- **[SpaceX Acquires xAI](https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html)** — SpaceX acquired Elon Musk's xAI on February 2, 2026 in the largest private merger of all time at a combined $1.25T valuation (SpaceX $1T + xAI $250B), with plans to build orbital AI data centers and a SpaceX IPO targeting up to $1.5T valuation. Domain: Business.
-
-- **[Anthropic Series G — $30B at $380B Valuation](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)** — Anthropic closed a $30B Series G on February 12, 2026 at a $380B post-money valuation led by Coatue and GIC, with participation from Microsoft and Nvidia; the company reported $14B ARR and Claude Code generating $2.5B in annualized revenue. Domain: Business.
-
-- **[Databricks $5B Financing at $134B Valuation](https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html)** — Databricks closed $5B equity + $2B debt on February 9, 2026 at a $134B valuation; $5.4B annualized revenue growing 65% YoY with AI products contributing $1.4B ARR; company stated it is IPO-ready when timing is right. Domain: Business.
-
-- **[LinkedIn Vertical Video on Desktop](https://www.socialmediatoday.com/news/linkedin-video-presentation-discovery-updates/739214/)** — LinkedIn expanded its full-screen vertical video tab and "Videos for You" discovery feed to desktop in 2026, matching the mobile immersive experience and adding inline profile snapshots visible within the video player. Domain: Social Media.
-
 ### 2026-05-03
 
 - **[GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)** — OpenAI released GPT-5.5 on April 23, 2026 with a 1M-token context window at $5/1M input tokens; available to ChatGPT Plus/Pro/Business/Enterprise subscribers and via API; matches GPT-5.4 per-token latency while achieving higher intelligence and using fewer tokens for the same Codex tasks. Domain: AI & LLMs.
@@ -75,3 +65,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[YouTube Dream Screen + Veo 2](https://blog.youtube/news-and-events/veo-2-shorts/)** — YouTube integrated Google DeepMind's Veo 2 model into Dream Screen for Shorts, enabling AI-generated video backgrounds and standalone clip generation from text prompts; all outputs labeled with SynthID watermarks; initially available in the US, Canada, Australia, and New Zealand. Domain: Social Media.
 
 - **[Instagram Carousel Reorder After Posting](https://www.socialmediatoday.com/news/instagram-allows-users-to-rearrange-carousel-posts/815490/)** — Instagram launched the ability to reorder photos and videos in carousel posts after publishing via long-press and drag, fulfilling a long-standing creator request; rolled out March 24, 2026; slides can be deleted but new slides cannot be added post-publish. Domain: Social Media.
+
+### 2026-05-07
+
+- **[NVIDIA Nemotron 3 Nano Omni](https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/)** — NVIDIA released an open 30B-parameter (3B active) hybrid MoE omni model on April 28, 2026 that natively handles text, image, video, and audio in a single context; delivers up to 9× throughput over comparable open omni models and tops six leaderboards for document, video, and audio intelligence; available on Hugging Face, OpenRouter, and as an NVIDIA NIM microservice. Domain: AI & LLMs.
+
+- **[Microsoft Agent Framework 1.0 GA](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/)** — Microsoft shipped a production-ready, open-source multi-agent framework for .NET and Python on April 3, 2026 that unifies Semantic Kernel and AutoGen under one SDK with built-in MCP and A2A support; ships with DevUI (browser-based live agent debugger) and six LLM provider integrations (Azure OpenAI, OpenAI, Anthropic, Bedrock, Gemini, Ollama). Domain: Dev Workflows.
+
+- **[Instagram Removes E2E Encryption from DMs](https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html)** — Meta ended opt-in end-to-end encryption for Instagram direct messages effective May 8, 2026, citing low adoption; the timing is 11 days before the Take It Down Act enforcement deadline requiring platforms to remove certain content within 48 hours of a notice. Domain: Social Media.
+
+- **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — Picsart launched an open creator monetization program on April 6, 2026 with no invite list and no minimum audience size; creators earn based on views, comments, shares, and reach for content made with Picsart tools and shared on their own channels; earnings withdrawable via Stripe. Domain: Social Media.
