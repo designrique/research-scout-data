@@ -8,16 +8,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-05-03
 
-- **[GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)** — OpenAI released GPT-5.5 on April 23, 2026 with a 1M-token context window at $5/1M input tokens; available to ChatGPT Plus/Pro/Business/Enterprise subscribers and via API; matches GPT-5.4 per-token latency while achieving higher intelligence and using fewer tokens for the same Codex tasks. Domain: AI & LLMs.
-
-- **[Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)** — Mistral AI released Medium 3.5 on April 29, 2026, a 128B dense (non-MoE) model with 256K context at $1.50/1M input tokens, consolidating chat, reasoning, and code into one system; ships with Vibe remote agents for async cloud-based coding sessions and Le Chat Work mode for multi-step agentic tasks. Domain: AI & LLMs.
-
-- **[Craft Agents OSS](https://aitoolly.com/ai-news/article/2026-05-02-craft-agents-oss-lukilabs-launches-new-open-source-agent-framework-under-apache-20-license)** — Lukilabs released Craft Agents, a modular open-source agent framework, on May 2, 2026 under Apache 2.0; landed on GitHub Trending shortly after release. Domain: Dev Workflows.
-
-- **[Figma Weave](https://www.figma.com/blog/welcome-weavy-to-figma/)** — Figma launched Weave, a node-based visual canvas for building repeatable, scalable generative AI workflows, now available in Figma Community with 20+ pre-built workflows; supports Sora, Seedance, Veo, Flux, Ideogram, and ChatGPT Images 2.0 as selectable models for video, image, and design asset pipelines. Domain: Design.
-
-- **[Parallel Web Systems $100M Series B](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)** — Parag Agrawal's (ex-Twitter CEO) AI infrastructure company raised a $100M Series B led by Sequoia at a $2B valuation on April 28, 2026, up from a $740M Series A just five months prior; builds web search and research APIs purpose-built for AI agents, with customers including Clay, Harvey, Notion, and Opendoor. Domain: Business.
-
 - **[Facebook Creator Fast Track](https://agencyrevolution.com/blog/turbocharged-takeaways-latest-platform-updates-may-2026/)** — Facebook launched the Creator Fast Track program offering established creators increased reach on eligible Reels and up to three months of guaranteed earnings to accelerate growth on the platform. Domain: Social Media.
 
 - **[TikTok Business Profile Unlock](https://blog.gainapp.com/social-media-updates/)** — TikTok now allows any verified business entity to unlock link-in-bio, lead generation forms, geo-targeting, and multi-user account access regardless of follower count, removing the prior follower threshold for business features. Domain: Social Media.
@@ -75,3 +65,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Instagram Removes E2E Encryption from DMs](https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html)** — Meta ended opt-in end-to-end encryption for Instagram direct messages effective May 8, 2026, citing low adoption; the timing is 11 days before the Take It Down Act enforcement deadline requiring platforms to remove certain content within 48 hours of a notice. Domain: Social Media.
 
 - **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — Picsart launched an open creator monetization program on April 6, 2026 with no invite list and no minimum audience size; creators earn based on views, comments, shares, and reach for content made with Picsart tools and shared on their own channels; earnings withdrawable via Stripe. Domain: Social Media.
+
+### 2026-05-08
+
+- **[GPT-5.5 Instant](https://openai.com/index/gpt-5-5-instant/)** — OpenAI released GPT-5.5 Instant on May 5, 2026 as ChatGPT's new default model (replacing GPT-5.3 Instant); 52.5% fewer hallucinations on high-stakes prompts, 30% shorter responses, new "memory sources" transparency control showing which past chats and files shaped each answer; available in the API as `chat-latest`. Domain: AI & LLMs.
+
+- **[Gemini CLI](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-open-source-ai-agent/)** — Google launched a free open-source AI agent that puts Gemini directly in the terminal; free tier delivers 60 req/min and 1,000 req/day via a personal Google account; 1M-token context, built-in Google Search grounding, MCP support, and file/shell operations; install via `npm install -g @google/gemini-cli`. Domain: Dev Workflows.
+
+- **[TradingAgents](https://aitoolly.com/ai-news/article/2026-05-04-tradingagents-tauricresearch-launches-multi-agent-llm-framework-for-financial-trading)** — TauricResearch released an open-source multi-agent LLM framework on May 4, 2026 purpose-built for financial trading; coordinates specialized sub-agents for market research, risk analysis, and order execution within a single orchestrated pipeline. Domain: Dev Workflows.
+
+- **[Beehiiv Creator Tools Suite](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)** — Beehiiv launched on April 23, 2026: live webinars for up to 1,000 attendees (0% revenue cut), metered paywalls with configurable free-post thresholds and reset periods, AI podcast analytics, and paid trials ($1/30 days before full-price auto-conversion); positions Beehiiv as an all-in-one creator business hub. Domain: Social Media.
+
+- **[Threads Playable Music Stickers](https://www.socialmediatoday.com/news/threads-adds-playable-music-stickers-in-stream/819533/)** — Threads rolled out in-stream playable music stickers in May 2026, letting users attach song samples with album art and an embedded play button directly in posts; keeps listening engagement within the app, mirroring Instagram's music sticker format. Domain: Social Media.
