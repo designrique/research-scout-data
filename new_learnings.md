@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-03
-
-- **[Facebook Creator Fast Track](https://agencyrevolution.com/blog/turbocharged-takeaways-latest-platform-updates-may-2026/)** — Facebook launched the Creator Fast Track program offering established creators increased reach on eligible Reels and up to three months of guaranteed earnings to accelerate growth on the platform. Domain: Social Media.
-
-- **[TikTok Business Profile Unlock](https://blog.gainapp.com/social-media-updates/)** — TikTok now allows any verified business entity to unlock link-in-bio, lead generation forms, geo-targeting, and multi-user account access regardless of follower count, removing the prior follower threshold for business features. Domain: Social Media.
-
 ### 2026-05-04
-
-- **[Sakana AI KAME](https://pub.sakana.ai/kame/)** — Tandem speech-to-speech architecture that maintains near-zero latency of a direct S2S model while injecting LLM knowledge asynchronously every ~80ms; enables "speak while thinking" rather than "think then speak"; accepted at ICASSP 2026. Domain: AI & LLMs.
-
-- **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI agent that runs locally and orchestrates email and browser workflows via WhatsApp/Telegram; surpassed React to become the most-starred project in GitHub history (347K stars by April 2026); creator Peter Steinberger joined OpenAI in February 2026 to lead next-gen personal agents; project transferred to an independent open-source foundation backed by OpenAI. Domain: AI & LLMs.
-
-- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Open-source (MIT) 7-package runtime security framework for autonomous AI agents released April 2, 2026; covers all 10 OWASP agentic AI risks with deterministic sub-millisecond policy enforcement; includes modules for execution sandboxing, RL governance, and compliance grading against EU AI Act, HIPAA, and SOC2; integrates with LangChain, CrewAI, Google ADK, and Microsoft Agent Framework. Domain: Dev Workflows.
-
-- **[Visual Studio 2026 — Agentic Bug Resolution](https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes)** — Debugger Agent workflow shipped April 14, 2026 that validates bugs against real runtime behavior (not static analysis), reproduces issues, instruments the app, isolates root causes, and walks through a full agentic fix loop; available as a paid GitHub Copilot add-on in VS 18.5. Domain: Dev Workflows.
-
-- **[Legora Series D — $600M at $5.6B](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)** — Swedish legal AI startup raised $550M + $50M Nvidia/Atlassian-backed extension on April 30, 2026 at a $5.6B valuation; surpassed €85M ARR; serves Barclays, White & Case, and Linklaters; direct Harvey competitor. Domain: Business.
 
 - **[Novi AI Long Video Agent](https://www.globenewswire.com/news-release/2026/04/30/3285019/0/en/Novi-AI-Launches-Long-Video-Agent-for-AI-Narrative-Video-Creation-Up-to-5-Minutes.html)** — Generates complete AI narrative videos up to 5 minutes from a story idea, script, or screenplay in a single agentic pipeline (script → multi-scene visuals → synchronized voiceover); launched April 30, 2026; 2M users across 120+ countries. Domain: Social Media.
 
@@ -39,8 +23,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Figma AI Agents on Canvas](https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/)** — Figma opened canvas write access to AI agents via a new use_figma MCP tool in open beta on March 24, 2026; compatible with Claude Code, Cursor, Copilot, and Augment; agents generate and modify assets using real design system components, variables, and auto layout; nine community skills launched including /apply-design-system and /sync-figma-token; free during beta. Domain: Design.
 
 - **[Sierra $950M Series E](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)** — Bret Taylor's enterprise AI customer-service platform raised $950M on May 4, 2026 at a $15.8B valuation, led by Tiger Global and GV with Benchmark and Sequoia; $150M+ ARR; serves 40%+ of Fortune 50 companies including Prudential, Cigna, and Rocket Mortgage. Domain: Business.
-
-- **[Instagram Competitive Insights](https://www.socialmediatoday.com/news/instagram-adds-competitor-insights-professional-accounts/804465/)** — Instagram launched Competitive Insights inside the Professional Dashboard, allowing Business and Creator accounts to benchmark against up to 10 competitor profiles on follower growth, posting frequency, Reels, and boosted posts side by side; restricted to Meta Verified subscribers. Domain: Social Media.
 
 ### 2026-05-06
 
@@ -77,3 +59,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Beehiiv Creator Tools Suite](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)** — Beehiiv launched on April 23, 2026: live webinars for up to 1,000 attendees (0% revenue cut), metered paywalls with configurable free-post thresholds and reset periods, AI podcast analytics, and paid trials ($1/30 days before full-price auto-conversion); positions Beehiiv as an all-in-one creator business hub. Domain: Social Media.
 
 - **[Threads Playable Music Stickers](https://www.socialmediatoday.com/news/threads-adds-playable-music-stickers-in-stream/819533/)** — Threads rolled out in-stream playable music stickers in May 2026, letting users attach song samples with album art and an embedded play button directly in posts; keeps listening engagement within the app, mirroring Instagram's music sticker format. Domain: Social Media.
+
+### 2026-05-09
+
+- **[Claude Mythos Preview](https://lmcouncil.ai/benchmarks)** — Anthropic's new frontier model leads on GPQA Diamond at 94.6%, surpassing Gemini 3.1 Pro's 94.3%; also tops the LM Council composite leaderboard aggregating GPQA, SWE-Bench Verified, and coding-arena scores. ⚠️ Contradicts GPQA Diamond leadership attributed to Gemini 3.1 Pro in ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[Bloom](https://www.anthropic.com/research/bloom)** — Anthropic open-source agentic framework for generating behavioral evaluations of frontier AI models; takes a researcher-specified behavior and automatically quantifies its frequency and severity across auto-generated scenarios. Domain: AI & LLMs.
+
+- **[Mastra v1.0](https://www.firecrawl.dev/blog/best-open-source-agent-frameworks)** — TypeScript-first agent framework reached v1.0 in January 2026 with 1.77M monthly NPM downloads; YC-backed with $13M seed; provides routing, memory, workflows, and tool integration for building production AI agents in Node.js environments. Domain: Dev Workflows.
+
+- **[JetBrains AI 2026 Direction](https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/)** — JetBrains unveiled opt-in agentic modes across all IDEs (IntelliJ, PyCharm, GoLand, etc.) enabling AI to run autonomously for extended periods via AI Chat, terminal, and a new Agentic Systems panel; April 2026 roadmap post. Domain: Dev Workflows.
+
+- **[Google Stitch AI](https://tech-insider.org/google-stitch-ai-design-tool-march-2026-update/)** — Google relaunched Stitch in March 2026 with a complete overhaul: AI-native infinite canvas, context-aware design agents, and instant prototyping from concept to clickable prototype, directly challenging Figma and Adobe XD. Domain: Design.
+
+- **[Nebius acquires Eigen AI](https://nebius.com/newsroom/nebius-agrees-to-acquire-eigen-ai-strengthening-nebius-token-factory-as-a-frontier-inference-platform)** — Nebius (NASDAQ: NBIS) agreed on May 1, 2026 to acquire Eigen AI, a leading inference and model optimization company, to strengthen its Token Factory managed inference platform for production AI workloads. Domain: Business.
+
+- **[David Silver raises $1.1B for RL startup](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)** — Ex-DeepMind RL pioneer and AlphaGo co-creator David Silver closed a $1.1B Series A on April 27, 2026 to build an AI system that learns entirely without human-labeled data. Domain: Business.
