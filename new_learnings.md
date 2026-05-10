@@ -6,24 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-04
-
-- **[Novi AI Long Video Agent](https://www.globenewswire.com/news-release/2026/04/30/3285019/0/en/Novi-AI-Launches-Long-Video-Agent-for-AI-Narrative-Video-Creation-Up-to-5-Minutes.html)** — Generates complete AI narrative videos up to 5 minutes from a story idea, script, or screenplay in a single agentic pipeline (script → multi-scene visuals → synchronized voiceover); launched April 30, 2026; 2M users across 120+ countries. Domain: Social Media.
-
-### 2026-05-05
-
-- **[DeepSeek V4](https://api-docs.deepseek.com/news/news260424)** — DeepSeek released V4 as open-source (MIT) preview on April 24, 2026; two MoE variants — V4-Pro (1.6T params, 49B activated) and V4-Flash (284B params, 13B activated) — both with 1M-token context; novel Compressed Sparse Attention cuts inference FLOPs to 27% of V3 at 1M context; leads all open models in Math/STEM/Coding benchmarks. ⚠️ May supersede Z.ai GLM-5.1 as open-source coding benchmark leader noted in ref_ai_trends.md. Domain: AI & LLMs.
-
-- **[Cursor 3](https://cursor.com/blog/cursor-3)** — Launched April 2, 2026; replaces the classic IDE model with an agent-first unified workspace featuring an Agents Window for managing local, cloud, worktree, and remote SSH agents in parallel; new Design Mode annotates browser UI for agents; BugBot achieves ~80% PR fix resolution; sessions hand off seamlessly from local to cloud. Domain: Dev Workflows.
-
-- **[IBM Bob](https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software)** — IBM released Bob to general availability on April 28, 2026; covers the full SDLC (planning → coding → testing → deployment → modernization) via multi-model routing across Anthropic Claude, Mistral, and IBM Granite; deployed to 80K+ IBM employees with 45% average self-reported productivity gain; SaaS offering with 30-day free trial. Domain: Dev Workflows.
-
-- **[Canva AI 2.0](https://www.canva.com/newsroom/news/canva-create-2026-ai/)** — Unveiled April 15, 2026 at Canva Create in Los Angeles; repositions Canva as "an AI platform with design tools"; introduces conversational design, agentic orchestration, object-based intelligence (all outputs are editable layers, not flat images), and living memory (persistent brand/style profile); six new agentic workflows including Canva Code 2.0 and Sheets AI; rolling out to Pro/Team/Enterprise by late May 2026. Domain: Design.
-
-- **[Figma AI Agents on Canvas](https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/)** — Figma opened canvas write access to AI agents via a new use_figma MCP tool in open beta on March 24, 2026; compatible with Claude Code, Cursor, Copilot, and Augment; agents generate and modify assets using real design system components, variables, and auto layout; nine community skills launched including /apply-design-system and /sync-figma-token; free during beta. Domain: Design.
-
-- **[Sierra $950M Series E](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)** — Bret Taylor's enterprise AI customer-service platform raised $950M on May 4, 2026 at a $15.8B valuation, led by Tiger Global and GV with Benchmark and Sequoia; $150M+ ARR; serves 40%+ of Fortune 50 companies including Prudential, Cigna, and Rocket Mortgage. Domain: Business.
-
 ### 2026-05-06
 
 - **[Qwen3.6-Max-Preview](https://qwen.ai/blog?id=qwen3.6-max-preview)** — Alibaba released its most powerful model on April 20, 2026; closed-weights with 260K context window, claims top position on six coding benchmarks including SWE-bench Pro and Terminal-Bench 2.0; first Qwen flagship to ship without open weights; compatible with both OpenAI and Anthropic API specs. ⚠️ Supersedes Z.ai GLM-5.1 as SWE-bench Pro leader noted in ref_ai_trends.md. Domain: AI & LLMs.
@@ -48,6 +30,8 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 - **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — Picsart launched an open creator monetization program on April 6, 2026 with no invite list and no minimum audience size; creators earn based on views, comments, shares, and reach for content made with Picsart tools and shared on their own channels; earnings withdrawable via Stripe. Domain: Social Media.
 
+- **[Threads Playable Music Stickers](https://www.socialmediatoday.com/news/threads-adds-playable-music-stickers-in-stream/819533/)** — Threads rolled out in-stream playable music stickers in May 2026, letting users attach song samples with album art and an embedded play button directly in posts; keeps listening engagement within the app, mirroring Instagram's music sticker format. Domain: Social Media.
+
 ### 2026-05-08
 
 - **[GPT-5.5 Instant](https://openai.com/index/gpt-5-5-instant/)** — OpenAI released GPT-5.5 Instant on May 5, 2026 as ChatGPT's new default model (replacing GPT-5.3 Instant); 52.5% fewer hallucinations on high-stakes prompts, 30% shorter responses, new "memory sources" transparency control showing which past chats and files shaped each answer; available in the API as `chat-latest`. Domain: AI & LLMs.
@@ -57,8 +41,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[TradingAgents](https://aitoolly.com/ai-news/article/2026-05-04-tradingagents-tauricresearch-launches-multi-agent-llm-framework-for-financial-trading)** — TauricResearch released an open-source multi-agent LLM framework on May 4, 2026 purpose-built for financial trading; coordinates specialized sub-agents for market research, risk analysis, and order execution within a single orchestrated pipeline. Domain: Dev Workflows.
 
 - **[Beehiiv Creator Tools Suite](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)** — Beehiiv launched on April 23, 2026: live webinars for up to 1,000 attendees (0% revenue cut), metered paywalls with configurable free-post thresholds and reset periods, AI podcast analytics, and paid trials ($1/30 days before full-price auto-conversion); positions Beehiiv as an all-in-one creator business hub. Domain: Social Media.
-
-- **[Threads Playable Music Stickers](https://www.socialmediatoday.com/news/threads-adds-playable-music-stickers-in-stream/819533/)** — Threads rolled out in-stream playable music stickers in May 2026, letting users attach song samples with album art and an embedded play button directly in posts; keeps listening engagement within the app, mirroring Instagram's music sticker format. Domain: Social Media.
 
 ### 2026-05-09
 
@@ -75,3 +57,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Nebius acquires Eigen AI](https://nebius.com/newsroom/nebius-agrees-to-acquire-eigen-ai-strengthening-nebius-token-factory-as-a-frontier-inference-platform)** — Nebius (NASDAQ: NBIS) agreed on May 1, 2026 to acquire Eigen AI, a leading inference and model optimization company, to strengthen its Token Factory managed inference platform for production AI workloads. Domain: Business.
 
 - **[David Silver raises $1.1B for RL startup](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)** — Ex-DeepMind RL pioneer and AlphaGo co-creator David Silver closed a $1.1B Series A on April 27, 2026 to build an AI system that learns entirely without human-labeled data. Domain: Business.
+
+### 2026-05-10
+
+- **[Google Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)** — Released April 2, 2026 under Apache 2.0; four variants (E2B 2B, E4B 4B, 26B MoE, 31B Dense) natively handle text, image, and audio with 256K-token context; 31B model ranks #3 open model on Arena AI leaderboard; available on Hugging Face, Kaggle, Google Cloud, and via llama.cpp/Ollama. Domain: AI & LLMs.
+
+- **[Qodo 2.0](https://www.qodo.ai/blog/introducing-qodo-2-0-agentic-code-review/)** — Launched February 4, 2026; multi-agent architecture deploys specialized reviewers for security, test coverage, architecture, and documentation in parallel; achieves highest F1 score (60.1%) among code review tools benchmarked; context engine now ingests full PR history alongside codebase indexing. Domain: Dev Workflows.
+
+- **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)** — Anthropic launched this visual creation research preview on April 17, 2026 for Pro/Max/Team/Enterprise subscribers; powered by Claude Opus 4.7; converts text prompts into interactive prototypes, slides, one-pagers, and UI mockups while applying team design systems for brand consistency; Figma stock dropped 7% on launch day. Domain: Design.
+
+- **[SpaceX Absorbs xAI at $1.25T](https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html)** — Announced February 2, 2026; the largest merger of all time values SpaceX at $1T and xAI at $250B in a share-exchange deal (1 xAI share → 0.1433 SpaceX share); strategic rationale is building orbital data centers; combined IPO targeting up to $1.5T valuation expected in H2 2026. Domain: Business.
+
+- **[Cohere Acquires Aleph Alpha at $20B](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)** — Announced April 24, 2026; Cohere absorbs Germany's Aleph Alpha while closing a $600M Series E led by Schwarz Group; positions the combined entity as a sovereign AI alternative for defense, energy, finance, and healthcare in regulated markets; Cohere shareholders retain ~90%; closing subject to Canadian, German, and EU regulatory approvals. Domain: Business.
+
+- **[Instagram Clickable Caption Links](https://www.engadget.com/social-media/meta-is-testing-clickable-links-in-instagram-captions-for-verified-subscribers-184555406.html)** — Meta began testing clickable links directly in Instagram post captions in March 2026, limited to Meta Verified subscribers at up to 10 links/month; mobile-only; no broad rollout date announced; threatens "link in bio" tools such as Linktree. Domain: Social Media.
+
+- **[Facebook Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Launched March 18, 2026 to recruit established creators from TikTok, YouTube, and Instagram; guarantees $1K/month (100K+ followers on other platforms) or $3K/month (1M+ followers) for 3 months plus boosted Reels reach; graduates into Facebook Content Monetization program. Domain: Social Media.
