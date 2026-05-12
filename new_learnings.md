@@ -6,17 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-06
-
-- **[YouTube Dream Screen + Veo 2](https://blog.youtube/news-and-events/veo-2-shorts/)** — YouTube integrated Google DeepMind's Veo 2 model into Dream Screen for Shorts, enabling AI-generated video backgrounds and standalone clip generation from text prompts; all outputs labeled with SynthID watermarks; initially available in the US, Canada, Australia, and New Zealand. Domain: Social Media.
-
-- **[Instagram Carousel Reorder After Posting](https://www.socialmediatoday.com/news/instagram-allows-users-to-rearrange-carousel-posts/815490/)** — Instagram launched the ability to reorder photos and videos in carousel posts after publishing via long-press and drag, fulfilling a long-standing creator request; rolled out March 24, 2026; slides can be deleted but new slides cannot be added post-publish. Domain: Social Media.
-
 ### 2026-05-07
-
-- **[NVIDIA Nemotron 3 Nano Omni](https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/)** — NVIDIA released an open 30B-parameter (3B active) hybrid MoE omni model on April 28, 2026 that natively handles text, image, video, and audio in a single context; delivers up to 9× throughput over comparable open omni models and tops six leaderboards for document, video, and audio intelligence; available on Hugging Face, OpenRouter, and as an NVIDIA NIM microservice. Domain: AI & LLMs.
-
-- **[Microsoft Agent Framework 1.0 GA](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/)** — Microsoft shipped a production-ready, open-source multi-agent framework for .NET and Python on April 3, 2026 that unifies Semantic Kernel and AutoGen under one SDK with built-in MCP and A2A support; ships with DevUI (browser-based live agent debugger) and six LLM provider integrations (Azure OpenAI, OpenAI, Anthropic, Bedrock, Gemini, Ollama). Domain: Dev Workflows.
 
 - **[Instagram Removes E2E Encryption from DMs](https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html)** — Meta ended opt-in end-to-end encryption for Instagram direct messages effective May 8, 2026, citing low adoption; the timing is 11 days before the Take It Down Act enforcement deadline requiring platforms to remove certain content within 48 hours of a notice. Domain: Social Media.
 
@@ -77,3 +67,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Instagram "Your Algorithm" Global Rollout](https://about.instagram.com/blog/announcements/reels-algorithm-control)** — Instagram expanded its "Your Algorithm" feature to all English-speaking users globally in May 2026, letting users see the topics driving their Reels feed and manually add or remove interests to shape recommendations; controls also extend to the Feed and Explore tabs; originally US-only since December 2025. Domain: Social Media.
 
 - **[Figma FigJam MCP Skills](https://help.figma.com/hc/en-us/articles/40219873508247-Release-notes-roundup-May-2026)** — Figma's May 2026 release added MCP server integration to FigJam, enabling coding agents to generate architecture diagrams, ERDs, and flowcharts directly in FigJam boards; also introduced AI co-design mode for advancing vibe-coded prototypes to production-ready designs with live design-system token updates across the canvas. Domain: Design.
+
+### 2026-05-12
+
+- **[SubQ by Subquadratic](https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/)** — Miami startup Subquadratic launched May 5, 2026 with $29M seed and the first LLM built on fully sub-quadratic sparse attention (SSA); claims 1,000× lower attention compute vs. frontier models at 12M tokens; production API offers 1M-token context; CTO Alex Whedon is ex-Meta Head of Generative AI; researchers note no peer-reviewed paper has been released yet. Domain: AI & LLMs.
+
+- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Microsoft released on April 2, 2026 an open-source MIT-licensed runtime security layer for autonomous AI agents; the first toolkit to cover all 10 OWASP Agentic Top 10 risks (goal hijacking, tool misuse, identity abuse, memory poisoning, etc.); ships as 7 independently installable packages for Python, Rust, TypeScript, Go, and .NET; framework-agnostic with integrations for LangChain, CrewAI, Google ADK, and Microsoft Agent Framework. Domain: Dev Workflows.
+
+- **[Anthropic $30B Series G → $900B pending round](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)** — Anthropic closed a $30B Series G on February 12, 2026 at a $380B post-money valuation (CNBC); as of April 30, 2026 the company is weighing preemptive offers to raise ~$50B at a ~$900B valuation which would eclipse OpenAI's $852B post-money from its March 2026 round; round expected to close mid-May 2026. Domain: Business.
+
+- **[YouTube AI Slop Filters + Creator Likeness Shorts](https://variety.com/2026/digital/news/youtube-channels-using-ai-tools-reduce-slop-neal-mohan-letter-1236636548/)** — YouTube CEO Neal Mohan's January 2026 annual letter announced: (1) new AI slop filters adapting spam/clickbait detection to demote mass-produced, templated, or machine-made content lacking human effort; (2) creator AI-likeness Shorts enabling creators to generate a Short using their own AI likeness; over 1M channels used YouTube AI creation tools daily in December 2025. Domain: Social Media.
