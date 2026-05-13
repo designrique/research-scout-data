@@ -8,19 +8,9 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 ### 2026-05-07
 
-- **[Instagram Removes E2E Encryption from DMs](https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html)** — Meta ended opt-in end-to-end encryption for Instagram direct messages effective May 8, 2026, citing low adoption; the timing is 11 days before the Take It Down Act enforcement deadline requiring platforms to remove certain content within 48 hours of a notice. Domain: Social Media.
-
-- **[Picsart Creator Monetization Program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)** — Picsart launched an open creator monetization program on April 6, 2026 with no invite list and no minimum audience size; creators earn based on views, comments, shares, and reach for content made with Picsart tools and shared on their own channels; earnings withdrawable via Stripe. Domain: Social Media.
-
 - **[Threads Playable Music Stickers](https://www.socialmediatoday.com/news/threads-adds-playable-music-stickers-in-stream/819533/)** — Threads rolled out in-stream playable music stickers in May 2026, letting users attach song samples with album art and an embedded play button directly in posts; keeps listening engagement within the app, mirroring Instagram's music sticker format. Domain: Social Media.
 
 ### 2026-05-08
-
-- **[GPT-5.5 Instant](https://openai.com/index/gpt-5-5-instant/)** — OpenAI released GPT-5.5 Instant on May 5, 2026 as ChatGPT's new default model (replacing GPT-5.3 Instant); 52.5% fewer hallucinations on high-stakes prompts, 30% shorter responses, new "memory sources" transparency control showing which past chats and files shaped each answer; available in the API as `chat-latest`. Domain: AI & LLMs.
-
-- **[Gemini CLI](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-open-source-ai-agent/)** — Google launched a free open-source AI agent that puts Gemini directly in the terminal; free tier delivers 60 req/min and 1,000 req/day via a personal Google account; 1M-token context, built-in Google Search grounding, MCP support, and file/shell operations; install via `npm install -g @google/gemini-cli`. Domain: Dev Workflows.
-
-- **[TradingAgents](https://aitoolly.com/ai-news/article/2026-05-04-tradingagents-tauricresearch-launches-multi-agent-llm-framework-for-financial-trading)** — TauricResearch released an open-source multi-agent LLM framework on May 4, 2026 purpose-built for financial trading; coordinates specialized sub-agents for market research, risk analysis, and order execution within a single orchestrated pipeline. Domain: Dev Workflows.
 
 - **[Beehiiv Creator Tools Suite](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)** — Beehiiv launched on April 23, 2026: live webinars for up to 1,000 attendees (0% revenue cut), metered paywalls with configurable free-post thresholds and reset periods, AI podcast analytics, and paid trials ($1/30 days before full-price auto-conversion); positions Beehiiv as an all-in-one creator business hub. Domain: Social Media.
 
@@ -77,3 +67,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Anthropic $30B Series G → $900B pending round](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)** — Anthropic closed a $30B Series G on February 12, 2026 at a $380B post-money valuation (CNBC); as of April 30, 2026 the company is weighing preemptive offers to raise ~$50B at a ~$900B valuation which would eclipse OpenAI's $852B post-money from its March 2026 round; round expected to close mid-May 2026. Domain: Business.
 
 - **[YouTube AI Slop Filters + Creator Likeness Shorts](https://variety.com/2026/digital/news/youtube-channels-using-ai-tools-reduce-slop-neal-mohan-letter-1236636548/)** — YouTube CEO Neal Mohan's January 2026 annual letter announced: (1) new AI slop filters adapting spam/clickbait detection to demote mass-produced, templated, or machine-made content lacking human effort; (2) creator AI-likeness Shorts enabling creators to generate a Short using their own AI likeness; over 1M channels used YouTube AI creation tools daily in December 2025. Domain: Social Media.
+
+### 2026-05-13
+
+- **[Microsoft MAI Foundational Models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)** — Microsoft AI's MAI Superintelligence team launched three foundational models on April 2, 2026: MAI-Transcribe-1 (SOTA speech-to-text, 25 languages, 2.5× faster than Azure Fast, $0.36/hr), MAI-Voice-1 (60s of natural-sounding audio in <1s on a single GPU, $22/1M chars), and MAI-Image-2 (2× faster text-to-image with improved skin tone and in-image text clarity, $5/1M tokens); all priced below Google and OpenAI equivalents and available in Azure AI Foundry. Domain: AI & LLMs.
+
+- **[Sakana AI KAME](https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/)** — Sakana AI introduced KAME on May 3, 2026, a tandem speech-to-speech architecture that injects LLM reasoning directly into the audio stream in real time without converting speech to text first, addressing the latency and knowledge-staleness issues common in traditional cascaded voice AI pipelines. Domain: AI & LLMs.
+
+- **[Cerebras IPO Filing](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html)** — Cerebras Systems filed its S-1 on April 17, 2026 and amended pricing on May 4 to $115–$125/share (28M Class A shares, up to $3.5B raise, $22–25B valuation, NASDAQ: CBRS); $510M in 2025 revenue, a $10B OpenAI supply contract, and a wafer-scale chip 57× larger than Nvidia's H100; listing targeted mid-May 2026. Domain: Business.
+
+- **[X Shutting Down Communities](https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/)** — X announced April 23, 2026 it will permanently retire the Communities feature on May 30, 2026; the feature attracted less than 0.4% of users while generating 80% of spam and malware reports; moderators can pin XChat links before the cutoff, and XChat will scale from 350 to 1,000-person group chats as a replacement. Domain: Social Media.
+
+- **[LinkedIn AI Conversational Search Global Expansion](https://www.socialmediatoday.com/news/linkedin-expands-ai-powered-conversational-search/817631/)** — LinkedIn expanded AI-powered conversational search from US premium accounts to all users worldwide in May 2026, covering natural-language queries for people, jobs, and recruiting with added typo tolerance and nickname matching; part of a broader push to bring professional discovery to LinkedIn's full 1B+ member base. Domain: Social Media.
