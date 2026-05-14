@@ -6,21 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-07
-
-- **[Threads Playable Music Stickers](https://www.socialmediatoday.com/news/threads-adds-playable-music-stickers-in-stream/819533/)** — Threads rolled out in-stream playable music stickers in May 2026, letting users attach song samples with album art and an embedded play button directly in posts; keeps listening engagement within the app, mirroring Instagram's music sticker format. Domain: Social Media.
-
-### 2026-05-08
-
-- **[Beehiiv Creator Tools Suite](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)** — Beehiiv launched on April 23, 2026: live webinars for up to 1,000 attendees (0% revenue cut), metered paywalls with configurable free-post thresholds and reset periods, AI podcast analytics, and paid trials ($1/30 days before full-price auto-conversion); positions Beehiiv as an all-in-one creator business hub. Domain: Social Media.
-
 ### 2026-05-09
-
-- **[Claude Mythos Preview](https://lmcouncil.ai/benchmarks)** — Anthropic's new frontier model leads on GPQA Diamond at 94.6%, surpassing Gemini 3.1 Pro's 94.3%; also tops the LM Council composite leaderboard aggregating GPQA, SWE-Bench Verified, and coding-arena scores. ⚠️ Contradicts GPQA Diamond leadership attributed to Gemini 3.1 Pro in ref_ai_trends.md. Domain: AI & LLMs.
-
-- **[Bloom](https://www.anthropic.com/research/bloom)** — Anthropic open-source agentic framework for generating behavioral evaluations of frontier AI models; takes a researcher-specified behavior and automatically quantifies its frequency and severity across auto-generated scenarios. Domain: AI & LLMs.
-
-- **[Mastra v1.0](https://www.firecrawl.dev/blog/best-open-source-agent-frameworks)** — TypeScript-first agent framework reached v1.0 in January 2026 with 1.77M monthly NPM downloads; YC-backed with $13M seed; provides routing, memory, workflows, and tool integration for building production AI agents in Node.js environments. Domain: Dev Workflows.
 
 - **[JetBrains AI 2026 Direction](https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/)** — JetBrains unveiled opt-in agentic modes across all IDEs (IntelliJ, PyCharm, GoLand, etc.) enabling AI to run autonomously for extended periods via AI Chat, terminal, and a new Agentic Systems panel; April 2026 roadmap post. Domain: Dev Workflows.
 
@@ -79,3 +65,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[X Shutting Down Communities](https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/)** — X announced April 23, 2026 it will permanently retire the Communities feature on May 30, 2026; the feature attracted less than 0.4% of users while generating 80% of spam and malware reports; moderators can pin XChat links before the cutoff, and XChat will scale from 350 to 1,000-person group chats as a replacement. Domain: Social Media.
 
 - **[LinkedIn AI Conversational Search Global Expansion](https://www.socialmediatoday.com/news/linkedin-expands-ai-powered-conversational-search/817631/)** — LinkedIn expanded AI-powered conversational search from US premium accounts to all users worldwide in May 2026, covering natural-language queries for people, jobs, and recruiting with added typo tolerance and nickname matching; part of a broader push to bring professional discovery to LinkedIn's full 1B+ member base. Domain: Social Media.
+
+### 2026-05-14
+
+- **[GPT-5.5 Instant](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)** — OpenAI released GPT-5.5 Instant on May 5, 2026 as the new default model powering ChatGPT; scores 81.2 on AIME 2025 (vs. 65.4 for the prior default) and 76 on MMMU-Pro multimodal reasoning; also rolling out across GitHub Copilot. Domain: AI & LLMs.
+
+- **[Notion Developer Platform + CLI](https://www.notion.com/releases/2026-05-13)** — Notion launched its Developer Platform on May 13, 2026 with a new CLI built for developers and coding agents: supports sign-in, read/write actions in Notion, Workers (code hosted on Notion's infrastructure), and tool integrations for AI agents building on top of Notion data. Domain: Dev Workflows.
+
+- **[Cerebras IPO Revised to $150–$160/share](https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html)** — On May 11, Cerebras bumped its IPO price range from $115–$125 to $150–$160/share, targeting up to $4.8B in proceeds and a fully diluted valuation of up to $48.8B; listing set for May 14, 2026 (NASDAQ: CBRS). ⚠️ Contradicts the $22–25B valuation cited in the prior Cerebras IPO Filing entry. Domain: Business.
+
+- **[Instagram Removes E2E Encryption for DMs](https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/)** — Instagram ended end-to-end encryption for all direct messages on May 8, 2026; Meta cited app-safety and abuse-prevention improvements requiring server-side message access; privacy advocates flagged the reversal as a significant regression from the 2023 rollout. Domain: Social Media.
+
+- **[X Integrates Hotshot AI Text-to-Video](https://socialbee.com/blog/twitter-updates/)** — X announced (May 8, 2026) plans to embed its AI text-to-video tool Hotshot directly into the platform, letting users generate short video clips from prompts without leaving the app; part of X's broader push to integrate Grok AI across all core surfaces. Domain: Social Media.
