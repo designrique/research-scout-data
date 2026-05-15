@@ -6,19 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-09
-
-- **[JetBrains AI 2026 Direction](https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/)** — JetBrains unveiled opt-in agentic modes across all IDEs (IntelliJ, PyCharm, GoLand, etc.) enabling AI to run autonomously for extended periods via AI Chat, terminal, and a new Agentic Systems panel; April 2026 roadmap post. Domain: Dev Workflows.
-
-- **[Google Stitch AI](https://tech-insider.org/google-stitch-ai-design-tool-march-2026-update/)** — Google relaunched Stitch in March 2026 with a complete overhaul: AI-native infinite canvas, context-aware design agents, and instant prototyping from concept to clickable prototype, directly challenging Figma and Adobe XD. Domain: Design.
-
-- **[Nebius acquires Eigen AI](https://nebius.com/newsroom/nebius-agrees-to-acquire-eigen-ai-strengthening-nebius-token-factory-as-a-frontier-inference-platform)** — Nebius (NASDAQ: NBIS) agreed on May 1, 2026 to acquire Eigen AI, a leading inference and model optimization company, to strengthen its Token Factory managed inference platform for production AI workloads. Domain: Business.
-
-- **[David Silver raises $1.1B for RL startup](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)** — Ex-DeepMind RL pioneer and AlphaGo co-creator David Silver closed a $1.1B Series A on April 27, 2026 to build an AI system that learns entirely without human-labeled data. Domain: Business.
-
 ### 2026-05-10
-
-- **[Google Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)** — Released April 2, 2026 under Apache 2.0; four variants (E2B 2B, E4B 4B, 26B MoE, 31B Dense) natively handle text, image, and audio with 256K-token context; 31B model ranks #3 open model on Arena AI leaderboard; available on Hugging Face, Kaggle, Google Cloud, and via llama.cpp/Ollama. Domain: AI & LLMs.
 
 - **[Qodo 2.0](https://www.qodo.ai/blog/introducing-qodo-2-0-agentic-code-review/)** — Launched February 4, 2026; multi-agent architecture deploys specialized reviewers for security, test coverage, architecture, and documentation in parallel; achieves highest F1 score (60.1%) among code review tools benchmarked; context engine now ingests full PR history alongside codebase indexing. Domain: Dev Workflows.
 
@@ -77,3 +65,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Instagram Removes E2E Encryption for DMs](https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/)** — Instagram ended end-to-end encryption for all direct messages on May 8, 2026; Meta cited app-safety and abuse-prevention improvements requiring server-side message access; privacy advocates flagged the reversal as a significant regression from the 2023 rollout. Domain: Social Media.
 
 - **[X Integrates Hotshot AI Text-to-Video](https://socialbee.com/blog/twitter-updates/)** — X announced (May 8, 2026) plans to embed its AI text-to-video tool Hotshot directly into the platform, letting users generate short video clips from prompts without leaving the app; part of X's broader push to integrate Grok AI across all core surfaces. Domain: Social Media.
+
+### 2026-05-15
+
+- **[Zyphra ZAYA1-8B](https://www.marktechpost.com/2026/05/06/zyphra-releases-zaya1-8b-a-reasoning-moe-trained-on-amd-hardware-that-punches-far-above-its-weight-class/)** — Released May 6, 2026 under Apache 2.0; the first large-scale MoE reasoning model trained end-to-end on AMD Instinct MI300x hardware (1,024-node cluster with IBM); 8.4B total/760M active parameters; outperforms Claude 4.5 Sonnet and GPT-5-High on HMMT'25 mathematical reasoning (89.6 vs 88.3). Domain: AI & LLMs.
+
+- **[GitHub Copilot CLI GA](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/)** — Reached general availability February 25, 2026 for all paid Copilot subscribers; evolved into a full agentic terminal with Plan mode (oversight before execution), Autopilot mode (hands-off autonomous execution), specialized Explore and Task agents, and multi-model support (Claude, GPT-5, Gemini). Domain: Dev Workflows.
+
+- **[Cerebras Trading Debut (CBRS)](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)** — Cerebras priced its IPO at $185/share on May 14, 2026 — above the prior $150–160 range — raising $5.55B; shares opened at $350 and closed up 68% at $311, valuing the company at ~$95B and marking the largest U.S. tech IPO of 2026. ⚠️ Supersedes the $150–160/share range in the "Cerebras IPO Revised" entry. Domain: Business.
+
+- **[Lime IPO Filing](https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/)** — Uber-backed micromobility startup Lime filed for Nasdaq IPO (ticker: LIME) on May 8, 2026; $887M 2025 revenue and $104M positive free cash flow, but disclosed "substantial doubt" about going concern with ~$1B in debt due before year-end. Domain: Business.
+
+- **[Threads Rebrand](https://www.socialmediatoday.com/news/threads-updates-its-branding/819910/)** — Threads rolled out a new standalone logo, wordmark, and font on May 11, 2026 to visually separate from Instagram; the platform has surpassed 400M monthly active users and is positioning itself as an independent social platform in a "new, stand-alone era." Domain: Social Media.
