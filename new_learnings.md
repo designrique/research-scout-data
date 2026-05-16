@@ -6,20 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-10
-
-- **[Qodo 2.0](https://www.qodo.ai/blog/introducing-qodo-2-0-agentic-code-review/)** — Launched February 4, 2026; multi-agent architecture deploys specialized reviewers for security, test coverage, architecture, and documentation in parallel; achieves highest F1 score (60.1%) among code review tools benchmarked; context engine now ingests full PR history alongside codebase indexing. Domain: Dev Workflows.
-
-- **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)** — Anthropic launched this visual creation research preview on April 17, 2026 for Pro/Max/Team/Enterprise subscribers; powered by Claude Opus 4.7; converts text prompts into interactive prototypes, slides, one-pagers, and UI mockups while applying team design systems for brand consistency; Figma stock dropped 7% on launch day. Domain: Design.
-
-- **[SpaceX Absorbs xAI at $1.25T](https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html)** — Announced February 2, 2026; the largest merger of all time values SpaceX at $1T and xAI at $250B in a share-exchange deal (1 xAI share → 0.1433 SpaceX share); strategic rationale is building orbital data centers; combined IPO targeting up to $1.5T valuation expected in H2 2026. Domain: Business.
-
-- **[Cohere Acquires Aleph Alpha at $20B](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)** — Announced April 24, 2026; Cohere absorbs Germany's Aleph Alpha while closing a $600M Series E led by Schwarz Group; positions the combined entity as a sovereign AI alternative for defense, energy, finance, and healthcare in regulated markets; Cohere shareholders retain ~90%; closing subject to Canadian, German, and EU regulatory approvals. Domain: Business.
-
-- **[Instagram Clickable Caption Links](https://www.engadget.com/social-media/meta-is-testing-clickable-links-in-instagram-captions-for-verified-subscribers-184555406.html)** — Meta began testing clickable links directly in Instagram post captions in March 2026, limited to Meta Verified subscribers at up to 10 links/month; mobile-only; no broad rollout date announced; threatens "link in bio" tools such as Linktree. Domain: Social Media.
-
-- **[Facebook Creator Fast Track](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)** — Launched March 18, 2026 to recruit established creators from TikTok, YouTube, and Instagram; guarantees $1K/month (100K+ followers on other platforms) or $3K/month (1M+ followers) for 3 months plus boosted Reels reach; graduates into Facebook Content Monetization program. Domain: Social Media.
-
 ### 2026-05-11
 
 - **[NVIDIA Ising](https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers)** — NVIDIA launched the world's first open-source AI model family for quantum computing on April 14, 2026; includes a 35B-parameter Ising Calibration vision-language model and Ising Decoding CNN pair delivering 2.5× faster and 3× more accurate quantum error-correction decoding; automates QPU calibration from days to hours; adopted by Harvard, Fermilab, and Lawrence Berkeley National Lab. Domain: AI & LLMs.
@@ -77,3 +63,15 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Lime IPO Filing](https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/)** — Uber-backed micromobility startup Lime filed for Nasdaq IPO (ticker: LIME) on May 8, 2026; $887M 2025 revenue and $104M positive free cash flow, but disclosed "substantial doubt" about going concern with ~$1B in debt due before year-end. Domain: Business.
 
 - **[Threads Rebrand](https://www.socialmediatoday.com/news/threads-updates-its-branding/819910/)** — Threads rolled out a new standalone logo, wordmark, and font on May 11, 2026 to visually separate from Instagram; the platform has surpassed 400M monthly active users and is positioning itself as an independent social platform in a "new, stand-alone era." Domain: Social Media.
+
+### 2026-05-16
+
+- **[Anduril $5B Series H](https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/)** — Defense AI company raised $5B Series H on May 13, 2026; 2025 revenue doubled to $2.2B as its software and autonomous-systems platform wins major military programs, cementing Anduril as the category's capital leader. Domain: Business.
+
+- **[Sierra $950M at $15.8B valuation](https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/)** — Bret Taylor's enterprise AI startup raised $950M in new funding at a $15.8B post-money valuation; Sierra builds conversational AI agents for customer experience across industries including retail, telecom, and financial services. Domain: Business.
+
+- **[Instagram Instants](https://socialbee.com/blog/instagram-updates/)** — Meta launched Instants, a new ephemeral image-sharing option on Instagram; photos disappear after the recipient views them or after 24 hours, bringing disappearing-photo mechanics natively into the main Instagram app. Domain: Social Media.
+
+- **[X Chat standalone iOS app](https://socialbee.com/blog/social-media-news/)** — X launched XChat as a dedicated standalone iOS app with no ads and end-to-end encryption, giving direct messages a separate home outside the main X app as Communities shuts down. Domain: Social Media.
+
+- **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and expanded BrandConnect into Creator Partnerships at NewFronts 2026, integrating the deal-flow platform directly into YouTube Studio for creators and into Google Ads and Display & Video 360 for advertisers to streamline brand-creator collaborations. Domain: Social Media.
