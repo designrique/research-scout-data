@@ -6,18 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-11
-
-- **[NVIDIA Ising](https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers)** — NVIDIA launched the world's first open-source AI model family for quantum computing on April 14, 2026; includes a 35B-parameter Ising Calibration vision-language model and Ising Decoding CNN pair delivering 2.5× faster and 3× more accurate quantum error-correction decoding; automates QPU calibration from days to hours; adopted by Harvard, Fermilab, and Lawrence Berkeley National Lab. Domain: AI & LLMs.
-
-- **[Gemini 3.1 Ultra](https://ai2.work/blog/gemini-3-1-ultra-google-s-native-multimodal-reasoning-giant)** — Google released its flagship model in April 2026 with a 2M-token context window (≈3,000 pages of text or 8.4 hours of audio in one prompt), native multimodal reasoning across text, image, audio, and video, and sandboxed Python code execution; surpasses GPT-5 on several coding benchmarks; supersedes Gemini 3.1 Pro as Google's frontier model. ⚠️ Supersedes Gemini 3.1 Pro noted in ref_ai_trends.md. Domain: AI & LLMs.
-
-- **[Roche Acquires PathAI for $1.05B](https://www.roche.com/media/releases/med-cor-2026-05-07)** — Roche agreed on May 7, 2026 to acquire Boston-based digital pathology firm PathAI for $750M upfront plus up to $300M in milestone payments; PathAI's AI-driven companion diagnostic algorithms will be merged into Roche Diagnostics to improve precision cancer diagnosis and biomarker discovery; deal expected to close H2 2026 pending antitrust approval. Domain: Business.
-
-- **[Instagram "Your Algorithm" Global Rollout](https://about.instagram.com/blog/announcements/reels-algorithm-control)** — Instagram expanded its "Your Algorithm" feature to all English-speaking users globally in May 2026, letting users see the topics driving their Reels feed and manually add or remove interests to shape recommendations; controls also extend to the Feed and Explore tabs; originally US-only since December 2025. Domain: Social Media.
-
-- **[Figma FigJam MCP Skills](https://help.figma.com/hc/en-us/articles/40219873508247-Release-notes-roundup-May-2026)** — Figma's May 2026 release added MCP server integration to FigJam, enabling coding agents to generate architecture diagrams, ERDs, and flowcharts directly in FigJam boards; also introduced AI co-design mode for advancing vibe-coded prototypes to production-ready designs with live design-system token updates across the canvas. Domain: Design.
-
 ### 2026-05-12
 
 - **[SubQ by Subquadratic](https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/)** — Miami startup Subquadratic launched May 5, 2026 with $29M seed and the first LLM built on fully sub-quadratic sparse attention (SSA); claims 1,000× lower attention compute vs. frontier models at 12M tokens; production API offers 1M-token context; CTO Alex Whedon is ex-Meta Head of Generative AI; researchers note no peer-reviewed paper has been released yet. Domain: AI & LLMs.
@@ -75,3 +63,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[X Chat standalone iOS app](https://socialbee.com/blog/social-media-news/)** — X launched XChat as a dedicated standalone iOS app with no ads and end-to-end encryption, giving direct messages a separate home outside the main X app as Communities shuts down. Domain: Social Media.
 
 - **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and expanded BrandConnect into Creator Partnerships at NewFronts 2026, integrating the deal-flow platform directly into YouTube Studio for creators and into Google Ads and Display & Video 360 for advertisers to streamline brand-creator collaborations. Domain: Social Media.
+
+### 2026-05-17
+
+- **[Gemini 3.1 Flash-Lite GA](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)** — Google moved Gemini 3.1 Flash-Lite to general availability on May 8, 2026; priced at $0.25/1M input and $1.50/1M output tokens, 2.5× faster than Gemini 2.5 Flash with sub-second classification latency, and multimodal (text + image); designed for high-volume agentic pipelines and tool-calling orchestration at scale. Domain: AI & LLMs.
+
+- **[Qwen3-Coder-Next](https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse)** — Alibaba released Qwen3-Coder-Next (Apache 2.0) in February 2026; 80B total / 3B active MoE architecture delivers 10× higher throughput for repository-scale coding tasks; trained with agentic RL on large-scale executable synthesis; weights available on Hugging Face in four variants for local deployment. Domain: AI & LLMs.
+
+- **[Grok Build](https://x.ai/news/grok-build-cli)** — xAI launched an early beta of Grok Build on May 14, 2026, an agentic CLI for coding, app-building, and workflow automation; powered by Grok 4.3 beta with a 2M-token context and 16-agent Heavy architecture; features plan mode (review before execution) and up to 8 concurrent sub-agents; available for SuperGrok Heavy subscribers ($299/mo, intro at $99/mo for 6 months). Domain: Dev Workflows.
+
+- **[Google Stitch Overhaul](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google relaunched Stitch on March 19, 2026 with an infinite canvas, 5-screen multi-screen generation, interactive prototyping, DESIGN.md agent-friendly design-system export, and MCP server integration with Claude Code, Cursor, and Gemini CLI; code export covers Tailwind, Vue, Angular, Flutter, and SwiftUI; Figma shares dropped 8% on announcement; free via Google Labs. Domain: Design.
+
+- **[G2 Acquires Capterra, Software Advice & GetApp](https://company.g2.com/news/g2-acquires-capterra-software-advice-getapp)** — G2 announced January 29 and closed February 5, 2026 its $110M acquisition of Gartner's three software review platforms; merges four of the largest B2B discovery sites, covering 200M+ annual buyers and 6M reviews; combined entity to offer 3× more Buyer Intent signals and a new pay-per-lead product for SaaS vendors. Domain: Business.
+
+- **[X Custom Timelines](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)** — X launched Grok-powered Custom Timelines on April 22, 2026 for Premium and Premium+ subscribers (iOS first, Android to follow); users can pin up to 10 topic-based feeds from 75+ Grok-curated categories; also ships a Topic Snooze tool for the For You tab; serves as the feature replacement for the deprecated Communities. Domain: Social Media.
