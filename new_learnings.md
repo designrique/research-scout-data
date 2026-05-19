@@ -6,23 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-12
-
-- **[SubQ by Subquadratic](https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/)** — Miami startup Subquadratic launched May 5, 2026 with $29M seed and the first LLM built on fully sub-quadratic sparse attention (SSA); claims 1,000× lower attention compute vs. frontier models at 12M tokens; production API offers 1M-token context; CTO Alex Whedon is ex-Meta Head of Generative AI; researchers note no peer-reviewed paper has been released yet. Domain: AI & LLMs.
-
-- **[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)** — Microsoft released on April 2, 2026 an open-source MIT-licensed runtime security layer for autonomous AI agents; the first toolkit to cover all 10 OWASP Agentic Top 10 risks (goal hijacking, tool misuse, identity abuse, memory poisoning, etc.); ships as 7 independently installable packages for Python, Rust, TypeScript, Go, and .NET; framework-agnostic with integrations for LangChain, CrewAI, Google ADK, and Microsoft Agent Framework. Domain: Dev Workflows.
-
-- **[Anthropic $30B Series G → $900B pending round](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)** — Anthropic closed a $30B Series G on February 12, 2026 at a $380B post-money valuation (CNBC); as of April 30, 2026 the company is weighing preemptive offers to raise ~$50B at a ~$900B valuation which would eclipse OpenAI's $852B post-money from its March 2026 round; round expected to close mid-May 2026. Domain: Business.
-
-- **[YouTube AI Slop Filters + Creator Likeness Shorts](https://variety.com/2026/digital/news/youtube-channels-using-ai-tools-reduce-slop-neal-mohan-letter-1236636548/)** — YouTube CEO Neal Mohan's January 2026 annual letter announced: (1) new AI slop filters adapting spam/clickbait detection to demote mass-produced, templated, or machine-made content lacking human effort; (2) creator AI-likeness Shorts enabling creators to generate a Short using their own AI likeness; over 1M channels used YouTube AI creation tools daily in December 2025. Domain: Social Media.
-
 ### 2026-05-13
-
-- **[Microsoft MAI Foundational Models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)** — Microsoft AI's MAI Superintelligence team launched three foundational models on April 2, 2026: MAI-Transcribe-1 (SOTA speech-to-text, 25 languages, 2.5× faster than Azure Fast, $0.36/hr), MAI-Voice-1 (60s of natural-sounding audio in <1s on a single GPU, $22/1M chars), and MAI-Image-2 (2× faster text-to-image with improved skin tone and in-image text clarity, $5/1M tokens); all priced below Google and OpenAI equivalents and available in Azure AI Foundry. Domain: AI & LLMs.
-
-- **[Sakana AI KAME](https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/)** — Sakana AI introduced KAME on May 3, 2026, a tandem speech-to-speech architecture that injects LLM reasoning directly into the audio stream in real time without converting speech to text first, addressing the latency and knowledge-staleness issues common in traditional cascaded voice AI pipelines. Domain: AI & LLMs.
-
-- **[Cerebras IPO Filing](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html)** — Cerebras Systems filed its S-1 on April 17, 2026 and amended pricing on May 4 to $115–$125/share (28M Class A shares, up to $3.5B raise, $22–25B valuation, NASDAQ: CBRS); $510M in 2025 revenue, a $10B OpenAI supply contract, and a wafer-scale chip 57× larger than Nvidia's H100; listing targeted mid-May 2026. Domain: Business.
 
 - **[X Shutting Down Communities](https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/)** — X announced April 23, 2026 it will permanently retire the Communities feature on May 30, 2026; the feature attracted less than 0.4% of users while generating 80% of spam and malware reports; moderators can pin XChat links before the cutoff, and XChat will scale from 350 to 1,000-person group chats as a replacement. Domain: Social Media.
 
@@ -77,3 +61,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[G2 Acquires Capterra, Software Advice & GetApp](https://company.g2.com/news/g2-acquires-capterra-software-advice-getapp)** — G2 announced January 29 and closed February 5, 2026 its $110M acquisition of Gartner's three software review platforms; merges four of the largest B2B discovery sites, covering 200M+ annual buyers and 6M reviews; combined entity to offer 3× more Buyer Intent signals and a new pay-per-lead product for SaaS vendors. Domain: Business.
 
 - **[X Custom Timelines](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)** — X launched Grok-powered Custom Timelines on April 22, 2026 for Premium and Premium+ subscribers (iOS first, Android to follow); users can pin up to 10 topic-based feeds from 75+ Grok-curated categories; also ships a Topic Snooze tool for the For You tab; serves as the feature replacement for the deprecated Communities. Domain: Social Media.
+
+### 2026-05-19
+
+- **[DeepSeek V4-Pro & V4-Flash](https://api-docs.deepseek.com/news/news260424)** — DeepSeek released V4-Pro (1.6T params / 49B active) and V4-Flash (284B / 13B active) on April 24, 2026 under MIT license with weights freely on HuggingFace; V4-Pro scores 80.6% SWE-bench Verified and Codeforces rating 3206 at $3.48/M output tokens — approximately 7× cheaper than Claude Opus 4.7 at near-frontier coding performance. Domain: AI & LLMs.
+
+- **[Anthropic Claude Finance Agents](https://www.anthropic.com/news/finance-agents)** — Anthropic launched 10 prebuilt Opus 4.7-powered agent templates for financial services on May 5, 2026, covering pitchbook authoring, KYC screening, earnings review, and month-end close; each template bundles skills, connectors, and subagents; Claude is in active production at JPMorgan, Goldman Sachs, Citi, AIG, and Visa. Domain: AI & LLMs.
+
+- **[Microsoft Agent 365 GA](https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/)** — Microsoft made Agent 365 generally available on May 1, 2026 as a unified control plane (observe, govern, secure) for enterprise AI agents at $15/user/month; each AI agent gets its own Microsoft Entra Agent ID for identity and access management; adds registry sync with AWS Bedrock and Google Gemini Enterprise; included in M365 E7. Domain: Dev Workflows.
+
+- **[Canva AI 2.0](https://www.canva.com/newsroom/news/canva-create-2026-ai/)** — Launched April 16, 2026 at Canva Create (Los Angeles); built on the Canva Design Model, the first foundation model purpose-built for design hierarchy and structure; introduces agentic editing, living memory, and six new intelligent workflows: connectors, scheduling, web research, brand intelligence, Sheets AI, and Canva Code 2.0; rolling out to all Pro/Team/Enterprise subscribers by late May 2026; platform now at 250M MAU and $4B ARR. Domain: Design.
+
+- **[TikTok GO](https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/)** — TikTok launched TikTok GO on May 12, 2026, enabling US users (18+) to discover and book hotels, attractions, and experiences directly in the app; partners include Booking.com, Expedia, Viator, GetYourGuide, Tiqets, and Trip.com; creators earn commissions when bookings originate from their content. Domain: Social Media.
+
+- **[Anthropic $1.5B Enterprise AI JV](https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/)** — Anthropic announced on May 4, 2026 a $1.5B joint venture with Blackstone, Hellman & Friedman, and Goldman Sachs to create a new AI-native enterprise services firm targeting financial institution deployments of Claude-powered agents. Domain: Business.
