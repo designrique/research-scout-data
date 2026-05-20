@@ -6,21 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-13
-
-- **[X Shutting Down Communities](https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/)** — X announced April 23, 2026 it will permanently retire the Communities feature on May 30, 2026; the feature attracted less than 0.4% of users while generating 80% of spam and malware reports; moderators can pin XChat links before the cutoff, and XChat will scale from 350 to 1,000-person group chats as a replacement. Domain: Social Media.
-
-- **[LinkedIn AI Conversational Search Global Expansion](https://www.socialmediatoday.com/news/linkedin-expands-ai-powered-conversational-search/817631/)** — LinkedIn expanded AI-powered conversational search from US premium accounts to all users worldwide in May 2026, covering natural-language queries for people, jobs, and recruiting with added typo tolerance and nickname matching; part of a broader push to bring professional discovery to LinkedIn's full 1B+ member base. Domain: Social Media.
-
 ### 2026-05-14
-
-- **[GPT-5.5 Instant](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)** — OpenAI released GPT-5.5 Instant on May 5, 2026 as the new default model powering ChatGPT; scores 81.2 on AIME 2025 (vs. 65.4 for the prior default) and 76 on MMMU-Pro multimodal reasoning; also rolling out across GitHub Copilot. Domain: AI & LLMs.
-
-- **[Notion Developer Platform + CLI](https://www.notion.com/releases/2026-05-13)** — Notion launched its Developer Platform on May 13, 2026 with a new CLI built for developers and coding agents: supports sign-in, read/write actions in Notion, Workers (code hosted on Notion's infrastructure), and tool integrations for AI agents building on top of Notion data. Domain: Dev Workflows.
-
-- **[Cerebras IPO Revised to $150–$160/share](https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html)** — On May 11, Cerebras bumped its IPO price range from $115–$125 to $150–$160/share, targeting up to $4.8B in proceeds and a fully diluted valuation of up to $48.8B; listing set for May 14, 2026 (NASDAQ: CBRS). ⚠️ Contradicts the $22–25B valuation cited in the prior Cerebras IPO Filing entry. Domain: Business.
-
-- **[Instagram Removes E2E Encryption for DMs](https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/)** — Instagram ended end-to-end encryption for all direct messages on May 8, 2026; Meta cited app-safety and abuse-prevention improvements requiring server-side message access; privacy advocates flagged the reversal as a significant regression from the 2023 rollout. Domain: Social Media.
 
 - **[X Integrates Hotshot AI Text-to-Video](https://socialbee.com/blog/twitter-updates/)** — X announced (May 8, 2026) plans to embed its AI text-to-video tool Hotshot directly into the platform, letting users generate short video clips from prompts without leaving the app; part of X's broader push to integrate Grok AI across all core surfaces. Domain: Social Media.
 
@@ -75,3 +61,19 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[TikTok GO](https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/)** — TikTok launched TikTok GO on May 12, 2026, enabling US users (18+) to discover and book hotels, attractions, and experiences directly in the app; partners include Booking.com, Expedia, Viator, GetYourGuide, Tiqets, and Trip.com; creators earn commissions when bookings originate from their content. Domain: Social Media.
 
 - **[Anthropic $1.5B Enterprise AI JV](https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/)** — Anthropic announced on May 4, 2026 a $1.5B joint venture with Blackstone, Hellman & Friedman, and Goldman Sachs to create a new AI-native enterprise services firm targeting financial institution deployments of Claude-powered agents. Domain: Business.
+
+### 2026-05-20
+
+- **[Gemini 3.5 Flash](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)** — Google released Gemini 3.5 Flash at Google I/O on May 19, 2026; runs 4× faster than other frontier models at $1.50/$9 per 1M tokens with a 1M-token context; scores 76.2% Terminal-Bench 2.1 and 83.6% MCP Atlas, outperforming Gemini 3.1 Pro on coding and agentic tasks; available in Antigravity, Gemini API, Android Studio, and GitHub Copilot; 3.5 Pro planned for next month. ⚠️ Supersedes Gemini 3.1 Pro coding/agentic benchmark leadership noted in ref_ai_trends.md. Domain: AI & LLMs.
+
+- **[SubQ — First Subquadratic Frontier LLM](https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof)** — Miami startup Subquadratic launched May 5, 2026 with $29M seed at ~$500M valuation; SubQ uses Subquadratic Sparse Attention (SSA) scaling linearly with context length, delivering a 12M-token window, ~52× faster inference than FlashAttention at 1M tokens, and ~5× lower cost than Claude Opus 4.7; full technical report and weights not yet publicly released. Domain: AI & LLMs.
+
+- **[Microsoft Agent Framework 1.0](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/)** — Open-source, production-ready SDK released April 3, 2026 for building multi-agent workflows in .NET and Python; merges AutoGen and Semantic Kernel (75K+ combined GitHub stars) into a single repo at github.com/microsoft/agent-framework; supports A2A, MCP, and first-party connectors for Azure OpenAI, Claude, Gemini, Bedrock, and Ollama. Domain: Dev Workflows.
+
+- **[Google Antigravity 2.0](https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/)** — Announced May 19, 2026 at Google I/O; replaces Gemini CLI (transitioning June 18) with a standalone agent-first platform: desktop app for multi-agent orchestration, a Go-built Antigravity CLI, an Antigravity SDK, Managed Agents in the Gemini API, and a Gemini Enterprise Agent Platform; new AI Ultra tiers at $100–$200/month. Domain: Dev Workflows.
+
+- **[Claude Design](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)** — Anthropic launched Claude Design on April 17, 2026 as an Anthropic Labs research preview for Pro/Max/Team/Enterprise subscribers; generates production-ready HTML, CSS, and JavaScript from natural-language prompts; reads codebases and Figma files to apply existing design systems; powered by Claude Opus 4.7 with native Canva export at launch. Domain: Design.
+
+- **[TikTok World 2026 — Symphony Suite Upgrade](https://www.socialmediatoday.com/news/major-ad-tool-announcements-from-tiktok-world-2026/820197/)** — At TikTok World 2026, TikTok upgraded Symphony Creative Studio with Dreamina Seedance 2.0 video generation, Voiceover Avatars (licensed actors in 30+ languages), Product Avatars, a TikTok Ads MCP server enabling Claude/ChatGPT-driven campaign management, and TopReach creative sequencing for premium feed takeovers. Domain: Social Media.
+
+- **[Instagram Your Algorithm](https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html)** — Instagram rolled out "Your Algorithm" globally to English-speaking users in April 2026; shows IG's topic assignments for a user's account, lets them add/remove topics, and previews sample Reels per topic to fine-tune both Reels and Explore recommendations simultaneously. Domain: Social Media.
