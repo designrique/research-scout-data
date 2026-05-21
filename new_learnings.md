@@ -6,17 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-14
-
-- **[X Integrates Hotshot AI Text-to-Video](https://socialbee.com/blog/twitter-updates/)** — X announced (May 8, 2026) plans to embed its AI text-to-video tool Hotshot directly into the platform, letting users generate short video clips from prompts without leaving the app; part of X's broader push to integrate Grok AI across all core surfaces. Domain: Social Media.
-
 ### 2026-05-15
-
-- **[Zyphra ZAYA1-8B](https://www.marktechpost.com/2026/05/06/zyphra-releases-zaya1-8b-a-reasoning-moe-trained-on-amd-hardware-that-punches-far-above-its-weight-class/)** — Released May 6, 2026 under Apache 2.0; the first large-scale MoE reasoning model trained end-to-end on AMD Instinct MI300x hardware (1,024-node cluster with IBM); 8.4B total/760M active parameters; outperforms Claude 4.5 Sonnet and GPT-5-High on HMMT'25 mathematical reasoning (89.6 vs 88.3). Domain: AI & LLMs.
-
-- **[GitHub Copilot CLI GA](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/)** — Reached general availability February 25, 2026 for all paid Copilot subscribers; evolved into a full agentic terminal with Plan mode (oversight before execution), Autopilot mode (hands-off autonomous execution), specialized Explore and Task agents, and multi-model support (Claude, GPT-5, Gemini). Domain: Dev Workflows.
-
-- **[Cerebras Trading Debut (CBRS)](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)** — Cerebras priced its IPO at $185/share on May 14, 2026 — above the prior $150–160 range — raising $5.55B; shares opened at $350 and closed up 68% at $311, valuing the company at ~$95B and marking the largest U.S. tech IPO of 2026. ⚠️ Supersedes the $150–160/share range in the "Cerebras IPO Revised" entry. Domain: Business.
 
 - **[Lime IPO Filing](https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/)** — Uber-backed micromobility startup Lime filed for Nasdaq IPO (ticker: LIME) on May 8, 2026; $887M 2025 revenue and $104M positive free cash flow, but disclosed "substantial doubt" about going concern with ~$1B in debt due before year-end. Domain: Business.
 
@@ -77,3 +67,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[TikTok World 2026 — Symphony Suite Upgrade](https://www.socialmediatoday.com/news/major-ad-tool-announcements-from-tiktok-world-2026/820197/)** — At TikTok World 2026, TikTok upgraded Symphony Creative Studio with Dreamina Seedance 2.0 video generation, Voiceover Avatars (licensed actors in 30+ languages), Product Avatars, a TikTok Ads MCP server enabling Claude/ChatGPT-driven campaign management, and TopReach creative sequencing for premium feed takeovers. Domain: Social Media.
 
 - **[Instagram Your Algorithm](https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html)** — Instagram rolled out "Your Algorithm" globally to English-speaking users in April 2026; shows IG's topic assignments for a user's account, lets them add/remove topics, and previews sample Reels per topic to fine-tune both Reels and Explore recommendations simultaneously. Domain: Social Media.
+
+### 2026-05-21
+
+- **[Kimi K2.6](https://rits.shanghai.nyu.edu/ai/moonshot-ai-releases-kimi-k2-6-with-256k-context-and-300-agent-swarms/)** — Moonshot AI released Kimi K2.6 on April 20, 2026 (Modified MIT License): 1T-param / 32B-active MoE, 256K context, native video input; supports 300-agent parallel swarms (3× K2.5's 100-agent limit); scores 58.6% SWE-Bench Pro (ahead of GPT-5.4 at 57.7%); priced at $0.60/$2.80 per 1M tokens — ~8× cheaper than Claude Opus 4.6 at near-frontier coding performance. Domain: AI & LLMs.
+
+- **[Cursor 3.5](https://mlq.ai/news/cursor-releases-automations-platform-for-ai-coding-agent-management/)** — Released May 20, 2026; upgrades Cursor Automations with multi-repo environment support (configure once, re-use across sessions), Dockerfile-based setup with build secrets and faster caching, audit logs, and environment-level security controls; agents and automations can now target multiple repos simultaneously. Domain: Dev Workflows.
+
+- **[SAP Acquires Prior Labs for $1.16B](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)** — SAP announced May 5, 2026 its acquisition of German AI startup Prior Labs (founded 2024), committing €1B ($1.16B) over four years; Prior Labs built TabPFN tabular foundation models — published in Nature and downloaded 3M+ times — designed for enterprise structured/spreadsheet data; deal positions SAP as Europe's leading frontier AI lab; expected to close Q2/Q3 2026. Domain: Business.
+
+- **[YouTube AI Track Replacement](https://www.tubefilter.com/2026/05/04/youtube-ai-tool-royalty-free-music-resolve-content-id/)** — YouTube launched an AI instrumental-track generator within Studio's existing "Replace Song" tool on May 1, 2026; adds a "Create" button that generates 4 mood-matched royalty-free options to swap out Content ID-flagged audio in a single click; currently limited to US desktop with global and mobile rollout planned. Domain: Social Media.
