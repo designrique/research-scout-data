@@ -6,21 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-15
-
-- **[Lime IPO Filing](https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/)** — Uber-backed micromobility startup Lime filed for Nasdaq IPO (ticker: LIME) on May 8, 2026; $887M 2025 revenue and $104M positive free cash flow, but disclosed "substantial doubt" about going concern with ~$1B in debt due before year-end. Domain: Business.
-
-- **[Threads Rebrand](https://www.socialmediatoday.com/news/threads-updates-its-branding/819910/)** — Threads rolled out a new standalone logo, wordmark, and font on May 11, 2026 to visually separate from Instagram; the platform has surpassed 400M monthly active users and is positioning itself as an independent social platform in a "new, stand-alone era." Domain: Social Media.
-
 ### 2026-05-16
-
-- **[Anduril $5B Series H](https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/)** — Defense AI company raised $5B Series H on May 13, 2026; 2025 revenue doubled to $2.2B as its software and autonomous-systems platform wins major military programs, cementing Anduril as the category's capital leader. Domain: Business.
-
-- **[Sierra $950M at $15.8B valuation](https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/)** — Bret Taylor's enterprise AI startup raised $950M in new funding at a $15.8B post-money valuation; Sierra builds conversational AI agents for customer experience across industries including retail, telecom, and financial services. Domain: Business.
-
-- **[Instagram Instants](https://socialbee.com/blog/instagram-updates/)** — Meta launched Instants, a new ephemeral image-sharing option on Instagram; photos disappear after the recipient views them or after 24 hours, bringing disappearing-photo mechanics natively into the main Instagram app. Domain: Social Media.
-
-- **[X Chat standalone iOS app](https://socialbee.com/blog/social-media-news/)** — X launched XChat as a dedicated standalone iOS app with no ads and end-to-end encryption, giving direct messages a separate home outside the main X app as Communities shuts down. Domain: Social Media.
 
 - **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and expanded BrandConnect into Creator Partnerships at NewFronts 2026, integrating the deal-flow platform directly into YouTube Studio for creators and into Google Ads and Display & Video 360 for advertisers to streamline brand-creator collaborations. Domain: Social Media.
 
@@ -77,3 +63,17 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[SAP Acquires Prior Labs for $1.16B](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)** — SAP announced May 5, 2026 its acquisition of German AI startup Prior Labs (founded 2024), committing €1B ($1.16B) over four years; Prior Labs built TabPFN tabular foundation models — published in Nature and downloaded 3M+ times — designed for enterprise structured/spreadsheet data; deal positions SAP as Europe's leading frontier AI lab; expected to close Q2/Q3 2026. Domain: Business.
 
 - **[YouTube AI Track Replacement](https://www.tubefilter.com/2026/05/04/youtube-ai-tool-royalty-free-music-resolve-content-id/)** — YouTube launched an AI instrumental-track generator within Studio's existing "Replace Song" tool on May 1, 2026; adds a "Create" button that generates 4 mood-matched royalty-free options to swap out Content ID-flagged audio in a single click; currently limited to US desktop with global and mobile rollout planned. Domain: Social Media.
+
+### 2026-05-23
+
+- **[GPT-5.5](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)** — OpenAI released GPT-5.5 on April 23, 2026; unified multimodal architecture (text/image/audio/video) with 1M-token context window; scores 84.9% GDPval, 82.7% Terminal-Bench 2.0, and 78.7% OSWorld-Verified; initially ChatGPT Plus/Pro/Team/Enterprise only, with API access opened April 24. Domain: AI & LLMs.
+
+- **[IntelliJ IDEA 2026.1](https://blog.jetbrains.com/idea/2026/03/intellij-idea-2026-1/)** — JetBrains shipped IntelliJ IDEA 2026.1 in March 2026 with an ACP Registry for one-click AI agent installation (Codex, Cursor, Claude Agent, GitHub Copilot); git worktrees for parallel branch/agent sessions; native database access for AI agents; next edit suggestions for Java, Kotlin, and Scala at no AI quota cost. Domain: Dev Workflows.
+
+- **[Notion Developer Platform](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)** — Notion launched its Developer Platform on May 13, 2026; introduces a Notion CLI for programmatic workspace and coding-agent interaction, Notion Workers (hosted sandboxed serverless runtime deployed via CLI, free during beta), and native partner agents Claude Code, Cursor, Codex, and Decagon. Domain: Dev Workflows.
+
+- **[Figma AI Design Agent](https://www.figma.com/blog/the-figma-agent-is-here/)** — Figma rolled out a native AI Design Agent in beta on May 20, 2026 for Professional, Organization, and Enterprise plan users; generates and edits designs via natural language directly on the canvas, respects existing design systems, integrates OpenAI and Anthropic models; free during beta (no credit consumption). Domain: Design.
+
+- **[Mercury $200M Series D](https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation)** — Fintech startup Mercury raised $200M Series D on May 20, 2026 at a $5.2B valuation (up 49% in 14 months), led by TCV with a16z, Coatue, and Sequoia; serves 300K+ startups including Supabase, ElevenLabs, and Linear; received OCC conditional US national bank charter in April 2026; $650M annualized revenue and four consecutive years of GAAP profitability. Domain: Business.
+
+- **[LinkedIn Crosscheck](https://www.engadget.com/ai/linkedins-crosscheck-feature-lets-premium-subscribers-test-ai-models-for-free-183949210.html)** — LinkedIn rolled out Crosscheck to US Premium subscribers in May 2026; blind taste test platform presenting anonymized side-by-side responses from competing models (OpenAI, Anthropic, Google, Microsoft, MoonshotAI, Mistral, Amazon); unlimited text prompts at no extra cost; anonymized data shared back with model builders. Domain: Social Media.
