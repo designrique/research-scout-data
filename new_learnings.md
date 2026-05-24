@@ -6,17 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-16
-
-- **[YouTube Creator Partnerships](https://blog.youtube/news-and-events/youtube-creator-partnerships-newfronts-2026/)** — YouTube rebranded and expanded BrandConnect into Creator Partnerships at NewFronts 2026, integrating the deal-flow platform directly into YouTube Studio for creators and into Google Ads and Display & Video 360 for advertisers to streamline brand-creator collaborations. Domain: Social Media.
-
 ### 2026-05-17
-
-- **[Gemini 3.1 Flash-Lite GA](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)** — Google moved Gemini 3.1 Flash-Lite to general availability on May 8, 2026; priced at $0.25/1M input and $1.50/1M output tokens, 2.5× faster than Gemini 2.5 Flash with sub-second classification latency, and multimodal (text + image); designed for high-volume agentic pipelines and tool-calling orchestration at scale. Domain: AI & LLMs.
-
-- **[Qwen3-Coder-Next](https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse)** — Alibaba released Qwen3-Coder-Next (Apache 2.0) in February 2026; 80B total / 3B active MoE architecture delivers 10× higher throughput for repository-scale coding tasks; trained with agentic RL on large-scale executable synthesis; weights available on Hugging Face in four variants for local deployment. Domain: AI & LLMs.
-
-- **[Grok Build](https://x.ai/news/grok-build-cli)** — xAI launched an early beta of Grok Build on May 14, 2026, an agentic CLI for coding, app-building, and workflow automation; powered by Grok 4.3 beta with a 2M-token context and 16-agent Heavy architecture; features plan mode (review before execution) and up to 8 concurrent sub-agents; available for SuperGrok Heavy subscribers ($299/mo, intro at $99/mo for 6 months). Domain: Dev Workflows.
 
 - **[Google Stitch Overhaul](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google relaunched Stitch on March 19, 2026 with an infinite canvas, 5-screen multi-screen generation, interactive prototyping, DESIGN.md agent-friendly design-system export, and MCP server integration with Claude Code, Cursor, and Gemini CLI; code export covers Tailwind, Vue, Angular, Flutter, and SwiftUI; Figma shares dropped 8% on announcement; free via Google Labs. Domain: Design.
 
@@ -77,3 +67,13 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Mercury $200M Series D](https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation)** — Fintech startup Mercury raised $200M Series D on May 20, 2026 at a $5.2B valuation (up 49% in 14 months), led by TCV with a16z, Coatue, and Sequoia; serves 300K+ startups including Supabase, ElevenLabs, and Linear; received OCC conditional US national bank charter in April 2026; $650M annualized revenue and four consecutive years of GAAP profitability. Domain: Business.
 
 - **[LinkedIn Crosscheck](https://www.engadget.com/ai/linkedins-crosscheck-feature-lets-premium-subscribers-test-ai-models-for-free-183949210.html)** — LinkedIn rolled out Crosscheck to US Premium subscribers in May 2026; blind taste test platform presenting anonymized side-by-side responses from competing models (OpenAI, Anthropic, Google, Microsoft, MoonshotAI, Mistral, Amazon); unlimited text prompts at no extra cost; anonymized data shared back with model builders. Domain: Social Media.
+
+### 2026-05-24
+
+- **[Gemini Omni Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/)** — Google launched Gemini Omni Flash at Google I/O on May 19, 2026; video-centric multimodal model that accepts any combination of images, audio, video, and text in a single prompt and outputs an edited or transformed video clip; available immediately to Google AI Plus/Pro/Ultra subscribers via the Gemini app and at no cost to YouTube Shorts and YouTube Create users; all output carries imperceptible SynthID watermarks. Domain: AI & LLMs.
+
+- **[Kiro CLI 2.0](https://kiro.dev/blog/cli-2-0/)** — Amazon's spec-driven AI coding CLI released April 13, 2026; adds headless CI/CD mode (non-interactive via `KIRO_API_KEY`), native Windows 11 support, a revamped terminal UI with syntax-highlighted markdown and visual tool progress, and subagent task dependencies for mixed sequential and parallel pipelines; TUI graduates from experimental to the default interface. Domain: Dev Workflows.
+
+- **[Mastercard Acquires BVNK for $1.8B](https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-Fiat-Rails/default.aspx)** — Mastercard announced March 17, 2026 it will acquire stablecoin infrastructure startup BVNK (founded 2021) for up to $1.8B including $300M in contingent payments; BVNK bridges fiat and stablecoin rails across 130+ countries on all major blockchain networks; eclipses Stripe's $1.1B Bridge acquisition as the largest stablecoin deal on record; expected to close late 2026. Domain: Business.
+
+- **[YouTube Reimagine](https://blog.youtube/news-and-events/reimagine-new-ai-powered-remix-tool-youtube-shorts/)** — YouTube launched Reimagine on March 18, 2026 inside the Shorts Remix tool; powered by Google Veo, it transforms a single frame from any eligible Short into an 8-second AI video with style transformations (anime, pixel art, horror); users can insert themselves via up to two photo-gallery references; creators control opt-in per upload; every Reimagined Short links back to the source. Domain: Social Media.
