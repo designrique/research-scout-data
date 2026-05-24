@@ -1,3 +1,4 @@
 # References: Design
 
 - **Framer Auto Translate** (2026-04-05) — Launched March 31, 2026: AI-powered feature that keeps all content in sync across every locale automatically, both on the Canvas and in the CMS, with a selectable model and auto option; eliminates the manual re-translation cycle whenever content changes in any locale. Source: https://www.framer.com/updates
+- **Google Stitch Overhaul** (2026-05-17) — Google relaunched Stitch on March 19, 2026 with an infinite canvas, 5-screen multi-screen generation, interactive prototyping, DESIGN.md agent-friendly design-system export, and MCP server integration with Claude Code, Cursor, and Gemini CLI; code export covers Tailwind, Vue, Angular, Flutter, and SwiftUI; Figma shares dropped 8% on announcement; free via Google Labs. Source: https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/

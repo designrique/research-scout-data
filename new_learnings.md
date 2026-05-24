@@ -6,14 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-17
-
-- **[Google Stitch Overhaul](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** — Google relaunched Stitch on March 19, 2026 with an infinite canvas, 5-screen multi-screen generation, interactive prototyping, DESIGN.md agent-friendly design-system export, and MCP server integration with Claude Code, Cursor, and Gemini CLI; code export covers Tailwind, Vue, Angular, Flutter, and SwiftUI; Figma shares dropped 8% on announcement; free via Google Labs. Domain: Design.
-
-- **[G2 Acquires Capterra, Software Advice & GetApp](https://company.g2.com/news/g2-acquires-capterra-software-advice-getapp)** — G2 announced January 29 and closed February 5, 2026 its $110M acquisition of Gartner's three software review platforms; merges four of the largest B2B discovery sites, covering 200M+ annual buyers and 6M reviews; combined entity to offer 3× more Buyer Intent signals and a new pay-per-lead product for SaaS vendors. Domain: Business.
-
-- **[X Custom Timelines](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)** — X launched Grok-powered Custom Timelines on April 22, 2026 for Premium and Premium+ subscribers (iOS first, Android to follow); users can pin up to 10 topic-based feeds from 75+ Grok-curated categories; also ships a Topic Snooze tool for the For You tab; serves as the feature replacement for the deprecated Communities. Domain: Social Media.
-
 ### 2026-05-19
 
 - **[DeepSeek V4-Pro & V4-Flash](https://api-docs.deepseek.com/news/news260424)** — DeepSeek released V4-Pro (1.6T params / 49B active) and V4-Flash (284B / 13B active) on April 24, 2026 under MIT license with weights freely on HuggingFace; V4-Pro scores 80.6% SWE-bench Verified and Codeforces rating 3206 at $3.48/M output tokens — approximately 7× cheaper than Claude Opus 4.7 at near-frontier coding performance. Domain: AI & LLMs.
