@@ -39,7 +39,7 @@ jobs:
 
       - name: Send email notification
         if: steps.findings.outputs.skip != 'true'
-        uses: dawidd6/action-send-mail@v3
+        uses: dawidd6/action-send-mail@v3.12.0
         with:
           server_address: smtp.gmail.com
           server_port: 587
