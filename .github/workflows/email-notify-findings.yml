@@ -1,10 +1,11 @@
-name: Notify on new findings
+name: Email notify on new findings
 
 on:
   push:
     branches: [main]
     paths:
       - 'new_learnings.md'
+  workflow_dispatch:
 
 jobs:
   notify:
@@ -17,7 +18,11 @@ jobs:
       - name: Extract new findings
         id: findings
         run: |
-          DIFF=$(git diff HEAD~1 HEAD -- new_learnings.md | grep '^+- \*\*' | sed 's/^+//' || true)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            DIFF=$(grep '^- \*\*' new_learnings.md | head -5)
+          else
+            DIFF=$(git diff HEAD~1 HEAD -- new_learnings.md | grep '^+- \*\*' | sed 's/^+//' || true)
+          fi
           COUNT=$(echo "$DIFF" | grep -c '\*\*' || true)
 
           if [ "$COUNT" -eq 0 ]; then
