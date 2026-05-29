@@ -6,27 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-05-24
-
-- **[Gemini Omni Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/)** — Google launched Gemini Omni Flash at Google I/O on May 19, 2026; video-centric multimodal model that accepts any combination of images, audio, video, and text in a single prompt and outputs an edited or transformed video clip; available immediately to Google AI Plus/Pro/Ultra subscribers via the Gemini app and at no cost to YouTube Shorts and YouTube Create users; all output carries imperceptible SynthID watermarks. Domain: AI & LLMs.
-
-- **[Kiro CLI 2.0](https://kiro.dev/blog/cli-2-0/)** — Amazon's spec-driven AI coding CLI released April 13, 2026; adds headless CI/CD mode (non-interactive via `KIRO_API_KEY`), native Windows 11 support, a revamped terminal UI with syntax-highlighted markdown and visual tool progress, and subagent task dependencies for mixed sequential and parallel pipelines; TUI graduates from experimental to the default interface. Domain: Dev Workflows.
-
-- **[Mastercard Acquires BVNK for $1.8B](https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-Fiat-Rails/default.aspx)** — Mastercard announced March 17, 2026 it will acquire stablecoin infrastructure startup BVNK (founded 2021) for up to $1.8B including $300M in contingent payments; BVNK bridges fiat and stablecoin rails across 130+ countries on all major blockchain networks; eclipses Stripe's $1.1B Bridge acquisition as the largest stablecoin deal on record; expected to close late 2026. Domain: Business.
-
-- **[YouTube Reimagine](https://blog.youtube/news-and-events/reimagine-new-ai-powered-remix-tool-youtube-shorts/)** — YouTube launched Reimagine on March 18, 2026 inside the Shorts Remix tool; powered by Google Veo, it transforms a single frame from any eligible Short into an 8-second AI video with style transformations (anime, pixel art, horror); users can insert themselves via up to two photo-gallery references; creators control opt-in per upload; every Reimagined Short links back to the source. Domain: Social Media.
-
-### 2026-05-25
-
-- **[GitHub Copilot CLI GA](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/)** — GitHub announced general availability on February 25, 2026 after five months of public preview; the terminal-native coding agent supports multi-model switching (Claude Opus 4.6, GPT-5.3-Codex, Gemini 3 Pro, Claude Haiku 4.5), plan mode, fleet mode for multi-repo operations, cross-session memory, and audit logs; available on all paid Copilot tiers (Pro, Pro+, Business, Enterprise). Domain: Dev Workflows.
-
-- **[Akamai Acquires LayerX for $205M](https://www.akamai.com/newsroom/press-release/akamai-technologies-announces-intent-to-acquire-layerx-advancing-its-workforce-security-strategy-with-ai-usage-control)** — Announced May 14, 2026; LayerX is a browser-native AI usage control and zero-trust enterprise security platform (~$10M ARR) that works across all popular browsers including agentic browsers Atlas and Comet; extends Akamai's zero-trust portfolio to the browser layer where enterprise AI and SaaS activity now concentrates; deal expected to close Q3 2026; Akamai's fourth Tel Aviv cybersecurity acquisition. Domain: Business.
-
-- **[XChat — X Standalone Messaging App](https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/)** — X launched XChat on iOS on April 24, 2026; standalone end-to-end encrypted messaging app with no ads or tracking; supports DMs, group chats (up to 350 participants), voice/video calls, disappearing messages, screenshot alerts, and PIN protection; positioned as a WhatsApp rival; Android version undated. Domain: Social Media.
-
 ### 2026-05-26
-
-- **[OpenClaw](https://github.com/openclaw/openclaw)** — Self-hosted open-source AI agent by Peter Steinberger (founder of PSPDFKit); grew from a solo side project to 247K GitHub stars in under 60 days (Nov 2025 – Jan 2026); connects autonomously to 20+ messaging platforms (WhatsApp, Telegram, Slack, iMessage, Teams, Discord, etc.) without routing data through external APIs; became an NVIDIA enterprise product; OpenAI hired Steinberger on February 15, 2026 while the project moved to an independent foundation with OpenAI backing. Domain: AI & LLMs.
 
 - **[Google Vids — Veo 3.1 & Lyria 3 Update](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)** — April 2, 2026 update; any Google account gets 10 free monthly 8-second 720p video clips via Veo 3.1; Google AI Pro/Ultra subscribers access custom music tracks (30 sec–3 min) via Lyria 3 and Lyria 3 Pro; adds directable AI avatars, Chrome screen-recording extension, and one-click YouTube publishing; Google AI Ultra/Workspace Ultra subscribers get up to 1,000 generations per month. Domain: Design.
 
@@ -85,3 +65,21 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[YouTube Super Resolution](https://socialbee.com/blog/youtube-updates/)** — O YouTube lançou o Super Resolution em maio de 2026, recurso de IA que gera automaticamente versões em resolução mais alta para vídeos antigos ou de baixa qualidade sem necessidade de re-upload; disponível gradualmente para todos os creators. Domínio: Social Media.
 
 - **[Instagram Originality Score — penaliza conteúdo reciclado](https://blog.hootsuite.com/instagram-algorithm/)** — O Instagram implementou em 2026 um "Originality Score" interno: repostar Reels do TikTok com marca d'água reduz drasticamente o alcance; Reels com 3-second hold rate acima de 60% performam 5–10× melhor em distribuição; o algoritmo também indexa fala e voiceover para ranquear o vídeo em buscas internas; conteúdo criado e editado dentro do próprio app recebe boost adicional. Domínio: creators-ig-tiktok.
+
+### 2026-05-29
+
+- **[Microsoft Agent Framework 1.0 GA](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/the-future-of-agentic-ai-inside-microsoft-agent-framework-1-0/4510698)** — Microsoft lançou a versão GA do Agent Framework 1.0 em 3 de abril de 2026; framework open-source para construir agentes em .NET e Python com blocos composáveis de memória, ferramentas e orquestração multi-agente; formaliza a arquitetura interna usada no Microsoft 365 Copilot e Teams; disponível via NuGet e PyPI. Domínio: AI & LLMs.
+
+- **[Anthropic projeta primeiro lucro operacional e valuation de US$ 900 bi](https://techstartups.com/2026/05/28/top-tech-news-today-may-28-2026/)** — Reportado em 28 de maio de 2026; a Anthropic está no caminho para o primeiro trimestre lucrativo, projetando receita de US$ 10,9 bi e lucro operacional de US$ 559 mi no Q2 2026; a empresa está próxima de fechar nova rodada de investimento que pode atingir valuation de US$ 900 bi — mais de 9× o valuation de setembro de 2025. Domínio: Business.
+
+- **[Notion Developer Platform + Notion Workers CLI](https://www.notion.com/releases/2026-05-13)** — Notion lançou em 13 de maio de 2026 a Developer Platform com CLI oficial voltada a devs e coding agents; Notion Workers é o runtime hospedado para código customizado — devs fazem deploy via CLI e o código roda em sandbox seguro sem necessidade de servidor próprio; abre automações avançadas e integrações server-side diretamente no Notion. Domínio: Dev Workflows.
+
+- **[IntelliJ IDEA 2026.1 — suporte nativo a agentes ACP](https://blog.jetbrains.com/idea/2026/03/intellij-idea-2026-1/)** — JetBrains lançou o IntelliJ IDEA 2026.1 com suporte nativo a múltiplos agentes de IA (Codex, Cursor e qualquer agente compatível com ACP); agentes externos podem fazer edições de código, refatorações e operações no VCS diretamente na IDE via protocolo padronizado; inclui melhorias específicas para Java, Kotlin e Spring. Domínio: Dev Workflows.
+
+- **[YouTube Brandcast 2026 — AI Sponsorships & Affiliate Boost Ads](https://blog.gainapp.com/social-media-updates/)** — No YouTube Brandcast 2026, a plataforma anunciou AI Sponsorships (match creator-marca via IA), Affiliate Boost Ads (marcas amplificam posts orgânicos de afiliados como anúncios pagos), Creator Content Shelves (vitrine de conteúdo na página da marca) e Creator Takeovers; Shorts creators também passam a monetizar via painel de CTA de app-promotion exibido diretamente no clipe. Domínio: Social Media.
+
+- **[LinkedIn BrandLink expansion + Premium Creator Sponsorships](https://socialbee.com/blog/social-media-news/)** — O LinkedIn expandiu o BrandLink em maio de 2026 com acesso a publishers mais amplos, setup self-serve de campanhas e melhores repasses a creators; lançou também o Premium Creator Sponsorships com Top Voices, permitindo que marcas B2B patrocinam posts, eventos e séries de conteúdo de creators influentes diretamente na plataforma. Domínio: Social Media.
+
+- **[Instagram — reordenar carrossel após publicação](https://blog.gainapp.com/social-media-updates/)** — O Instagram lançou em maio de 2026 a funcionalidade de reordenar fotos e vídeos de carrosséis já publicados via drag-and-drop, sem necessidade de deletar e repostar; permite ajustar a ordem baseado em performance de cada slide ou corrigir erro de ordenação sem perder engajamento acumulado. Domínio: creators-ig-tiktok.
+
+- **[TikTok Creator Rewards Program — Fase 3](https://trendinfluencer.in/article-tiktok-rewards.html)** — TikTok lançou a Fase 3 do Creator Rewards Program em 2026; migra de pagamento por visualizações para sistema baseado em performance (watch time, shares, comentários); vídeos entre 60,5 e 75 segundos estão recebendo o maior boost algorítmico e os maiores multiplicadores de payout; programa concorre diretamente com YouTube Shorts Fund e Instagram Reels Play Bonus 2.0. Domínio: creators-ig-tiktok.
