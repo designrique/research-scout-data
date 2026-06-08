@@ -6,34 +6,6 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-06-04
-
-- **[Instagram AI Flash — filtro Stories com estética de câmera digital dos anos 2000](https://metricool.com/instagram-news/)** — O Instagram lançou o filtro AI Flash nos Stories: converte fotos em imagens com estética de câmera digital dos anos 2000 (flash duro, grain, cores saturadas); virou tendência viral com creators publicando before-and-afters no TikTok — posiciona-se como formato de conteúdo performático para Reels de nostalgia e comparação. Domínio: creators-ig-tiktok.
-
-- **[TikTok Shopping: usar features nativas de compra gera prioridade algorítmica](https://storychief.io/blog/social-media-algorithms-2026)** — O algoritmo do TikTok em 2026 prioriza creators que usam ferramentas nativas de shopping (product tags, TikTok Shop links, live shopping) em detrimento de links externos; creators de nichos comerciais que adotaram o TikTok Shop relatam aumento significativo de distribuição orgânica versus posts sem tags de produto. Domínio: creators-ig-tiktok.
-
-- **[Instagram detecta e penaliza conteúdo reciclado — inclusive reposts com marca d'água do TikTok](https://instantdm.com/blog/the-complete-2026-instagram-algorithm-guide-ranking-factors-growth-hacks)** — O algoritmo do Instagram usa IA para identificar e penalizar conteúdo reciclado, incluindo vídeos do TikTok com marca d'água repostados nos Reels; a detecção vai além de watermarks visíveis e inclui video fingerprints — creators que fazem cross-posting devem editar o conteúdo de forma substantiva antes de publicar no Instagram. Domínio: creators-ig-tiktok.
-
-### 2026-06-05
-
-- **[NVIDIA Nemotron 3 Ultra — modelo frontier de raciocínio para workloads agênticos](https://nvidianews.nvidia.com/news/enterprise-software-leaders-build-ai-agents-with-nvidia)** — Disponível desde 4 de junho no Hugging Face, ModelScope, OpenRouter e Amazon SageMaker JumpStart via NVIDIA NIM microservices; 5× mais rápido e 30% mais barato que modelos comparáveis para workloads agênticos — alternativa de alta eficiência para deploys de IA empresarial em larga escala. Domínio: AI & LLMs.
-
-- **[Gemini 3.5 Flash — GA com precificação e benchmarks publicados](https://aimlapi.com/blog/top-llm-models-in-2026-the-best-ai-models-for-reasoning-coding-multimodal-tasks)** — Chegou a General Availability com preço de US$ 1,50/US$ 9 por 1M tokens (entrada/saída), janela de contexto de 1M tokens e 76,2% no Terminal-Bench 2.1 — supera o Gemini 3.1 Pro em coding e agents a um custo 4× menor; posiciona-se como opção de velocidade máxima dentro da família Gemini 3. Domínio: AI & LLMs.
-
-- **[VS Code 1.123 — janela Agents dedicada e OpenTelemetry nativo para agentes](https://code.visualstudio.com/updates/v1_123)** — Lançado em junho de 2026: nova janela "Agents" dedicada ao desenvolvimento orientado por agentes (múltiplos projetos, escolha de harness, execução remota); sessões emitem namespace github.copilot.* para OpenTelemetry com parâmetros de ferramenta estruturados e contexto de repositório; delay de 2h nas atualizações automáticas de extensões como proteção contra versões comprometidas. Domínio: Dev Workflows.
-
-- **[Figma — integração nativa com MCP para agentes de código](https://www.figma.com/release-notes/)** — O Figma lançou suporte nativo a MCP: cole uma URL de frame ou link de componente do Figma no agente de IA e ele constrói o código diretamente com o design system real da equipe — tokens, variáveis e componentes corretos, sem etapa intermediária de especificação manual. Domínio: Design.
-
-- **[Canva mira IPO de US$ 42 bilhões no Q3 de 2026](https://news.crunchbase.com/public/ipos-up-saas-debuts-down-early-2026/)** — A Canva avança para um IPO de US$ 42 bilhões previsto para o Q3 de 2026: cruzou US$ 3,3 bilhões em receita anualizada em 2025 com 265 milhões de usuários mensais — seria o maior IPO de uma empresa de design/SaaS da história. Domínio: Business.
-
-- **[LinkedIn Live exige evento agendado a partir de 22 de junho de 2026](https://www.heyorca.com/blog/linkedin-social-news)** — O LinkedIn não permitirá mais transmissões ao vivo sem um LinkedIn Event pré-criado com título, descrição e horário agendado; a plataforma promove eventos no feed antes do início, aumentando viewership — fim das lives espontâneas no LinkedIn. Domínio: Social Media.
-
-- **[Facebook Creator Fast Track — alcance ampliado e ganhos garantidos por até 3 meses](https://blog.gainapp.com/social-media-updates/)** — O Facebook lançou o programa Creator Fast Track para creators estabelecidos: aumenta o alcance em Reels elegíveis e garante earnings mínimos por até 3 meses — estratégia do Meta para reter e atrair creators de outras plataformas com incentivos financeiros diretos. Domínio: Social Media.
-
-- **[Instagram Reels Series — vincula múltiplos Reels em série assistível](https://metricool.com/instagram-news/)** — O Instagram lançou Reels Series: creators que produzem conteúdo episódico (tutoriais em partes, histórias seriadas, séries temáticas) podem vincular os vídeos para que a audiência acesse o próximo diretamente, sem buscar no perfil — reduz abandono entre episódios e aumenta watch time acumulado. Domínio: creators-ig-tiktok.
-
-- **[Meta AI Voice Translation — dublagem automática de vídeos no Instagram](https://metricool.com/instagram-news/)** — A Meta disponibilizou gratuitamente para o Instagram ferramenta de IA que traduz a voz do criador para outro idioma e sincroniza os movimentos labiais com o novo áudio; disponível inicialmente em inglês e espanhol — creators alcançam audiências internacionais sem regravar conteúdo, com lip-sync nativo gerado por IA. Domínio: creators-ig-tiktok.
-
 ### 2026-06-06
 
 - **[Anthropic registra IPO confidencial na SEC após Series H de US$ 65 bilhões](https://acquinox.capital/insights/market-insights/the-2026-ipo-pipeline-which-tech-giants-are-heading-to-public-markets-1)** — A Anthropic protocolou confidencialmente seu pedido de IPO na SEC em junho de 2026 após captar US$ 65 bilhões na Series H, elevando sua valuation para US$ 965 bilhões; entra diretamente em corrida com a OpenAI (ambas mirando IPOs no Q4 2026 no patamar de US$ 1 trilhão). Domínio: Business.
@@ -83,3 +55,29 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[TikTok AI Alive — anima fotos estáticas com IA nativa diretamente no app](https://socialbee.com/blog/tiktok-updates/)** — O TikTok lançou AI Alive: feature que transforma fotos estáticas em vídeos com movimento gerado por IA diretamente no app — alternativa nativa ao CapCut para criação de conteúdo a partir de imagens, sem exportar para ferramenta externa; ideal para creators de lifestyle e moda. Domínio: creators-ig-tiktok.
 
 - **[TikTok GO — programa de afiliados de viagem com comissão por tag de estabelecimento](https://ads.tiktok.com/business/en/blog/tiktok-product-preview)** — O TikTok lançou TikTok GO para creators nos EUA: ganhos de comissão ao marcar estabelecimentos de viagem (hotéis, atrações, restaurantes) diretamente em vídeos — nova vertical de monetização além do TikTok Shop, voltada especificamente a creators de lifestyle e travel content. Domínio: creators-ig-tiktok.
+
+### 2026-06-08
+
+- **[SAP Joule Studio 2.0 — orquestração agêntica nativa sobre dados SAP ao vivo](https://blog.jetbrains.com/pycharm/2026/06/top-agentic-frameworks-for-building-applications-2026/)** — Rolling out em junho de 2026: permite construir agentes com LangGraph/AutoGen-style diretamente sobre dados SAP em tempo real; o Autonomous Suite entrega 200+ agentes especializados em finanças, supply chain, procurement, HCM e CX — consolida o ERP como runtime de agentic AI enterprise. Domínio: AI & LLMs.
+
+- **[Google Antigravity — nova plataforma unificada substitui Gemini Code Assist a partir de 18/06](https://developers.google.com/gemini-code-assist/resources/release-notes)** — O Google encerra o Gemini Code Assist para usuários gratuitos e individuais em 18 de junho de 2026; migração obrigatória para o Antigravity, lançado no Google I/O 2026 com CLI dedicada (Antigravity CLI) e foco AI-first — todas as extensões de IDE do Gemini Code Assist serão desativadas para esses planos. Domínio: Dev Workflows.
+
+- **[Ramp capta US$ 750 milhões em financing liderado pela Iconiq](https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)** — Rodada fechada em junho de 2026 com participação de GIC e Ontario Teachers' Pension Plan; a Ramp consolida liderança em spend-management corporativo — maior captação da semana de 5 de junho segundo o Crunchbase, sinaliza high-growth no segmento de gestão de gastos enterprise. Domínio: Business.
+
+- **[Instagram "Your Algo" — controle manual do feed de Reels expandido globalmente para falantes de inglês](https://blog.gainapp.com/social-media-updates/)** — O Instagram expandiu o "Your Algo" para todos os usuários em inglês no mundo: adição/remoção de tópicos do Reels feed e seleção de até 3 interesses prioritários — aposta na personalização user-driven como diferencial competitivo frente ao TikTok. Domínio: Social Media.
+
+- **[YouTube Studio gera trilhas instrumentais por IA para substituir áudio com copyright](https://socialbee.com/blog/youtube-updates/)** — Novo recurso no YouTube Studio (desktop) permite creators gerarem trilhas instrumentais via IA para substituir áudio protegido por direitos autorais em vídeos já publicados, sem necessidade de regravar ou re-editar o conteúdo original. Domínio: Social Media.
+
+- **[X testa geração de vídeo e animação de fotos com Grok AI direto no composer de posts](https://socialbee.com/blog/twitter-updates/)** — O X testa feature para gerar vídeos e animar fotos estáticas com Grok AI diretamente no compositor de posts, sem ferramenta externa — movimenta o X para criação nativa de conteúdo visual, concorrendo com TikTok AI Alive e Instagram Reels. Domínio: Social Media.
+
+- **[X introduz ordenação algorítmica por IA na aba Following](https://socialbee.com/blog/twitter-updates/)** — O X passou a ordenar a aba "Following" (antes estritamente cronológica) com IA; criadores e marcas que dependiam da aba Following para distribuição garantida e previsível a seguidores fiéis perdem a garantia de sequência temporal — impacta estratégias de horário de postagem. Domínio: Social Media.
+
+- **[Instagram Reels: duração máxima estendida para 20 minutos com recomendação no Explore](https://buffer.com/resources/instagram-algorithms/)** — O Instagram ampliou o limite de Reels para 20 minutos e confirmou que conteúdo longo (tutoriais completos, bastidores, documentários curtos) é recomendado no Explore quando mantém retenção de audiência — abre espaço para long-form content nativo no Instagram. Domínio: creators-ig-tiktok.
+
+- **[Instagram: compartilhamentos via DM são o principal sinal algorítmico de distribuição](https://blog.gainapp.com/social-media-updates/)** — O Instagram confirmou que "sends" (envios via DM) superam likes e comentários como indicador de valor de conteúdo; um post enviado privatamente sinaliza relevância genuína ao algoritmo — estratégia: criar conteúdo acionável, engraçado ou emocional que incentive o compartilhamento em mensagens diretas. Domínio: creators-ig-tiktok.
+
+- **[Instagram 2026: palavras-chave em legendas superam hashtags para descoberta orgânica](https://buffer.com/resources/instagram-algorithms/)** — Hashtags no Instagram não suportam mais "follows" e perderam peso no algoritmo; palavras-chave relevantes em legendas e perfis são o principal vetor de descoberta em 2026 — creators devem tratar legendas como SEO textual em vez de listas de tags. Domínio: creators-ig-tiktok.
+
+- **[TikTok × Cameo — creators vendem vídeos personalizados pagos diretamente no app](https://communipass.com/blog/tiktok-creator-monetization-2026/)** — Parceria anunciada em abril de 2026: creators nos EUA oferecem vídeos personalizados (Cameos) dentro do TikTok app com integração ao marketplace do Cameo — nova fonte de receita direta sem sair da plataforma, complementar ao TikTok Shop e ao TikTok GO. Domínio: creators-ig-tiktok.
+
+- **[Instagram Teleprompter expandido ao app principal no iOS](https://socialbee.com/blog/instagram-updates/)** — O Instagram adicionou Teleprompter ao app principal para iOS, com script exibido abaixo da câmera frontal durante gravações de Reels e velocidade ajustável — antes disponível apenas no app Edits. ⚠️ Expansão do Teleprompter lançado no app Edits em abril/2026 (ref_social_media.md). Domínio: creators-ig-tiktok.
