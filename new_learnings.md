@@ -6,33 +6,7 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 
 <!-- Achados do research-scout serão adicionados aqui automaticamente -->
 
-### 2026-06-08
-
-- **[Google Antigravity — nova plataforma unificada substitui Gemini Code Assist a partir de 18/06](https://developers.google.com/gemini-code-assist/resources/release-notes)** — O Google encerra o Gemini Code Assist para usuários gratuitos e individuais em 18 de junho de 2026; migração obrigatória para o Antigravity, lançado no Google I/O 2026 com CLI dedicada (Antigravity CLI) e foco AI-first — todas as extensões de IDE do Gemini Code Assist serão desativadas para esses planos. Domínio: Dev Workflows.
-
-- **[X introduz ordenação algorítmica por IA na aba Following](https://socialbee.com/blog/twitter-updates/)** — O X passou a ordenar a aba "Following" (antes estritamente cronológica) com IA; criadores e marcas que dependiam da aba Following para distribuição garantida e previsível a seguidores fiéis perdem a garantia de sequência temporal — impacta estratégias de horário de postagem. Domínio: Social Media.
-
-- **[Instagram: compartilhamentos via DM são o principal sinal algorítmico de distribuição](https://blog.gainapp.com/social-media-updates/)** — O Instagram confirmou que "sends" (envios via DM) superam likes e comentários como indicador de valor de conteúdo; um post enviado privatamente sinaliza relevância genuína ao algoritmo — estratégia: criar conteúdo acionável, engraçado ou emocional que incentive o compartilhamento em mensagens diretas. Domínio: creators-ig-tiktok.
-
-- **[Instagram 2026: palavras-chave em legendas superam hashtags para descoberta orgânica](https://buffer.com/resources/instagram-algorithms/)** — Hashtags no Instagram não suportam mais "follows" e perderam peso no algoritmo; palavras-chave relevantes em legendas e perfis são o principal vetor de descoberta em 2026 — creators devem tratar legendas como SEO textual em vez de listas de tags. Domínio: creators-ig-tiktok.
-
 ### 2026-06-09
-
-- **[Claude Opus 4.8 — 88,6% em SWE-bench Verified com subagentes paralelos e modo fast 2,5×](https://llm-stats.com/llm-updates)** — A Anthropic lançou o Claude Opus 4.8 com nova pontuação de 88,6% no SWE-bench Verified, workflows nativos de subagentes paralelos e modo fast 2,5× mais rápido — ⚠️ supera o Claude Opus 4.7 (87,6%, abr/2026) como detentor do recorde em SWE-bench Verified (ref_ai_trends.md). Domínio: AI & LLMs.
-
-- **[OpenAI GPT-5.5 — nova família com variantes Pro (máximo desempenho) e Instant (baixa latência)](https://aiflashreport.com/model-releases.html)** — A OpenAI lançou o GPT-5.5 com as variantes GPT-5.5 Pro e GPT-5.5 Instant, expandindo a família GPT-5 para cobrir diferentes trade-offs de qualidade e velocidade — entra em competição direta com as variantes Claude 4.X de performance/custo da Anthropic. Domínio: AI & LLMs.
-
-- **[NVIDIA Nemotron 3 Ultra 550B — modelo open-weight MoE enterprise lançado em 4 de junho de 2026](https://llm-stats.com/ai-news)** — A NVIDIA lançou o Nemotron 3 Ultra 550B A55B (MoE com 55B parâmetros ativos) em 4 de junho de 2026: primeiro modelo open-weight de grande escala da NVIDIA voltado a uso enterprise — marca expansão estratégica da empresa para além de hardware rumo ao mercado de LLMs. Domínio: AI & LLMs.
-
-- **[Cursor 3.5 Cloud Agents — agentes rodam em VMs na nuvem com acesso multi-repo paralelo](https://releasebot.io/updates/cursor)** — Lançado em 20 de maio de 2026: agents do Cursor 3.5 executam em VMs isoladas na nuvem com acesso completo a terminal, browser e desktop, operam em múltiplos repositórios em paralelo e reportam resultados de volta à IDE de forma assíncrona — viabiliza tarefas de longa duração sem bloquear o fluxo de trabalho local. Domínio: Dev Workflows.
-
-- **[Cursor Design Mode — edição de UI no browser por clique, desenho ou voz durante execução de agente](https://releasebot.io/updates/cursor)** — O Cursor ganhou Design Mode para o browser: edição de UI por clique direto no elemento, desenho ou comando de voz com contexto completo de código e layout; input de voz permanece disponível enquanto um agente está em execução — elimina a alternância entre editor e browser em iterações de frontend. Domínio: Dev Workflows.
-
-- **[Figma Make — busca contexto ao vivo da web durante builds para fundamentar protótipos em dados reais](https://www.figma.com/release-notes/)** — O Figma Make agora puxa contexto da web em tempo real durante a criação (busca ampla ou URL específica) e inclui aprovação de tool calls antes que qualquer conteúdo externo entre na sessão — reduz alucinações e mantém designs alinhados a dados e conteúdo atualizado. Domínio: Design.
-
-- **[Framer repricing — assento de editor a US$ 20/mês e novo papel Content Editor a US$ 10/mês](https://blog.mean.ceo/framer-news-june-2026/)** — O Framer reformulou sua estrutura de preços em maio de 2026 com assentos de editor por US$ 20/mês e um novo papel dedicado de Content Editor por US$ 10/mês — barreira menor para equipes com colaboradores de conteúdo que não precisam editar design ou código. Domínio: Design.
-
-- **[Supabase capta US$ 500 milhões a valuation de US$ 10,5 bilhões](https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)** — A Supabase, plataforma open source de backend para devs e builders de AI apps, fechou rodada de US$ 500 milhões com valuation de US$ 10,5 bilhões em junho de 2026 — consolida-se como principal alternativa open source ao Firebase no stack de aplicações de IA. Domínio: Business.
 
 - **[AlphaSense capta US$ 350 milhões a valuation de US$ 7,5 bilhões](https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)** — A AlphaSense, plataforma de inteligência de mercado e orquestração de workflows enterprise com IA, fechou rodada de US$ 350 milhões a US$ 7,5 bilhões em junho de 2026 — posiciona análise financeira e competitiva com IA como segmento de alto crescimento no enterprise. Domínio: Business.
 
@@ -81,3 +55,29 @@ Staging area automática. Achados são promovidos semanalmente pelo scout-promot
 - **[Instagram "Originality Score" — IA penaliza alcance de conteúdo reciclado de outras plataformas](https://buffer.com/resources/instagram-algorithms/)** — O Instagram usa um "Originality Score" para detectar clips reciclados de outras plataformas; Reels com watermark do TikTok ou de apps de edição externos recebem penalidade severa de alcance — creators devem produzir conteúdo original ou remover todas as marcas d'água antes de republicar cruzado. Domínio: creators-ig-tiktok.
 
 - **[TikTok 2026: postar em 3+ nichos não relacionados causa penalidade de -45% de alcance](https://www.socialync.io/blog/tiktok-algorithm-2026-what-works-now)** — O algoritmo do TikTok em 2026 aplica penalidade de -45% de alcance a contas que postam em 3 ou mais nichos não relacionados — a maior penalidade documentada do TikTok; nicho único e consistente é crítico para expansão de distribuição além do público de seguidores já conquistados. Domínio: creators-ig-tiktok.
+
+### 2026-06-11
+
+- **[Gemma 4 12B — Google lança modelo open-source com 77,2% no MMLU Pro, superando o Gemma 3 27B](https://llm-stats.com/ai-news)** — O Google lançou o Gemma 4 12B em 3 de junho de 2026 com score de 77,2% no MMLU Pro, superando o Gemma 3 27B na mesma métrica apesar de ser um modelo menor — confirma eficiência crescente dos modelos open-source da série Gemma para uso local e em produção. Domínio: AI & LLMs.
+
+- **[Meta Muse Spark — primeiro LLM flagship da Meta sob os Superintelligence Labs de Alexandr Wang](https://blog.mean.ceo/agi-news-june-2026/)** — A Meta revelou o Muse Spark, seu primeiro LLM flagship desenvolvido sob a liderança de Alexandr Wang nos recém-formados Superintelligence Labs; entrega performance competitiva em percepção multimodal, raciocínio, saúde e tarefas agênticas — marca nova era estratégica da Meta em modelos de fronteira. Domínio: AI & LLMs.
+
+- **[GitHub Copilot migra para cobrança baseada em uso de AI Credits a partir de 1 de junho de 2026](https://releasebot.io/updates/github)** — O GitHub Copilot encerrou o modelo de taxa fixa de "premium request units" e migrou para AI Credits por consumo real a partir de 1 de junho de 2026 — equipes com picos de uso de agentes pagarão diferente de quem usa apenas funcionalidades básicas; exige monitoramento de consumo para controle de custos. Domínio: Dev Workflows.
+
+- **[MAI-Code-1-Flash — modelo de coding compacto da Microsoft para GitHub Copilot, líder em qualidade no tamanho](https://developer.microsoft.com/blog/build-recap)** — A Microsoft lançou o MAI-Code-1-Flash, modelo de IA de coding compacto projetado para o GitHub Copilot que supera outros modelos do mesmo porte nos benchmarks de coding — ideal para workflows leves de IDE sem impacto em latência, anunciado no Microsoft Build 2026. Domínio: Dev Workflows.
+
+- **[iOS 26 Liquid Glass — Apple redefine paradigma de interfaces na WWDC26 com material dinâmico e responsivo](https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html)** — Apresentado na WWDC26 em 8 de junho de 2026: o Liquid Glass transforma interfaces de camadas estáticas em "materiais vivos" que respondem a contexto, luz, movimento e interação — mudança de paradigma de design da Apple comparável ao flat design do iOS 7, com impacto direto em design systems e guidelines de UI para apps. Domínio: Design.
+
+- **[Ramp fecha rodada de US$ 750 milhões — maior funding individual da primeira semana de junho de 2026](https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)** — A Ramp, plataforma de gestão de gastos corporativos, fechou a maior rodada individual da semana com US$ 750 milhões — consolida a Ramp como líder em spend management B2B com IA e sinaliza apetite de mercado por ferramentas financeiras empresariais AI-native. Domínio: Business.
+
+- **[Instagram "Your Algo" — creators e usuários customizam o feed de Reels por tópico e interesse](https://blog.gainapp.com/social-media-updates/)** — O Instagram está lançando "Your Algo" para todos os usuários em inglês: permite adicionar ou remover tópicos do feed de Reels e selecionar os 3 principais interesses — creators ganham audiências mais qualificadas e intencionais; postagens em nichos declarados passam a ter distribuição mais previsível. Domínio: Social Media.
+
+- **[Facebook reformula interface do feed com novo compositor, layout imersivo For You e grid visual de busca](https://socialbee.com/blog/facebook-updates/)** — O Facebook anunciou atualização visual e algorítmica do feed: novo UI do compositor de posts, layout imersivo para a aba "For you", grid visual na seção de busca para todos os tipos de conteúdo e ferramenta de refinamento de algoritmo pelo usuário — apresentação mais próxima ao modelo TikTok/Instagram. Domínio: Social Media.
+
+- **[Instagram Trial Reels com rollout global — creators testam Reels em não-seguidores antes de publicar](https://socialbee.com/blog/instagram-updates/)** — O Instagram concluiu o rollout global do Trial Reels em junho de 2026: creators exibem um Reel exclusivamente para não-seguidores por até 24 horas antes de publicar, avaliando métricas de alcance e engajamento antes de comprometer o post — ideal para testar hooks e formatos sem arriscar a performance geral do canal. Domínio: creators-ig-tiktok.
+
+- **[Instagram permite reordenar fotos e vídeos de carrossel após publicação](https://www.heyorca.com/blog/instagram-social-news)** — O Instagram agora permite que creators reordenem as fotos e vídeos de um carrossel mesmo depois de o post ter sido publicado — elimina a necessidade de deletar e republicar para corrigir a sequência de slides, preservando todo o engajamento já acumulado. Domínio: creators-ig-tiktok.
+
+- **[TikTok DMs agora suportam mensagens de áudio e anexos de vídeo](https://socialbee.com/blog/tiktok-updates/)** — O TikTok expandiu os Direct Messages com suporte a mensagens de áudio e envio de vídeos como anexos — abre novas possibilidades para creators interagirem de forma mais rica com a comunidade e distribuírem conteúdo exclusivo diretamente via DM. Domínio: creators-ig-tiktok.
+
+- **[TikTok "Remove Background Noise" para lives no iOS — filtro de ruído para transmissões ao vivo](https://socialbee.com/blog/tiktok-updates/)** — O TikTok adicionou a opção "Remove Background Noise" nas configurações de vídeo ao vivo no iOS: filtro de áudio que isola a voz do creator e elimina ruídos de fundo durante transmissões — melhora qualidade de áudio de lives sem necessidade de equipamento externo. Domínio: creators-ig-tiktok.
