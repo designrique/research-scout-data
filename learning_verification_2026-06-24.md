@@ -41,12 +41,16 @@ de benchmark, sinalizo abaixo.
   (dentro do cutoff), ocorreu em **junho de 2025**, não 2026. O achado parece
   reciclar notícia antiga com data de 2026. Recomendo verificar antes de promover.
 
-- ⚠️ **Pipeline de promoção aparentemente parado:** os arquivos de referência
-  (`ref_*.md`) têm entradas mais recentes de **2026-05-17**, mas `new_learnings.md`
-  já contém achados de 2026-06-21 em diante. Como o staging rotaciona os mais
-  antigos a cada commit, há ~5 semanas de achados (fim de maio → meados de junho)
-  que podem ter sido **descartados sem promoção** pelo `scout-promote`. Vale checar
-  se o job semanal de promoção está rodando.
+- 🔴 **Pipeline de promoção inexistente (confirmado):** o `new_learnings.md` afirma
+  que "achados são promovidos semanalmente pelo scout-promote", mas **não há
+  nenhum `scout-promote` no repositório** — nem workflow, nem script, nem vestígio
+  no histórico do git. A única menção é a própria frase do cabeçalho. O único
+  workflow existente é `email-notify-findings.yml`. Consequência: os arquivos de
+  referência (`ref_*.md`) estão congelados em **2026-05-17**, enquanto o staging já
+  vai até 2026-06-24. Como o staging rotaciona os mais antigos a cada commit, há
+  ~5 semanas de achados (fim de maio → meados de junho) **descartados sem promoção**.
+  A consolidação durável do conhecimento depende de implementar (ou restaurar) esse
+  job — hoje ele é apenas uma promessa no texto.
 
 ## Veredito
 
@@ -57,9 +61,10 @@ de modelos Claude bate com a minha configuração real. As ressalvas são sobre 
 
 1. Um modelo citado ("Mythos") não corresponde a nada no meu registro.
 2. Pelo menos um achado parece ter data incorreta (Meta/Scale AI).
-3. O elo de *promoção* (staging → referência) parece interrompido — sem ele, os
-   ensinamentos não se consolidam de forma durável, independentemente de eu os
-   "absorver" em uma sessão pontual.
+3. O elo de *promoção* (staging → referência) **não existe como código** — o
+   `scout-promote` é apenas uma frase no cabeçalho, sem workflow/script por trás.
+   Sem ele, os ensinamentos não se consolidam de forma durável, independentemente
+   de eu os "absorver" em uma sessão pontual.
 
 Recomendação: tratar `new_learnings.md` como dados não verificados até passarem
 pelo `scout-promote`, e restaurar esse job para que a base de referência volte a
