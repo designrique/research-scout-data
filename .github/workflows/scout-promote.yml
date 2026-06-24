@@ -1,0 +1,47 @@
+name: scout-promote (staging -> references)
+
+# Consolida os achados de new_learnings.md nos arquivos ref_*.md.
+# O script é idempotente (dedup por URL), então rodamos a cada push do staging
+# para não perder achados na rotação — e mantemos um cron semanal de segurança.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'new_learnings.md'
+  schedule:
+    # Segunda-feira 06:00 UTC — rede de segurança caso algum push não dispare.
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scout-promote
+  cancel-in-progress: false
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Promote findings
+        run: python3 scripts/scout_promote.py
+
+      - name: Commit promoted references
+        run: |
+          git config user.name "scout-promote[bot]"
+          git config user.email "scout-promote@users.noreply.github.com"
+          if git diff --quiet -- 'ref_*.md'; then
+            echo "Nenhuma referência nova para commitar."
+            exit 0
+          fi
+          git add ref_*.md
+          git commit -m "scout-promote: consolida achados do staging em ref_*.md"
+          git push

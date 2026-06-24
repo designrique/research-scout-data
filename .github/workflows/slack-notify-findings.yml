@@ -1,4 +1,4 @@
-name: Email notify on new findings
+name: Slack notify on new findings
 
 on:
   push:
@@ -33,24 +33,27 @@ jobs:
           echo "skip=false" >> $GITHUB_OUTPUT
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
+          # Monta o texto da mensagem (Slack mrkdwn) e o serializa com jq.
+          REPO_URL="https://github.com/${{ github.repository }}/blob/main/new_learnings.md"
           {
-            echo "Research Scout encontrou $COUNT novidades em $(date '+%Y-%m-%d'):"
+            echo "*Research Scout — $COUNT novidades em $(date '+%Y-%m-%d')*"
             echo ""
             echo "$DIFF"
             echo ""
-            echo "---"
-            echo "Veja completo: https://github.com/${{ github.repository }}/blob/main/new_learnings.md"
-          } > /tmp/email_body.txt
+            echo "<$REPO_URL|Ver lista completa>"
+          } > /tmp/slack_text.txt
 
-      - name: Send email notification
+          jq -Rs '{text: .}' /tmp/slack_text.txt > /tmp/slack_payload.json
+
+      - name: Send Slack notification
         if: steps.findings.outputs.skip != 'true'
-        uses: dawidd6/action-send-mail@v3.12.0
-        with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: "Research Scout — ${{ steps.findings.outputs.count }} novidades encontradas"
-          to: ${{ secrets.EMAIL_TO }}
-          from: Research Scout <${{ secrets.EMAIL_USERNAME }}>
-          body: file:///tmp/email_body.txt
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK_URL" ]; then
+            echo "::error::Secret SLACK_WEBHOOK_URL não configurado."
+            exit 1
+          fi
+          curl -sS -X POST -H 'Content-type: application/json' \
+            --data @/tmp/slack_payload.json \
+            "$SLACK_WEBHOOK_URL"
