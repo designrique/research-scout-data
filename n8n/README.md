@@ -61,6 +61,24 @@ Comente **"IA"** em um post do @hdgpimentel (de outra conta). Em ~10–25s deve
 chegar a DM com botão **"Conhecer o MedCitado"** + resposta pública no comentário.
 Comente **"cardiologia"** para confirmar que NÃO dispara (validação do word-boundary).
 
+## Alerta automático por e-mail (falha no envio)
+
+Dois nós extras no fim do fluxo avisam o Henrique se o envio quebrar:
+
+`Reply publicly to comment` → **`Detectar falha no envio`** → **`Brevo: alerta e-mail`**
+
+- **`Detectar falha no envio`** (`alert-detect.node.js`): lê os resultados de
+  `Send DM (button)` e `Reply publicly to comment` (ambos com `neverError=true` +
+  `fullResponse=true`). Se algum tiver `statusCode >= 400` ou `body.error`, monta o
+  e-mail; senão não envia nada. Tem **throttle de 30min** (via `staticData`) pra não
+  floodar caso o token seja revogado e todo comentário passe a falhar.
+- **`Brevo: alerta e-mail`**: `POST https://api.brevo.com/v3/smtp/email` com `api-key`
+  inline (mesma conta Brevo dos outros workflows). De `noreply@henriquepimentel.com.br`
+  para **`hdgpimentel@gmail.com`**. O corpo (`$json.brevoBody`) traz o comentário, o
+  gatilho, o erro e o @ do lead pra recuperar manualmente.
+
+> A `api-key` do Brevo fica **apenas no workflow** (não versionada aqui).
+
 ## Observações
 - A mensagem do `ia` segue o tom CFM-compliant das demais (sem promessa de resultado clínico).
 - Para aceitar variações como `I.A.`, adicione uma chave extra no `KEYWORDS` (ex.: `'i.a'`).
