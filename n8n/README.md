@@ -8,6 +8,15 @@ GEO médico (MedCitado)**.
 - **Instância n8n:** VPS — base de webhook `https://webhook.mapc.com.br/`
 - **Webhook do Meta (já configurado):** `/webhook/insta-henrique-ebook` (GET verify + POST eventos)
 
+### Envio (importante — Instagram via Facebook Login)
+- Host: **`graph.facebook.com`** (não `graph.instagram.com`).
+- DM:    `POST /v22.0/549902958723736/messages` — **PAGE id** da página "Henrique Pimentel".
+- Reply: `POST /v22.0/{comment_id}/replies`.
+- Token: **Page access token** da página Henrique Pimentel (derivado do System User
+  token "Digital Fisher" — não expira).
+- ⚠️ Usar o **IG business id** (`17841400252960177`) em `/messages` dá
+  `(#3) Application does not have the capability...`. Tem que ser o **PAGE id**.
+
 > O workflow **já existia** e já era multi-palavra. Esta mudança apenas **estende**
 > o nó **`Config + Extract`** (não cria workflow novo, não mexe no webhook do Meta).
 
@@ -41,9 +50,11 @@ edição e sem SSH da VPS. Então a publicação é manual (1 minuto):
 1. Abra o n8n da VPS → workflow **`insta-henrique-ebook-reply`**.
 2. Abra o nó **`Config + Extract`**.
 3. Substitua todo o código pelo conteúdo de [`config-extract.node.js`](./config-extract.node.js).
-4. **Reponha o `IG_API_TOKEN`** com o token que já estava no nó
-   (o arquivo traz `COLE_AQUI_O_SEU_TOKEN_ATUAL` de propósito, para não versionar segredo).
-5. **Save** (o workflow já está *active*; não precisa republicar no Meta).
+4. **Reponha o `IG_API_TOKEN`** com o **Page access token** da página Henrique Pimentel
+   (o arquivo traz `COLE_AQUI_O_PAGE_ACCESS_TOKEN` de propósito, para não versionar segredo).
+5. Confirme que os nós **`Send DM (button)`** e **`Reply publicly to comment`** usam
+   `graph.facebook.com` (não `graph.instagram.com`).
+6. **Save** (o workflow já está *active*; não precisa republicar no Meta).
 
 ### Teste rápido
 Comente **"IA"** em um post do @hdgpimentel (de outra conta). Em ~10–25s deve

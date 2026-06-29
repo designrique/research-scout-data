@@ -11,12 +11,20 @@
 //     Sem isso, "ia" dispararia dentro de cardiologia, pediatria, fisioterapia,
 //     "queria", "dia" etc. Agora só dispara em palavras isoladas.
 //
-// ⚠️ TOKEN: mantenha o valor de IG_API_TOKEN que JÁ está no nó atual.
-//    O placeholder abaixo está redigido de propósito para não versionar segredo.
+// ⚠️ ENVIO (Instagram via Facebook Login / graph.facebook.com):
+//    - DM:     POST https://graph.facebook.com/v22.0/{IG_USER_ID}/messages
+//    - Reply:  POST https://graph.facebook.com/v22.0/{comment_id}/replies
+//    IG_USER_ID aqui é o **PAGE ID** (549902958723736 = página "Henrique Pimentel"),
+//    NÃO o IG business id (17841...). Mensagem exige PAGE id + PAGE token; usar o
+//    IG id dá erro "(#3) Application does not have the capability...".
+//
+// ⚠️ TOKEN: IG_API_TOKEN deve ser o **Page access token** da página Henrique Pimentel
+//    (derivado do System User token "Digital Fisher"; não expira). O placeholder
+//    abaixo está redigido de propósito para não versionar segredo.
 // ============================================================================
 
-const IG_API_TOKEN = 'COLE_AQUI_O_SEU_TOKEN_ATUAL'; // <-- não apague o token que já está nesse nó
-const IG_USER_ID = '28045678691686657';
+const IG_API_TOKEN = 'COLE_AQUI_O_PAGE_ACCESS_TOKEN'; // <-- Page token (não versionar)
+const IG_USER_ID = '549902958723736'; // PAGE ID (Henrique Pimentel), usado em /{id}/messages
 
 // Landing de VENDA de GEO médico — config única, reaproveitada por vários gatilhos.
 const MEDCITADO = {
