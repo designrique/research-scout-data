@@ -3,13 +3,13 @@
 // Nó: "Config + Extract"  (n8n-nodes-base.code, typeVersion 2)
 // Perfil: @hdgpimentel
 //
-// O QUE MUDOU NESTA VERSÃO
-//  1. NOVO gatilho "ia"  ->  Landing de VENDA de GEO médico (MedCitado):
-//        https://henriquepimentel.com.br/medcitado/
-//  2. Matcher passou a casar PALAVRA INTEIRA (word-boundary) em vez de
-//     substring. Sem isso, "ia" dispararia dentro de cardiologia, pediatria,
-//     fisioterapia, "queria", "dia" etc. Agora só dispara em "IA" isolado.
-//     (Também deixa ebook/geo/presenca mais precisos.)
+// O QUE ESTA VERSÃO FAZ
+//  1. Gatilhos de VENDA -> Landing MedCitado (https://henriquepimentel.com.br/medcitado/):
+//        "IA", "MEDCITADO" e "QUERO"  (todos apontam para a mesma página).
+//        Botão da DM: "Quero minha análise grátis".
+//  2. Matcher por PALAVRA INTEIRA (word-boundary) em vez de substring.
+//     Sem isso, "ia" dispararia dentro de cardiologia, pediatria, fisioterapia,
+//     "queria", "dia" etc. Agora só dispara em palavras isoladas.
 //
 // ⚠️ TOKEN: mantenha o valor de IG_API_TOKEN que JÁ está no nó atual.
 //    O placeholder abaixo está redigido de propósito para não versionar segredo.
@@ -17,6 +17,19 @@
 
 const IG_API_TOKEN = 'COLE_AQUI_O_SEU_TOKEN_ATUAL'; // <-- não apague o token que já está nesse nó
 const IG_USER_ID = '28045678691686657';
+
+// Landing de VENDA de GEO médico — config única, reaproveitada por vários gatilhos.
+const MEDCITADO = {
+  url: 'https://henriquepimentel.com.br/medcitado/',
+  body: 'O MedCitado faz o ChatGPT, Gemini, Perplexity, Claude e Copilot citarem você quando o paciente pergunta — site dentro do CFM, entrega em 14 dias e garantia de 60 dias. Dá uma olhada:',
+  btn: 'Quero minha análise grátis',
+  intros: [
+    'Olá! 🙏 Aqui está tudo sobre o MedCitado (GEO pra médicos).',
+    'Oi! Como prometido, segue a página do MedCitado.',
+    'Olá! Te trouxe o MedCitado — pra você ser citado pelas IAs.',
+    'Oi 👋 segue o link do MedCitado pra você.',
+  ],
+};
 
 const KEYWORDS = {
   ebook: {
@@ -52,20 +65,11 @@ const KEYWORDS = {
       'Olá! Te trouxe o passo a passo de GEO pra médicos.',
     ],
   },
-  // NOVO — landing de VENDA de GEO médico (MedCitado).
-  // Mantido por último: palavras de campanha mais específicas (ebook/geo/presenca)
-  // têm prioridade; "ia" é o gatilho de intenção de compra.
-  ia: {
-    url: 'https://henriquepimentel.com.br/medcitado/',
-    body: 'O MedCitado faz o ChatGPT, Gemini, Perplexity, Claude e Copilot citarem você quando o paciente pergunta — site dentro do CFM, entrega em 14 dias e garantia de 60 dias. Dá uma olhada:',
-    btn: 'Conhecer o MedCitado',
-    intros: [
-      'Olá! 🙏 Aqui está tudo sobre o MedCitado (GEO pra médicos).',
-      'Oi! Como prometido, segue a página do MedCitado.',
-      'Olá! Te trouxe o MedCitado — pra você ser citado pelas IAs.',
-      'Oi 👋 segue o link do MedCitado pra você.',
-    ],
-  },
+  // VENDA — múltiplos gatilhos para a mesma landing (MedCitado).
+  // Ficam por último: palavras de campanha (ebook/geo/presenca) têm prioridade.
+  ia: MEDCITADO,
+  medcitado: MEDCITADO,
+  quero: MEDCITADO,
 };
 
 const PUBLIC_REPLIES = [

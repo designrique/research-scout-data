@@ -13,11 +13,13 @@ GEO médico (MedCitado)**.
 
 ## O que mudou
 
-1. **Novo gatilho `IA`** → landing de **venda**: `https://henriquepimentel.com.br/medcitado/`
-   (MedCitado — ser citado por ChatGPT/Gemini/Perplexity/Claude/Copilot, dentro do CFM).
+1. **Gatilhos de venda `IA` / `MEDCITADO` / `QUERO`** → landing de **venda**:
+   `https://henriquepimentel.com.br/medcitado/` (MedCitado — ser citado por
+   ChatGPT/Gemini/Perplexity/Claude/Copilot, dentro do CFM).
+   Botão da DM: **"Quero minha análise grátis"**.
 2. **Matcher por palavra inteira** (`\b…\b`) em vez de *substring*.
    Sem isso o gatilho curto `ia` dispararia dentro de **cardiolog**ia, **pediatr**ia,
-   **fisioterap**ia, "quer**ia**", "d**ia**" etc. Agora só dispara em **"IA" isolada**.
+   **fisioterap**ia, "quer**ia**", "d**ia**" etc. Agora só dispara em palavra isolada.
 
 ### Gatilhos ativos depois da mudança
 
@@ -26,10 +28,10 @@ GEO médico (MedCitado)**.
 | `ebook` | E-book GEO grátis |
 | `presenca` | Artigo: reduzir faltas / agendamento |
 | `geo` | Guia (blog): aparecer no ChatGPT (CFM) |
-| **`IA`** | **Landing de VENDA — MedCitado** |
+| **`IA`**, **`MEDCITADO`**, **`QUERO`** | **Landing de VENDA — MedCitado** (botão "Quero minha análise grátis") |
 
-Prioridade: `ebook` → `presenca` → `geo` → `ia` (palavra de campanha vence; `ia`
-é o gatilho de intenção de compra).
+Prioridade: `ebook` → `presenca` → `geo` → venda (`ia`/`medcitado`/`quero`). As
+palavras de campanha vencem; os gatilhos de venda cobrem intenção de compra.
 
 ## Como publicar (a mudança NÃO foi aplicada automaticamente)
 
